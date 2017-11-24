@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="412436" real_name="Dan Benishek">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+					514 Cannon House Office Building
+					Washington, D.C. 20515-2201
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-4735 </phone>
+			<fax location="Washington"> 202-225-4710 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 3301 Veterans Drive, Suite 106
+     Traverse City, MI 49684 
+				]]>
+        	        </address>
+			<phone location="District Office"> 877-376-5613 </phone>
+			<fax location="District Office"> 877-504-0291 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 500 South Stephenson Avenue, Suite 500
+     Iron Mountain, MI 49801 
+				]]>
+                	</address>
+			<phone location="District Office"> 906-828-1581 </phone>
+			<fax location="District Office"> 906-828-1583 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 1349 South Otsego Avenue, Suite 7A
+      Gaylord, MI 49735  
+				]]>
+	                </address>
+			<phone location="District Office"> 989-448-8811 </phone>
+			<fax location="District Office"> 989-448-8858 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 307 South Front Street, Suite 120
+      Marquette, MI 49855 
+				]]>
+                	</address>
+			<phone location="District Office"> 906-273-1661 </phone>
+			<fax location="District Office"> 906-273-1663 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://benishek.house.gov/"/>
+		<facebook name="Facebook" url="foo"/>
+		<twitter name="Twitter" url="http://www.twitter.com/congressmandan"> @congressmandan </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> Daniel Benishek </alias>
+		<born name="Born"> 20-Apr-1952 </born>
+		<birthplace name="Birthplace"> Iron River, MI </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Roman Catholic </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Doctor </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BS Biology, University of Michigan </university>
+		<grad_school> MD, Wayne State University </grad_school>
+		<additional_school> foo </additional_school>
+		<first>  Surgeon in private practice </first>
+		<second> US Congressman, Michigan 1st </second>
+		<third> John McCain 2008 </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Agriculture </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Conservation, Energy, and Forestry </subcommittee>
+					<subcommittee id="b"> Subcommittee on General Farm Commodities and Risk Management </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Committee on Natural Resources </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Indian and Alaska Native Affairs </subcommittee>
+					<subcommittee id="b"> Subcommittee on Energy and Mineral Resources </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> House Committee on Veterans' Affairs </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> Subcommittee on Health </subcommittee>
+					<subcommittee id="b"> Subcommittee on Oversight and Investigations </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> House Committee on Science, Space, and Technology </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Research and Science Education </subcommittee>
+					<subcommittee id="b"> Subcommittee on Investigations and Oversight </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> John Billings </chief>
+		<scheduler name="Scheduler"> Kay Miller </scheduler>
+		<leg_director name="Legislative Director"> Michelle Lane </leg_director>
+		<com_director name="Press Secretary"> Shelby Hodgkins </com_director>
+	</office_staff>
+</name>

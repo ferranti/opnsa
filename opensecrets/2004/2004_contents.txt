@@ -1,0 +1,7 @@
+Archive:  2004.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+   210323  03-20-2014 12:35   contributions_2004.txt
+   215816  03-20-2014 12:35   industries_2004.txt
+---------                     -------
+   426139                     2 files

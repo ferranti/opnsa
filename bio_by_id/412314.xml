@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="412314" real_name="Aaron Schock">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+						328 Cannon House Office Building
+						Washington, D.C. 20515-1318
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-6201 </phone>
+			<fax location="Washington"> 202-225-9249 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[  	201 West Morgan Street
+      Jacksonville, IL 62650  
+				]]>
+        	        </address>
+			<phone location="District Office"> 217-245-1431 </phone>
+			<fax location="District Office"> 217-243-6852 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 235 South Sixth Street
+      Springfield, IL 62701  
+				]]>
+                	</address>
+			<phone location="District Office"> 217-670-1653 </phone>
+			<fax location="District Office">  217-670-1806 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 100 N.E. Monroe, Room 100
+      Peoria, IL 61602   
+				]]>
+	                </address>
+			<phone location="District Office"> 309-671-7027 </phone>
+			<fax location="District Office"> 309-671-7309  </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="foo"/>
+		<facebook name="Facebook" url="foo"/>
+		<twitter name="Twitter" url="foo"> @foo </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> foo </alias>
+		<born name="Born"> May 28, 1981 </born>
+		<birthplace name="Birthplace"> Morris, MN </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Baptist </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Real estate management </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> Illinois Central College </university>
+		<grad_school> BS, Bradley University </grad_school>
+		<additional_school> foo </additional_school>
+		<first> Illinois State Official Board of Education, Peoria </first>
+		<second> Illinois State House of Representatives 92nd </second>
+		<third> US Congressman, Illinois 18th </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on House Administration </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Elections </subcommittee>
+					<subcommittee id="b"> Subcommittee on Oversight </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Committee on Ways and Means </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Select Revenue Measures </subcommittee>
+					<subcommittee id="b"> Subcommittee on Social Security </subcommittee>
+					<subcommittee id="c"> Subcommittee on Trade </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Mark Roman </chief>
+		<scheduler name="Scheduler"> Sarah Rogers </scheduler>
+		<leg_director name="Legislative Director"> Mark Roman </leg_director>
+		<com_director name="Senior Adviser"> Ben Cole </com_director>
+	</office_staff>
+</name>

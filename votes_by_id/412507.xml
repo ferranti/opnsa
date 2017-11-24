@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="votes.xsl"?>
+<!DOCTYPE name SYSTEM "/votes_by_id/votes.dtd">
+<name id="412507" real_name="Schatz, Brian (Sen.) [D-HI]">
+  <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="232" source="senate.gov"
+  datetime="2012-12-27T17:33:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="38" nay="52" nv="10" present="0"/>
+  <question>On the Amendment S.Amdt. 3437 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Yea</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="233" source="senate.gov"
+  datetime="2012-12-27T18:06:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="37" nay="54" nv="9" present="0"/>
+  <question>On the Amendment S.Amdt. 3435 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Yea</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="234" source="senate.gov"
+  datetime="2012-12-27T18:26:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="12" nay="79" nv="9" present="0"/>
+  <question>On the Amendment S.Amdt. 3436 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="235" source="senate.gov"
+  datetime="2012-12-28T09:36:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="43" nay="52" nv="5" present="0"/>
+  <question>On the Amendment S.Amdt. 3439 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Yea</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="236" source="senate.gov"
+  datetime="2012-12-28T10:05:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="73" nay="23" nv="4" present="0"/>
+  <question>On Passage of the Bill H.R. 5949</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Nay</vote>
+  <result>Bill Passed</result>
+  <required>3/5</required>
+  </bill>
+  </name>

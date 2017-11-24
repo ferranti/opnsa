@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="412512" real_name="Ami Bera">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+						1408 Longworth House Office Building
+						Washington, D.C. 20515-0507
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-5716 </phone>
+			<fax location="Washington"> 202-226-1298 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 11070 White Rock Road, Suite 195
+      Rancho Cordova, CA 95670 
+				]]>
+        	        </address>
+			<phone location="District Office"> 916-635-0505 </phone>
+			<fax location="District Office"> 916-635-0514 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://bera.house.gov/"/>
+		<facebook name="Facebook" url="http://www.facebook.com/RepAmiBera"/>
+		<twitter name="Twitter" url="http://twitter.com/RepBera"> @RepBera </twitter>
+		<youtube name="YouTube" url="http://www.youtube.com/user/BeraForCongress"/>
+		<other name="Flicker" url="http://www.flickr.com/photos/beraforcongress"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> Ami B. Bera </alias>
+		<born name="Born"> March 2, 1965 </born>
+		<birthplace name="Birthplace"> Hollywood, CA </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Unitarian Universalist </religion>
+		<ethnicity name="Race or Ethnicity"> foo </ethnicity>
+		<occupation name="Occupation"> Doctor </occupation>
+		<party_affiliation name="Party Affiliation"> Democrat </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> Bachelor's Degree, University of California-Irvine </university>
+		<grad_school> MD, University of California-Irvine </grad_school>
+		<additional_school> foo </additional_school>
+		<first> Associate dean, University of California-Irvine School of Medicine </first>
+		<second> Chief medical officer, Sacramento County, Calif </second>
+		<third> U.S. House representing the 7th Congressional District of California </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Foreign Affairs </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Africa, Global Health, Global Human Rights, and International Organizations </subcommittee>
+					<subcommittee id="b"> Subcommittee on Asia and the Pacific </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Committee on Science, Space, and Technology </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Research and Technology </subcommittee>
+					<subcommittee id="b"> Subcommittee on Space </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Chad Obermiller </chief>
+		<scheduler name="Scheduler"> Erin Fyffe </scheduler>
+		<leg_director name="Legislative Director"> Vacant </leg_director>
+		<com_director name="Communications Director"> Allison Teixeira </com_director>
+	</office_staff>
+</name>

@@ -1,0 +1,167 @@
+<!ELEMENT name (year+, total_corp_all, total_industries_all)>
+
+<!ELEMENT year (corps+, total_corp, industries+, total_industries)>
+
+<!ELEMENT corps (alliant_tech, att, bae, boeing, booze, cali_inst, caci, comcast, comp_sci, dell, facebook, gen_atom, gen_dyn, google, harris, hp, ibm, l3, lockhead, mantech, microsoft, nat_cable, northrop, qualcomm, qwest, raytheon, saic, sra_int, unisys, united_tech, verizon)>
+
+<!ELEMENT alliant_tech (#PCDATA)>
+<!ELEMENT att (#PCDATA)>
+<!ELEMENT bae (#PCDATA)>
+<!ELEMENT boeing (#PCDATA)>
+<!ELEMENT booze (#PCDATA)>
+<!ELEMENT cali_inst (#PCDATA)>
+<!ELEMENT caci (#PCDATA)>
+<!ELEMENT comcast (#PCDATA)>
+<!ELEMENT comp_sci (#PCDATA)>
+<!ELEMENT dell (#PCDATA)>
+<!ELEMENT facebook (#PCDATA)>
+<!ELEMENT gen_atom (#PCDATA)>
+<!ELEMENT gen_dyn (#PCDATA)>
+<!ELEMENT google (#PCDATA)>
+<!ELEMENT harris (#PCDATA)>
+<!ELEMENT hp (#PCDATA)>
+<!ELEMENT ibm (#PCDATA)>
+<!ELEMENT l3 (#PCDATA)>
+<!ELEMENT lockhead (#PCDATA)>
+<!ELEMENT mantech (#PCDATA)>
+<!ELEMENT microsoft (#PCDATA)>
+<!ELEMENT nat_cable (#PCDATA)>
+<!ELEMENT northrop (#PCDATA)>
+<!ELEMENT qualcomm (#PCDATA)>
+<!ELEMENT qwest (#PCDATA)>
+<!ELEMENT raytheon (#PCDATA)>
+<!ELEMENT saic (#PCDATA)>
+<!ELEMENT sra_int (#PCDATA)>
+<!ELEMENT unisys (#PCDATA)>
+<!ELEMENT united_tech (#PCDATA)>
+<!ELEMENT verizon (#PCDATA)>
+
+<!ELEMENT total_corp (#PCDATA)>
+
+<!ELEMENT industries (misc_defense, comp_inter, defense_aero, tele_utils, elec_utils, elec_mfg, defense_elec)>
+
+<!ELEMENT misc_defense (#PCDATA)>
+<!ELEMENT comp_inter (#PCDATA)>
+<!ELEMENT defense_aero (#PCDATA)>
+<!ELEMENT tele_utils (#PCDATA)>
+<!ELEMENT elec_utils (#PCDATA)>
+<!ELEMENT elec_mfg (#PCDATA)>
+<!ELEMENT defense_elec (#PCDATA)>
+
+<!ELEMENT total_industries (#PCDATA)>
+
+<!ELEMENT total_corp_all (#PCDATA)>
+<!ELEMENT total_industries_all (#PCDATA)>
+
+<!ATTLIST name id CDATA #REQUIRED>
+<!ATTLIST name real_name CDATA #REQUIRED>
+
+<!ATTLIST year year CDATA #REQUIRED>
+
+<!ATTLIST alliant_tech name CDATA #REQUIRED>
+<!ATTLIST alliant_tech url CDATA #REQUIRED>
+
+<!ATTLIST att name CDATA #REQUIRED>
+<!ATTLIST att url CDATA #REQUIRED>
+
+<!ATTLIST bae name CDATA #REQUIRED>
+<!ATTLIST bae url CDATA #REQUIRED>
+
+<!ATTLIST boeing name CDATA #REQUIRED>
+<!ATTLIST boeing url CDATA #REQUIRED>
+
+<!ATTLIST booze name CDATA #REQUIRED>
+<!ATTLIST booze url CDATA #REQUIRED>
+
+<!ATTLIST cali_inst name CDATA #REQUIRED>
+<!ATTLIST cali_inst url CDATA #REQUIRED>
+
+<!ATTLIST caci name CDATA #REQUIRED>
+<!ATTLIST caci url CDATA #REQUIRED>
+
+<!ATTLIST comcast name CDATA #REQUIRED>
+<!ATTLIST comcast url CDATA #REQUIRED>
+
+<!ATTLIST comp_sci name CDATA #REQUIRED>
+<!ATTLIST comp_sci url CDATA #REQUIRED>
+
+<!ATTLIST dell name CDATA #REQUIRED>
+<!ATTLIST dell url CDATA #REQUIRED>
+
+<!ATTLIST facebook name CDATA #REQUIRED>
+<!ATTLIST facebook url CDATA #REQUIRED>
+
+<!ATTLIST gen_atom name CDATA #REQUIRED>
+<!ATTLIST gen_atom url CDATA #REQUIRED>
+
+<!ATTLIST gen_dyn name CDATA #REQUIRED>
+<!ATTLIST gen_dyn url CDATA #REQUIRED>
+
+<!ATTLIST google name CDATA #REQUIRED>
+<!ATTLIST google url CDATA #REQUIRED>
+
+<!ATTLIST harris name CDATA #REQUIRED>
+<!ATTLIST harris url CDATA #REQUIRED>
+
+<!ATTLIST hp name CDATA #REQUIRED>
+<!ATTLIST hp url CDATA #REQUIRED>
+
+<!ATTLIST ibm name CDATA #REQUIRED>
+<!ATTLIST ibm url CDATA #REQUIRED>
+
+<!ATTLIST l3 name CDATA #REQUIRED>
+<!ATTLIST l3 url CDATA #REQUIRED>
+
+<!ATTLIST lockhead name CDATA #REQUIRED>
+<!ATTLIST lockhead url CDATA #REQUIRED>
+
+<!ATTLIST mantech name CDATA #REQUIRED>
+<!ATTLIST mantech url CDATA #REQUIRED>
+
+<!ATTLIST microsoft name CDATA #REQUIRED>
+<!ATTLIST microsoft url CDATA #REQUIRED>
+
+<!ATTLIST nat_cable name CDATA #REQUIRED>
+<!ATTLIST nat_cable url CDATA #REQUIRED>
+
+<!ATTLIST northrop name CDATA #REQUIRED>
+<!ATTLIST northrop url CDATA #REQUIRED>
+
+<!ATTLIST qualcomm name CDATA #REQUIRED>
+<!ATTLIST qualcomm url CDATA #REQUIRED>
+
+<!ATTLIST qwest name CDATA #REQUIRED>
+<!ATTLIST qwest url CDATA #REQUIRED>
+
+<!ATTLIST raytheon name CDATA #REQUIRED>
+<!ATTLIST raytheon url CDATA #REQUIRED>
+
+<!ATTLIST saic name CDATA #REQUIRED>
+<!ATTLIST saic url CDATA #REQUIRED>
+
+<!ATTLIST sra_int name CDATA #REQUIRED>
+<!ATTLIST sra_int url CDATA #REQUIRED>
+
+<!ATTLIST unisys name CDATA #REQUIRED>
+<!ATTLIST unisys url CDATA #REQUIRED>
+
+<!ATTLIST united_tech name CDATA #REQUIRED>
+<!ATTLIST united_tech url CDATA #REQUIRED>
+
+<!ATTLIST verizon name CDATA #REQUIRED>
+<!ATTLIST verizon url CDATA #REQUIRED>
+
+<!ATTLIST misc_defense name CDATA #REQUIRED>
+
+<!ATTLIST comp_inter name CDATA #REQUIRED>
+
+<!ATTLIST defense_aero name CDATA #REQUIRED>
+
+<!ATTLIST tele_utils name CDATA #REQUIRED>
+
+<!ATTLIST elec_utils name CDATA #REQUIRED>
+
+<!ATTLIST elec_mfg name CDATA #REQUIRED>
+
+<!ATTLIST defense_elec name CDATA #REQUIRED>
+

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="400628" real_name="John Barrow">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+					2202 Rayburn House Office Building
+					Washington, D.C. 20515-1012
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-2823 </phone>
+			<fax location="Washington"> 02-225-3377 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ Enterprise Mill, Suite 550
+						1450 Greene Street 
+						Augusta, GA 30901
+				]]>
+        	        </address>
+			<phone location="District Office"> 706-722-4494 </phone>
+			<fax location="District Office"> 706-722-4496 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://www.barrow.house.gov/"/>
+		<facebook name="Facebook" url="foo"/>
+		<twitter name="Twitter" url="https://twitter.com/repjohnbarrow"> @repjohnbarrow </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> John Jenkins Barrow </alias>
+		<born name="Born"> 31-Oct-1955 </born>
+		<birthplace name="Birthplace"> Athens, GA </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Baptist </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Attorney </occupation>
+		<party_affiliation name="Party Affiliation"> Democrat </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BA, University of Georgia </university>
+		<grad_school> JD, Harvard Law School </grad_school>
+		<additional_school> foo </additional_school>
+		<first> Georgia State Official City-County Commissioner, Athens-Clarke County </first>
+		<second> US Congressman, Georgia </second>
+		<third> Gore 2000 </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Energy and Commerce </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Commerce, Manufacturing and Trade </subcommittee>
+					<subcommittee id="b"> Subcommittee on Energy and Power </subcommittee>
+					<subcommittee id="c"> Subcommittee on Environment and Economy </subcommittee>
+					<subcommittee id="d"> Subcommittee on Health </subcommittee>
+					<subcommittee id="a"> Subcommittee on Communications and Technology </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Committee of Veterans' Affairs </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Disability Assistance and Memorial Affairs  </subcommittee>
+					<subcommittee id="b"> Subcommittee on Oversight and Investigations </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Ashley Jones </chief>
+		<scheduler name="Scheduler"> Jessie Andrews </scheduler>
+		<leg_director name="Legislative Director"> Hill Thomas </leg_director>
+		<com_director name="Communications Director"> Richard Carbo </com_director>
+	</office_staff>
+</name>

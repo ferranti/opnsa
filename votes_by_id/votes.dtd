@@ -1,0 +1,24 @@
+<!ELEMENT name (bill+)>
+<!ELEMENT bill (roll, question?, source, vote, result, required)>
+<!ELEMENT roll (#PCDATA)>
+<!ELEMENT question (#PCDATA)>
+<!ELEMENT source (#PCDATA)>
+<!ELEMENT vote (#PCDATA)>
+<!ELEMENT result (#PCDATA)>
+<!ELEMENT required (#PCDATA)>
+<!ATTLIST name id CDATA #REQUIRED>
+<!ATTLIST name real_name CDATA #REQUIRED>
+<!ATTLIST bill number CDATA #REQUIRED>
+<!ATTLIST bill type CDATA #REQUIRED>
+<!ATTLIST bill session CDATA #IMPLIED>
+<!ATTLIST roll where CDATA #IMPLIED>
+<!ATTLIST roll session CDATA #IMPLIED>
+<!ATTLIST roll year CDATA #IMPLIED>
+<!ATTLIST roll source CDATA #IMPLIED>
+<!ATTLIST roll roll CDATA #REQUIRED>
+<!ATTLIST roll datetime CDATA #REQUIRED>
+<!ATTLIST roll updated CDATA #IMPLIED>
+<!ATTLIST roll aye CDATA #REQUIRED>
+<!ATTLIST roll nay CDATA #REQUIRED>
+<!ATTLIST roll nv CDATA #REQUIRED>
+<!ATTLIST roll present CDATA #REQUIRED>

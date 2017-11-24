@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="votes.xsl"?>
+<!DOCTYPE name SYSTEM "/votes_by_id/votes.dtd">
+<name id="400629" real_name="Obama, Barack (President) [D]">
+  <bill number="1927" session="110" type="s">
+  <roll where="senate" session="110" year="2007" roll="309" source="senate.gov"
+  datetime="2007-08-03T21:16:00-04:00" updated="2014-02-17T08:45:26-05:00"
+  aye="60" nay="28" nv="12" present="0"/>
+  <question>On Passage of the Bill S. 1927</question>
+  <source>https://govtrack.us/congress/bills/110/s1927</source>
+  <vote>Nay</vote>
+  <result>Bill Passed</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="6304" session="110" type="h">
+  <roll where="senate" session="110" year="2008" roll="158" source="senate.gov"
+  datetime="2008-06-25T18:25:00-04:00" updated="2014-02-17T08:47:16-05:00"
+  aye="80" nay="15" nv="5" present="0"/>
+  <question>On Cloture on the Motion to Proceed H.R. 6304</question>
+  <source>https://govtrack.us/congress/bills/110/hr6304</source>
+  <vote>Not Voting</vote>
+  <result>Cloture on the Motion to Proceed Agreed to</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="6304" session="110" type="h">
+  <roll where="senate" session="110" year="2008" roll="164" source="senate.gov"
+  datetime="2008-07-09T11:55:00-04:00" updated="2014-02-17T08:47:16-05:00"
+  aye="32" nay="66" nv="2" present="0"/>
+  <question>On the Amendment S.Amdt. 5064 to H.R. 6304 (Foreign Intelligence Surveillance Act of 1978)</question>
+  <source>https://govtrack.us/congress/bills/110/hr6304</source>
+  <vote>Yea</vote>
+  <result>Amendment Rejected</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="6304" session="110" type="h">
+  <roll where="senate" session="110" year="2008" roll="165" source="senate.gov"
+  datetime="2008-07-09T12:20:00-04:00" updated="2014-02-17T08:47:16-05:00"
+  aye="37" nay="61" nv="2" present="0"/>
+  <question>On the Amendment S.Amdt. 5059 to H.R. 6304 (Foreign Intelligence Surveillance Act of 1978)</question>
+  <source>https://govtrack.us/congress/bills/110/hr6304</source>
+  <vote>Yea</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="6304" session="110" type="h">
+  <roll where="senate" session="110" year="2008" roll="166" source="senate.gov"
+  datetime="2008-07-09T12:39:00-04:00" updated="2014-02-17T08:47:16-05:00"
+  aye="42" nay="56" nv="2" present="0"/>
+  <question>On the Amendment S.Amdt. 5066 to H.R. 6304 (Foreign Intelligence Surveillance Act of 1978)</question>
+  <source>https://govtrack.us/congress/bills/110/hr6304</source>
+  <vote>Yea</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="6304" session="110" type="h">
+  <roll where="senate" session="110" year="2008" roll="167" source="senate.gov"
+  datetime="2008-07-09T14:17:00-04:00" updated="2014-02-17T08:47:16-05:00"
+  aye="72" nay="26" nv="2" present="0"/>
+  <question>On the Cloture Motion H.R. 6304</question>
+  <source>https://govtrack.us/congress/bills/110/hr6304</source>
+  <vote>Yea</vote>
+  <result>Cloture Motion Agreed to</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="6304" session="110" type="h">
+  <roll where="senate" session="110" year="2008" roll="168" source="senate.gov"
+  datetime="2008-07-09T14:47:00-04:00" updated="2014-02-17T08:47:16-05:00"
+  aye="69" nay="28" nv="3" present="0"/>
+  <question>On Passage of the Bill H.R. 6304</question>
+  <source>https://govtrack.us/congress/bills/110/hr6304</source>
+  <vote>Yea</vote>
+  <result>Bill Passed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2082" session="110" type="h">
+  <roll where="senate" session="110" year="2008" roll="21" source="senate.gov"
+  datetime="2008-02-13T11:06:00-05:00" updated="2014-02-17T08:47:24-05:00"
+  aye="92" nay="4" nv="4" present="0"/>
+  <question>On the Cloture Motion H.R. 2082</question>
+  <source>https://govtrack.us/congress/bills/110/hr2082</source>
+  <vote>Not Voting</vote>
+  <result>Cloture Motion Agreed to</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="2082" session="110" type="h">
+  <roll where="senate" session="110" year="2008" roll="22" source="senate.gov"
+  datetime="2008-02-13T16:31:00-05:00" updated="2014-02-17T08:47:24-05:00"
+  aye="51" nay="45" nv="4" present="0"/>
+  <question>On the Conference Report H.R. 2082</question>
+  <source>https://govtrack.us/congress/bills/110/hr2082</source>
+  <vote>Not Voting</vote>
+  <result>Conference Report Agreed to</result>
+  <required>1/2</required>
+  </bill>
+  </name>

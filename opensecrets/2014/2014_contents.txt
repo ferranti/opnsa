@@ -1,0 +1,7 @@
+Archive:  2014.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+   286455  03-20-2014 10:54   contributions_2014.txt
+   280278  03-20-2014 10:54   industries_2014.txt
+---------                     -------
+   566733                     2 files

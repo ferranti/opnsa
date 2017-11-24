@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="412502" real_name="Ron Barber">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+					1029 Longworth House Office Building
+					Washington, D.C. 20515-0302
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-2542 </phone>
+			<fax location="Washington"> 202-225-0378 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 77 Calle Portal, Suite B-160
+     Sierra Vista, AZ 85635 
+				]]>
+        	        </address>
+			<phone location="District Office"> 520-459-3115 </phone>
+			<fax location="District Office"> 520-459-5419 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 3945 East Fort Lowell Road, Suite 211
+Tucson, AZ 85712 
+				]]>
+                	</address>
+			<phone location="District Office"> 520-881-3588 </phone>
+			<fax location="District Office"> 520-322-9490 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://barber.house.gov/"/>
+		<facebook name="Facebook" url="foo"/>
+		<twitter name="Twitter" url="http://www.twitter.com/RepRonBarber"> @RepRonBarber </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> foo </alias>
+		<born name="Born"> 25-Aug-1945 </born>
+		<birthplace name="Birthplace"> Wakefield, West Yorkshire, England </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> foo </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Business Owner, Public employee </occupation>
+		<party_affiliation name="Party Affiliation"> Democratic </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BA, University of Arizona </university>
+		<grad_school> foo </grad_school>
+		<additional_school> foo </additional_school>
+		<first>  foo </first>
+		<second> Arizona State Official Dept. of Economic Security </second>
+		<third> Congressional Staff to Gabrielle Giffords </third>
+		<fourth> US Congressman, Arizona 8th </fourth>
+		<fifth> US Congressman, Arizona 2nd </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Armed Services </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Readiness </subcommittee>
+					<subcommittee id="b"> Subcommittee on Tactical Air and Land Forces </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Committee on Homeland Security </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Oversight and Management Efficiency </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> House Committee on Small Business </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> Subcommittee on Agriculture, Energy and Trade </subcommittee>
+					<subcommittee id="b"> Subcommittee on Economic Growth, Tax and Capital Access </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> Armed Services Committee </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> Homeland Security Committee </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Jennifer Cox </chief>
+		<scheduler name="Scheduler"> Melissa Rasowsky </scheduler>
+		<leg_director name="Legislative Director"> Lauren Alfred </leg_director>
+		<com_director name="Communications Director"> Mark Kimble </com_director>
+	</office_staff>
+</name>

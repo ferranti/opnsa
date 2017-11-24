@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="400004" real_name="Robert B. Aderholt">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+					2369 Rayburn House Office Building
+					Washington, D.C. 20515-0104
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-4876 </phone>
+			<fax location="Washington"> 202-225-5587 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ Carl Elliott Federal Building, Room 247
+					1710 Alabama Avenue
+					Jasper, AL 35501-5400  
+				]]>
+        	        </address>
+			<phone location="District Office"> 205-221-2310 </phone>
+			<fax location="District Office"> 205-221-9035 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 205 Fourth Avenue Northeast, Suite 104
+     Cullman, AL 35055  
+				]]>
+                	</address>
+			<phone location="District Office"> 256-734-6043 </phone>
+			<fax location="District Office"> 256-737-0885 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ Federal Building, Suite 107
+					600 Broad Street
+					Gadsden, AL 35901-3745  
+				]]>
+	                </address>
+			<phone location="District Office"> 256-546-0201 </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 1011 George Wallace Boulevard, Suite 146
+     Tuscumbia, AL 35674 
+				]]>
+                	</address>
+			<phone location="District Office"> 256-381-3450 </phone>
+			<fax location="District Office"> 256-381-7659 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://aderholt.house.gov/"/>
+		<facebook name="Facebook" url="https://www.facebook.com/RobertAderholt"/>
+		<twitter name="Twitter" url="https://twitter.com/robert_aderholt"> @robert_aderholt </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> foo </alias>
+		<born name="Born"> 22-Jul-1965 </born>
+		<birthplace name="Birthplace"> Haleyville, AL </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Congregationalist </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Municipal Judge </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BA, Birmingham-Southern College </university>
+		<grad_school>  JD, Samford University </grad_school>
+		<additional_school> University of North Alabama </additional_school>
+		<first> Alabama State Official Municipal Judge, Haleyville, AL </first>
+		<second> George W. Bush for President </second>
+		<third> Alabama State Official Staff, for Gov. Fob James </third>
+		<fourth> US Congressman, Alabama 4th </fourth>
+		<fifth> Bush-Cheney '04 </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Appropriations </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies </subcommittee>
+					<subcommittee id="b"> Subcommittee on Homeland Security </subcommittee>
+					<subcommittee id="c"> Subcommittee on Commerce, Justice, Science, and Related Agencies </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Committee on Appropriations </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies </subcommittee>
+					<subcommittee id="b"> Subcommittee on Defense </subcommittee>
+					<subcommittee id="c"> Subcommittee on Commerce, Justice, Science, and Related Agencies </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> House Committee on Appropriations </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> Subcommittee on Homeland Security </subcommittee>
+					<subcommittee id="b"> ubcommittee on Legislative Branch </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Brian Rell </chief>
+		<scheduler name="Scheduler"> Stephanie Brown </scheduler>
+		<leg_director name="Legislative Director"> Mark Dawson </leg_director>
+		<com_director name="Communications Director"> Anne Marie Malecha </com_director>
+	</office_staff>
+</name>

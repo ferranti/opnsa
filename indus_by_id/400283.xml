@@ -1,0 +1,422 @@
+<!-- Replace 'some_id', 'name', 'foo' for each category -->
+<?xsl version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="industries.xsl"?>
+<!DOCTYPE name SYSTEM "/corp_by_id/corps.dtd">
+<name id="400283" real_name="Moran, Jim">
+<year year="1998">
+<corps>
+<alliant_tech name="Alliant Technologies" url="http://www.atk.com/">foo</alliant_tech>
+<att name="AT&amp;T" url="http://www.corp.att.com/gov/">foo</att>
+<bae name="BAE Systems" url="http://www.baesystems.com/our-company-rus/inc-businesses/intelligence-&amp;-security">$2,000</bae>
+<boeing name="Boeing" url="http://www.boeing.com/boeing/bds/c4isr_cyber/isr/index.page">$2,750</boeing>
+<booze name="Booze Allen Hamilton" url="http://www.boozallen.com/consultants/civilian-government/homeland-security-consulting/intel-operations">foo</booze>
+<cali_inst name="California Institute of Technology" url="http://governmentrelations.caltech.edu/federal">foo</cali_inst>
+<caci name="CACI" url="http://www.caci.com/about/hist.shtml">foo</caci>
+<comcast name="Comcast, Inc" url="http://business.comcast.com/ethernet/industry-solutions/government">foo</comcast>
+<comp_sci name="Computer Sciences Corporation" url="http://www.csc.com/">$2,500</comp_sci>
+<dell name="Dell, Inc" url="http://www.dell.com/us/fedgov/p">foo</dell>
+<facebook name="Facebook" url="https://www.facebook.com/about/government_requests">foo</facebook>
+<gen_atom name="General Atomics" url="http://www.ga-si.com/">foo</gen_atom>
+<gen_dyn name="General Dynamics" url="http://www.gd-imaging.com/Applications.xml">$4,000</gen_dyn>
+<google name="Google, Inc" url="https://www.google.com/intl/en/policies/privacy/">foo</google>
+<harris name="Harris Corporation" url="http://harris.com/products/national-intelligence.aspx">foo</harris>
+<hp name="Hewlett Packard" url="http://www8.hp.com/us/en/hp-information/government-affairs/main.html">foo</hp>
+<ibm name="IBM International Business Machines" url="http://researcher.watson.ibm.com/researcher/view_project.php?id=1394">foo</ibm>
+<l3 name="Level 3 Communications" url="http://www.level3.com/">foo</l3>
+<lockhead name="Lockheed Martin" url="http://www.lockheedmartin.com/us/what-we-do/information-technology.html">foo</lockhead>
+<mantech name="Mantech International" url="http://www.mantech.com/contracts/Pages/default.aspx">$14,750</mantech>
+<microsoft name="Microsoft" url="http://www.microsoft.com/dynamics/en/za/industries/government-contracting.aspx">foo</microsoft>
+<nat_cable name="National Cable" url="https://www.ncta.com/">foo</nat_cable>
+<northrop name="Northrop Grumman" url="http://www.northropgrumman.com/capabilities/c4isr/Pages/default.aspx">foo</northrop>
+<qualcomm name="Qualcomm" url="http://www.qualcomm.com/about/businesses/qgov">foo</qualcomm>
+<qwest name="Qwest Communications" url="http://www.centurylink.com/business/federal-gov/">foo</qwest>
+<raytheon name="Raytheon" url="http://www.raytheon.com/capabilities/c4isr/">$3,500</raytheon>
+<saic name="SAIC" url="http://www.saic.com/services-solutions/crisis-management-security/security-surveillance/">foo</saic>
+<sra_int name="SRA International" url="http://www.sra.com/business-intelligence/">foo</sra_int>
+<unisys name="Unisys" url="http://www.unisys.com/unisys/theme/index.jsp?id=16000012">foo</unisys>
+<united_tech name="United Technologies" url="http://www.governmentspending.us/contractors/united-technologies-corporation/75271">foo</united_tech>
+<verizon name="Verizon" url="http://business.verizonwireless.com/content/b2b/en/wireless-government.html">$3,000</verizon>
+</corps>
+<total_corp>$32,500</total_corp>
+<industries>
+<misc_defense name="Misc Defense">$32,000</misc_defense>
+<comp_inter name="Computers/Internet">$12,550</comp_inter>
+<defense_aero name="Defense Aerospace">$6,500</defense_aero>
+<tele_utils name="Telephone Utilities">$15,000</tele_utils>
+<elec_utils name="Electrical Utilities">$9,000</elec_utils>
+<elec_mfg name="Electronics Manufacturing">$3,500</elec_mfg>
+<defense_elec name="Defense Electronics">$34,350</defense_elec>
+</industries>
+<total_industries>$112,900</total_industries>
+</year>
+<year year="2000">
+<corps>
+<alliant_tech name="Alliant Technologies" url="http://www.atk.com/">foo</alliant_tech>
+<att name="AT&amp;T" url="http://www.corp.att.com/gov/">$4,750</att>
+<bae name="BAE Systems" url="http://www.baesystems.com/our-company-rus/inc-businesses/intelligence-&amp;-security">$3,000</bae>
+<boeing name="Boeing" url="http://www.boeing.com/boeing/bds/c4isr_cyber/isr/index.page">$39,550</boeing>
+<booze name="Booze Allen Hamilton" url="http://www.boozallen.com/consultants/civilian-government/homeland-security-consulting/intel-operations">foo</booze>
+<cali_inst name="California Institute of Technology" url="http://governmentrelations.caltech.edu/federal">foo</cali_inst>
+<caci name="CACI" url="http://www.caci.com/about/hist.shtml">foo</caci>
+<comcast name="Comcast, Inc" url="http://business.comcast.com/ethernet/industry-solutions/government">foo</comcast>
+<comp_sci name="Computer Sciences Corporation" url="http://www.csc.com/">foo</comp_sci>
+<dell name="Dell, Inc" url="http://www.dell.com/us/fedgov/p">foo</dell>
+<facebook name="Facebook" url="https://www.facebook.com/about/government_requests">foo</facebook>
+<gen_atom name="General Atomics" url="http://www.ga-si.com/">foo</gen_atom>
+<gen_dyn name="General Dynamics" url="http://www.gd-imaging.com/Applications.xml">$3,500</gen_dyn>
+<google name="Google, Inc" url="https://www.google.com/intl/en/policies/privacy/">foo</google>
+<harris name="Harris Corporation" url="http://harris.com/products/national-intelligence.aspx">foo</harris>
+<hp name="Hewlett Packard" url="http://www8.hp.com/us/en/hp-information/government-affairs/main.html">foo</hp>
+<ibm name="IBM International Business Machines" url="http://researcher.watson.ibm.com/researcher/view_project.php?id=1394">foo</ibm>
+<l3 name="Level 3 Communications" url="http://www.level3.com/">foo</l3>
+<lockhead name="Lockheed Martin" url="http://www.lockheedmartin.com/us/what-we-do/information-technology.html">$6,500</lockhead>
+<mantech name="Mantech International" url="http://www.mantech.com/contracts/Pages/default.aspx">$11,000</mantech>
+<microsoft name="Microsoft" url="http://www.microsoft.com/dynamics/en/za/industries/government-contracting.aspx">$6,500</microsoft>
+<nat_cable name="National Cable" url="https://www.ncta.com/">foo</nat_cable>
+<northrop name="Northrop Grumman" url="http://www.northropgrumman.com/capabilities/c4isr/Pages/default.aspx">$3,500</northrop>
+<qualcomm name="Qualcomm" url="http://www.qualcomm.com/about/businesses/qgov">foo</qualcomm>
+<qwest name="Qwest Communications" url="http://www.centurylink.com/business/federal-gov/">foo</qwest>
+<raytheon name="Raytheon" url="http://www.raytheon.com/capabilities/c4isr/">$3,000</raytheon>
+<saic name="SAIC" url="http://www.saic.com/services-solutions/crisis-management-security/security-surveillance/">foo</saic>
+<sra_int name="SRA International" url="http://www.sra.com/business-intelligence/">foo</sra_int>
+<unisys name="Unisys" url="http://www.unisys.com/unisys/theme/index.jsp?id=16000012">foo</unisys>
+<united_tech name="United Technologies" url="http://www.governmentspending.us/contractors/united-technologies-corporation/75271">$2,000</united_tech>
+<verizon name="Verizon" url="http://business.verizonwireless.com/content/b2b/en/wireless-government.html">foo</verizon>
+</corps>
+<total_corp>$83,300</total_corp>
+<industries>
+<misc_defense name="Misc Defense">$37,500</misc_defense>
+<comp_inter name="Computers/Internet">$47,015</comp_inter>
+<defense_aero name="Defense Aerospace">$19,500</defense_aero>
+<tele_utils name="Telephone Utilities">$10,750</tele_utils>
+<elec_utils name="Electrical Utilities">$10,500</elec_utils>
+<elec_mfg name="Electronics Manufacturing">$4,500</elec_mfg>
+<defense_elec name="Defense Electronics">$68,375</defense_elec>
+</industries>
+<total_industries>$198,140</total_industries>
+</year>
+<year year="2002">
+<corps>
+<alliant_tech name="Alliant Technologies" url="http://www.atk.com/">foo</alliant_tech>
+<att name="AT&amp;T" url="http://www.corp.att.com/gov/">foo</att>
+<bae name="BAE Systems" url="http://www.baesystems.com/our-company-rus/inc-businesses/intelligence-&amp;-security">$3,000</bae>
+<boeing name="Boeing" url="http://www.boeing.com/boeing/bds/c4isr_cyber/isr/index.page">$24,650</boeing>
+<booze name="Booze Allen Hamilton" url="http://www.boozallen.com/consultants/civilian-government/homeland-security-consulting/intel-operations">foo</booze>
+<cali_inst name="California Institute of Technology" url="http://governmentrelations.caltech.edu/federal">foo</cali_inst>
+<caci name="CACI" url="http://www.caci.com/about/hist.shtml">foo</caci>
+<comcast name="Comcast, Inc" url="http://business.comcast.com/ethernet/industry-solutions/government">foo</comcast>
+<comp_sci name="Computer Sciences Corporation" url="http://www.csc.com/">foo</comp_sci>
+<dell name="Dell, Inc" url="http://www.dell.com/us/fedgov/p">foo</dell>
+<facebook name="Facebook" url="https://www.facebook.com/about/government_requests">foo</facebook>
+<gen_atom name="General Atomics" url="http://www.ga-si.com/">foo</gen_atom>
+<gen_dyn name="General Dynamics" url="http://www.gd-imaging.com/Applications.xml">$5,000</gen_dyn>
+<google name="Google, Inc" url="https://www.google.com/intl/en/policies/privacy/">foo</google>
+<harris name="Harris Corporation" url="http://harris.com/products/national-intelligence.aspx">foo</harris>
+<hp name="Hewlett Packard" url="http://www8.hp.com/us/en/hp-information/government-affairs/main.html">foo</hp>
+<ibm name="IBM International Business Machines" url="http://researcher.watson.ibm.com/researcher/view_project.php?id=1394">foo</ibm>
+<l3 name="Level 3 Communications" url="http://www.level3.com/">foo</l3>
+<lockhead name="Lockheed Martin" url="http://www.lockheedmartin.com/us/what-we-do/information-technology.html">$12,330</lockhead>
+<mantech name="Mantech International" url="http://www.mantech.com/contracts/Pages/default.aspx">$23,000</mantech>
+<microsoft name="Microsoft" url="http://www.microsoft.com/dynamics/en/za/industries/government-contracting.aspx">$5,000</microsoft>
+<nat_cable name="National Cable" url="https://www.ncta.com/">foo</nat_cable>
+<northrop name="Northrop Grumman" url="http://www.northropgrumman.com/capabilities/c4isr/Pages/default.aspx">$15,000</northrop>
+<qualcomm name="Qualcomm" url="http://www.qualcomm.com/about/businesses/qgov">foo</qualcomm>
+<qwest name="Qwest Communications" url="http://www.centurylink.com/business/federal-gov/">foo</qwest>
+<raytheon name="Raytheon" url="http://www.raytheon.com/capabilities/c4isr/">$7,000</raytheon>
+<saic name="SAIC" url="http://www.saic.com/services-solutions/crisis-management-security/security-surveillance/">foo</saic>
+<sra_int name="SRA International" url="http://www.sra.com/business-intelligence/">$2,050</sra_int>
+<unisys name="Unisys" url="http://www.unisys.com/unisys/theme/index.jsp?id=16000012">foo</unisys>
+<united_tech name="United Technologies" url="http://www.governmentspending.us/contractors/united-technologies-corporation/75271">foo</united_tech>
+<verizon name="Verizon" url="http://business.verizonwireless.com/content/b2b/en/wireless-government.html">foo</verizon>
+</corps>
+<total_corp>$97,030</total_corp>
+<industries>
+<misc_defense name="Misc Defense">$94,950</misc_defense>
+<comp_inter name="Computers/Internet">$54,800</comp_inter>
+<defense_aero name="Defense Aerospace">$39,580</defense_aero>
+<tele_utils name="Telephone Utilities">$12,250</tele_utils>
+<elec_utils name="Electrical Utilities">$4,000</elec_utils>
+<elec_mfg name="Electronics Manufacturing">$17,000</elec_mfg>
+<defense_elec name="Defense Electronics">$94,000</defense_elec>
+</industries>
+<total_industries>$316,580</total_industries>
+</year>
+<year year="2004">
+<corps>
+<alliant_tech name="Alliant Technologies" url="http://www.atk.com/">foo</alliant_tech>
+<att name="AT&amp;T" url="http://www.corp.att.com/gov/">foo</att>
+<bae name="BAE Systems" url="http://www.baesystems.com/our-company-rus/inc-businesses/intelligence-&amp;-security">$12,500</bae>
+<boeing name="Boeing" url="http://www.boeing.com/boeing/bds/c4isr_cyber/isr/index.page">$20,500</boeing>
+<booze name="Booze Allen Hamilton" url="http://www.boozallen.com/consultants/civilian-government/homeland-security-consulting/intel-operations">foo</booze>
+<cali_inst name="California Institute of Technology" url="http://governmentrelations.caltech.edu/federal">foo</cali_inst>
+<caci name="CACI" url="http://www.caci.com/about/hist.shtml">foo</caci>
+<comcast name="Comcast, Inc" url="http://business.comcast.com/ethernet/industry-solutions/government">foo</comcast>
+<comp_sci name="Computer Sciences Corporation" url="http://www.csc.com/">$5,000</comp_sci>
+<dell name="Dell, Inc" url="http://www.dell.com/us/fedgov/p">foo</dell>
+<facebook name="Facebook" url="https://www.facebook.com/about/government_requests">foo</facebook>
+<gen_atom name="General Atomics" url="http://www.ga-si.com/">foo</gen_atom>
+<gen_dyn name="General Dynamics" url="http://www.gd-imaging.com/Applications.xml">$15,000</gen_dyn>
+<google name="Google, Inc" url="https://www.google.com/intl/en/policies/privacy/">foo</google>
+<harris name="Harris Corporation" url="http://harris.com/products/national-intelligence.aspx">foo</harris>
+<hp name="Hewlett Packard" url="http://www8.hp.com/us/en/hp-information/government-affairs/main.html">$1,000</hp>
+<ibm name="IBM International Business Machines" url="http://researcher.watson.ibm.com/researcher/view_project.php?id=1394">foo</ibm>
+<l3 name="Level 3 Communications" url="http://www.level3.com/">$3,000</l3>
+<lockhead name="Lockheed Martin" url="http://www.lockheedmartin.com/us/what-we-do/information-technology.html">$13,250</lockhead>
+<mantech name="Mantech International" url="http://www.mantech.com/contracts/Pages/default.aspx">$60,500</mantech>
+<microsoft name="Microsoft" url="http://www.microsoft.com/dynamics/en/za/industries/government-contracting.aspx">$5,000</microsoft>
+<nat_cable name="National Cable" url="https://www.ncta.com/">foo</nat_cable>
+<northrop name="Northrop Grumman" url="http://www.northropgrumman.com/capabilities/c4isr/Pages/default.aspx">$24,000</northrop>
+<qualcomm name="Qualcomm" url="http://www.qualcomm.com/about/businesses/qgov">foo</qualcomm>
+<qwest name="Qwest Communications" url="http://www.centurylink.com/business/federal-gov/">foo</qwest>
+<raytheon name="Raytheon" url="http://www.raytheon.com/capabilities/c4isr/">$10,000</raytheon>
+<saic name="SAIC" url="http://www.saic.com/services-solutions/crisis-management-security/security-surveillance/">$10,000</saic>
+<sra_int name="SRA International" url="http://www.sra.com/business-intelligence/">$7,000</sra_int>
+<unisys name="Unisys" url="http://www.unisys.com/unisys/theme/index.jsp?id=16000012">foo</unisys>
+<united_tech name="United Technologies" url="http://www.governmentspending.us/contractors/united-technologies-corporation/75271">$2,000</united_tech>
+<verizon name="Verizon" url="http://business.verizonwireless.com/content/b2b/en/wireless-government.html">foo</verizon>
+</corps>
+<total_corp>$188,750</total_corp>
+<industries>
+<misc_defense name="Misc Defense">$192,534</misc_defense>
+<comp_inter name="Computers/Internet">$108,480</comp_inter>
+<defense_aero name="Defense Aerospace">$54,250</defense_aero>
+<tele_utils name="Telephone Utilities">$6,000</tele_utils>
+<elec_utils name="Electrical Utilities">foo</elec_utils>
+<elec_mfg name="Electronics Manufacturing">$40,000</elec_mfg>
+<defense_elec name="Defense Electronics">$103,750</defense_elec>
+</industries>
+<total_industries>$505,014</total_industries>
+</year>
+<year year="2006">
+<corps>
+<alliant_tech name="Alliant Technologies" url="http://www.atk.com/">$1,000</alliant_tech>
+<att name="AT&amp;T" url="http://www.corp.att.com/gov/">$1,000</att>
+<bae name="BAE Systems" url="http://www.baesystems.com/our-company-rus/inc-businesses/intelligence-&amp;-security">$17,000</bae>
+<boeing name="Boeing" url="http://www.boeing.com/boeing/bds/c4isr_cyber/isr/index.page">$12,000</boeing>
+<booze name="Booze Allen Hamilton" url="http://www.boozallen.com/consultants/civilian-government/homeland-security-consulting/intel-operations">foo</booze>
+<cali_inst name="California Institute of Technology" url="http://governmentrelations.caltech.edu/federal">foo</cali_inst>
+<caci name="CACI" url="http://www.caci.com/about/hist.shtml">foo</caci>
+<comcast name="Comcast, Inc" url="http://business.comcast.com/ethernet/industry-solutions/government">foo</comcast>
+<comp_sci name="Computer Sciences Corporation" url="http://www.csc.com/">$3,000</comp_sci>
+<dell name="Dell, Inc" url="http://www.dell.com/us/fedgov/p">foo</dell>
+<facebook name="Facebook" url="https://www.facebook.com/about/government_requests">foo</facebook>
+<gen_atom name="General Atomics" url="http://www.ga-si.com/">foo</gen_atom>
+<gen_dyn name="General Dynamics" url="http://www.gd-imaging.com/Applications.xml">$12,300</gen_dyn>
+<google name="Google, Inc" url="https://www.google.com/intl/en/policies/privacy/">foo</google>
+<harris name="Harris Corporation" url="http://harris.com/products/national-intelligence.aspx">foo</harris>
+<hp name="Hewlett Packard" url="http://www8.hp.com/us/en/hp-information/government-affairs/main.html">$5,500</hp>
+<ibm name="IBM International Business Machines" url="http://researcher.watson.ibm.com/researcher/view_project.php?id=1394">foo</ibm>
+<l3 name="Level 3 Communications" url="http://www.level3.com/">$1,000</l3>
+<lockhead name="Lockheed Martin" url="http://www.lockheedmartin.com/us/what-we-do/information-technology.html">$10,000</lockhead>
+<mantech name="Mantech International" url="http://www.mantech.com/contracts/Pages/default.aspx">$26,900</mantech>
+<microsoft name="Microsoft" url="http://www.microsoft.com/dynamics/en/za/industries/government-contracting.aspx">$3,500</microsoft>
+<nat_cable name="National Cable" url="https://www.ncta.com/">foo</nat_cable>
+<northrop name="Northrop Grumman" url="http://www.northropgrumman.com/capabilities/c4isr/Pages/default.aspx">$10,000</northrop>
+<qualcomm name="Qualcomm" url="http://www.qualcomm.com/about/businesses/qgov">foo</qualcomm>
+<qwest name="Qwest Communications" url="http://www.centurylink.com/business/federal-gov/">foo</qwest>
+<raytheon name="Raytheon" url="http://www.raytheon.com/capabilities/c4isr/">$14,000</raytheon>
+<saic name="SAIC" url="http://www.saic.com/services-solutions/crisis-management-security/security-surveillance/">$10,000</saic>
+<sra_int name="SRA International" url="http://www.sra.com/business-intelligence/">$4,500</sra_int>
+<unisys name="Unisys" url="http://www.unisys.com/unisys/theme/index.jsp?id=16000012">$5,500</unisys>
+<united_tech name="United Technologies" url="http://www.governmentspending.us/contractors/united-technologies-corporation/75271">$3,000</united_tech>
+<verizon name="Verizon" url="http://business.verizonwireless.com/content/b2b/en/wireless-government.html">$1,000</verizon>
+</corps>
+<total_corp>$141,200</total_corp>
+<industries>
+<misc_defense name="Misc Defense">$193,600</misc_defense>
+<comp_inter name="Computers/Internet">$101,800</comp_inter>
+<defense_aero name="Defense Aerospace">$52,700</defense_aero>
+<tele_utils name="Telephone Utilities">$9,500</tele_utils>
+<elec_utils name="Electrical Utilities">foo</elec_utils>
+<elec_mfg name="Electronics Manufacturing">$34,700</elec_mfg>
+<defense_elec name="Defense Electronics">$90,800</defense_elec>
+</industries>
+<total_industries>$483,100</total_industries>
+</year>
+<year year="2008">
+<corps>
+<alliant_tech name="Alliant Technologies" url="http://www.atk.com/">$2,500</alliant_tech>
+<att name="AT&amp;T" url="http://www.corp.att.com/gov/">$4,000</att>
+<bae name="BAE Systems" url="http://www.baesystems.com/our-company-rus/inc-businesses/intelligence-&amp;-security">$15,000</bae>
+<boeing name="Boeing" url="http://www.boeing.com/boeing/bds/c4isr_cyber/isr/index.page">$7,500</boeing>
+<booze name="Booze Allen Hamilton" url="http://www.boozallen.com/consultants/civilian-government/homeland-security-consulting/intel-operations">foo</booze>
+<cali_inst name="California Institute of Technology" url="http://governmentrelations.caltech.edu/federal">foo</cali_inst>
+<caci name="CACI" url="http://www.caci.com/about/hist.shtml">foo</caci>
+<comcast name="Comcast, Inc" url="http://business.comcast.com/ethernet/industry-solutions/government">foo</comcast>
+<comp_sci name="Computer Sciences Corporation" url="http://www.csc.com/">$9,383</comp_sci>
+<dell name="Dell, Inc" url="http://www.dell.com/us/fedgov/p">foo</dell>
+<facebook name="Facebook" url="https://www.facebook.com/about/government_requests">foo</facebook>
+<gen_atom name="General Atomics" url="http://www.ga-si.com/">foo</gen_atom>
+<gen_dyn name="General Dynamics" url="http://www.gd-imaging.com/Applications.xml">$22,300</gen_dyn>
+<google name="Google, Inc" url="https://www.google.com/intl/en/policies/privacy/">foo</google>
+<harris name="Harris Corporation" url="http://harris.com/products/national-intelligence.aspx">$7,000</harris>
+<hp name="Hewlett Packard" url="http://www8.hp.com/us/en/hp-information/government-affairs/main.html">$5,500</hp>
+<ibm name="IBM International Business Machines" url="http://researcher.watson.ibm.com/researcher/view_project.php?id=1394">foo</ibm>
+<l3 name="Level 3 Communications" url="http://www.level3.com/">$2,500</l3>
+<lockhead name="Lockheed Martin" url="http://www.lockheedmartin.com/us/what-we-do/information-technology.html">$11,000</lockhead>
+<mantech name="Mantech International" url="http://www.mantech.com/contracts/Pages/default.aspx">$31,200</mantech>
+<microsoft name="Microsoft" url="http://www.microsoft.com/dynamics/en/za/industries/government-contracting.aspx">$1,000</microsoft>
+<nat_cable name="National Cable" url="https://www.ncta.com/">foo</nat_cable>
+<northrop name="Northrop Grumman" url="http://www.northropgrumman.com/capabilities/c4isr/Pages/default.aspx">$15,000</northrop>
+<qualcomm name="Qualcomm" url="http://www.qualcomm.com/about/businesses/qgov">foo</qualcomm>
+<qwest name="Qwest Communications" url="http://www.centurylink.com/business/federal-gov/">foo</qwest>
+<raytheon name="Raytheon" url="http://www.raytheon.com/capabilities/c4isr/">$14,500</raytheon>
+<saic name="SAIC" url="http://www.saic.com/services-solutions/crisis-management-security/security-surveillance/">$10,000</saic>
+<sra_int name="SRA International" url="http://www.sra.com/business-intelligence/">$5,000</sra_int>
+<unisys name="Unisys" url="http://www.unisys.com/unisys/theme/index.jsp?id=16000012">$10,000</unisys>
+<united_tech name="United Technologies" url="http://www.governmentspending.us/contractors/united-technologies-corporation/75271">$5,500</united_tech>
+<verizon name="Verizon" url="http://business.verizonwireless.com/content/b2b/en/wireless-government.html">foo</verizon>
+</corps>
+<total_corp>$178,883</total_corp>
+<industries>
+<misc_defense name="Misc Defense">$157,200</misc_defense>
+<comp_inter name="Computers/Internet">$180,183</comp_inter>
+<defense_aero name="Defense Aerospace">$65,600</defense_aero>
+<tele_utils name="Telephone Utilities">$10,600</tele_utils>
+<elec_utils name="Electrical Utilities">$13,900</elec_utils>
+<elec_mfg name="Electronics Manufacturing">$28,900</elec_mfg>
+<defense_elec name="Defense Electronics">$111,500</defense_elec>
+</industries>
+<total_industries>$567,883</total_industries>
+</year>
+<year year="2010">
+<corps>
+<alliant_tech name="Alliant Technologies" url="http://www.atk.com/">foo</alliant_tech>
+<att name="AT&amp;T" url="http://www.corp.att.com/gov/">$2,500</att>
+<bae name="BAE Systems" url="http://www.baesystems.com/our-company-rus/inc-businesses/intelligence-&amp;-security">$17,500</bae>
+<boeing name="Boeing" url="http://www.boeing.com/boeing/bds/c4isr_cyber/isr/index.page">$20,600</boeing>
+<booze name="Booze Allen Hamilton" url="http://www.boozallen.com/consultants/civilian-government/homeland-security-consulting/intel-operations">foo</booze>
+<cali_inst name="California Institute of Technology" url="http://governmentrelations.caltech.edu/federal">foo</cali_inst>
+<caci name="CACI" url="http://www.caci.com/about/hist.shtml">foo</caci>
+<comcast name="Comcast, Inc" url="http://business.comcast.com/ethernet/industry-solutions/government">foo</comcast>
+<comp_sci name="Computer Sciences Corporation" url="http://www.csc.com/">$10,000</comp_sci>
+<dell name="Dell, Inc" url="http://www.dell.com/us/fedgov/p">foo</dell>
+<facebook name="Facebook" url="https://www.facebook.com/about/government_requests">foo</facebook>
+<gen_atom name="General Atomics" url="http://www.ga-si.com/">foo</gen_atom>
+<gen_dyn name="General Dynamics" url="http://www.gd-imaging.com/Applications.xml">$10,000</gen_dyn>
+<google name="Google, Inc" url="https://www.google.com/intl/en/policies/privacy/">foo</google>
+<harris name="Harris Corporation" url="http://harris.com/products/national-intelligence.aspx">$9,000</harris>
+<hp name="Hewlett Packard" url="http://www8.hp.com/us/en/hp-information/government-affairs/main.html">foo</hp>
+<ibm name="IBM International Business Machines" url="http://researcher.watson.ibm.com/researcher/view_project.php?id=1394">foo</ibm>
+<l3 name="Level 3 Communications" url="http://www.level3.com/">foo</l3>
+<lockhead name="Lockheed Martin" url="http://www.lockheedmartin.com/us/what-we-do/information-technology.html">$11,500</lockhead>
+<mantech name="Mantech International" url="http://www.mantech.com/contracts/Pages/default.aspx">$15,200</mantech>
+<microsoft name="Microsoft" url="http://www.microsoft.com/dynamics/en/za/industries/government-contracting.aspx">$1,000</microsoft>
+<nat_cable name="National Cable" url="https://www.ncta.com/">foo</nat_cable>
+<northrop name="Northrop Grumman" url="http://www.northropgrumman.com/capabilities/c4isr/Pages/default.aspx">$6,400</northrop>
+<qualcomm name="Qualcomm" url="http://www.qualcomm.com/about/businesses/qgov">foo</qualcomm>
+<qwest name="Qwest Communications" url="http://www.centurylink.com/business/federal-gov/">foo</qwest>
+<raytheon name="Raytheon" url="http://www.raytheon.com/capabilities/c4isr/">$8,500</raytheon>
+<saic name="SAIC" url="http://www.saic.com/services-solutions/crisis-management-security/security-surveillance/">$10,000</saic>
+<sra_int name="SRA International" url="http://www.sra.com/business-intelligence/">foo</sra_int>
+<unisys name="Unisys" url="http://www.unisys.com/unisys/theme/index.jsp?id=16000012">$10,000</unisys>
+<united_tech name="United Technologies" url="http://www.governmentspending.us/contractors/united-technologies-corporation/75271">$6,000</united_tech>
+<verizon name="Verizon" url="http://business.verizonwireless.com/content/b2b/en/wireless-government.html">foo</verizon>
+</corps>
+<total_corp>$138,200</total_corp>
+<industries>
+<misc_defense name="Misc Defense">$87,150</misc_defense>
+<comp_inter name="Computers/Internet">$143,850</comp_inter>
+<defense_aero name="Defense Aerospace">$60,800</defense_aero>
+<tele_utils name="Telephone Utilities">$15,700</tele_utils>
+<elec_utils name="Electrical Utilities">$13,800</elec_utils>
+<elec_mfg name="Electronics Manufacturing">$12,000</elec_mfg>
+<defense_elec name="Defense Electronics">$81,250</defense_elec>
+</industries>
+<total_industries>$414,550</total_industries>
+</year>
+<year year="2012">
+<corps>
+<alliant_tech name="Alliant Technologies" url="http://www.atk.com/">$3,000</alliant_tech>
+<att name="AT&amp;T" url="http://www.corp.att.com/gov/">$1,000</att>
+<bae name="BAE Systems" url="http://www.baesystems.com/our-company-rus/inc-businesses/intelligence-&amp;-security">$5,000</bae>
+<boeing name="Boeing" url="http://www.boeing.com/boeing/bds/c4isr_cyber/isr/index.page">$14,500</boeing>
+<booze name="Booze Allen Hamilton" url="http://www.boozallen.com/consultants/civilian-government/homeland-security-consulting/intel-operations">foo</booze>
+<cali_inst name="California Institute of Technology" url="http://governmentrelations.caltech.edu/federal">foo</cali_inst>
+<caci name="CACI" url="http://www.caci.com/about/hist.shtml">foo</caci>
+<comcast name="Comcast, Inc" url="http://business.comcast.com/ethernet/industry-solutions/government">$1,000</comcast>
+<comp_sci name="Computer Sciences Corporation" url="http://www.csc.com/">$10,000</comp_sci>
+<dell name="Dell, Inc" url="http://www.dell.com/us/fedgov/p">foo</dell>
+<facebook name="Facebook" url="https://www.facebook.com/about/government_requests">foo</facebook>
+<gen_atom name="General Atomics" url="http://www.ga-si.com/">foo</gen_atom>
+<gen_dyn name="General Dynamics" url="http://www.gd-imaging.com/Applications.xml">$30,500</gen_dyn>
+<google name="Google, Inc" url="https://www.google.com/intl/en/policies/privacy/">foo</google>
+<harris name="Harris Corporation" url="http://harris.com/products/national-intelligence.aspx">$9,000</harris>
+<hp name="Hewlett Packard" url="http://www8.hp.com/us/en/hp-information/government-affairs/main.html">$8,000</hp>
+<ibm name="IBM International Business Machines" url="http://researcher.watson.ibm.com/researcher/view_project.php?id=1394">foo</ibm>
+<l3 name="Level 3 Communications" url="http://www.level3.com/">$1,500</l3>
+<lockhead name="Lockheed Martin" url="http://www.lockheedmartin.com/us/what-we-do/information-technology.html">$10,750</lockhead>
+<mantech name="Mantech International" url="http://www.mantech.com/contracts/Pages/default.aspx">$26,000</mantech>
+<microsoft name="Microsoft" url="http://www.microsoft.com/dynamics/en/za/industries/government-contracting.aspx">$4,500</microsoft>
+<nat_cable name="National Cable" url="https://www.ncta.com/">foo</nat_cable>
+<northrop name="Northrop Grumman" url="http://www.northropgrumman.com/capabilities/c4isr/Pages/default.aspx">$15,000</northrop>
+<qualcomm name="Qualcomm" url="http://www.qualcomm.com/about/businesses/qgov">foo</qualcomm>
+<qwest name="Qwest Communications" url="http://www.centurylink.com/business/federal-gov/">foo</qwest>
+<raytheon name="Raytheon" url="http://www.raytheon.com/capabilities/c4isr/">$7,500</raytheon>
+<saic name="SAIC" url="http://www.saic.com/services-solutions/crisis-management-security/security-surveillance/">$10,000</saic>
+<sra_int name="SRA International" url="http://www.sra.com/business-intelligence/">$1,500</sra_int>
+<unisys name="Unisys" url="http://www.unisys.com/unisys/theme/index.jsp?id=16000012">$10,000</unisys>
+<united_tech name="United Technologies" url="http://www.governmentspending.us/contractors/united-technologies-corporation/75271">foo</united_tech>
+<verizon name="Verizon" url="http://business.verizonwireless.com/content/b2b/en/wireless-government.html">foo</verizon>
+</corps>
+<total_corp>$168,750</total_corp>
+<industries>
+<misc_defense name="Misc Defense">$77,750</misc_defense>
+<comp_inter name="Computers/Internet">$104,250</comp_inter>
+<defense_aero name="Defense Aerospace">$32,750</defense_aero>
+<tele_utils name="Telephone Utilities">$2,000</tele_utils>
+<elec_utils name="Electrical Utilities">$11,000</elec_utils>
+<elec_mfg name="Electronics Manufacturing">$3,500</elec_mfg>
+<defense_elec name="Defense Electronics">$84,000</defense_elec>
+</industries>
+<total_industries>$315,250</total_industries>
+</year>
+<year year="2014">
+<corps>
+<alliant_tech name="Alliant Technologies" url="http://www.atk.com/">$2,500</alliant_tech>
+<att name="AT&amp;T" url="http://www.corp.att.com/gov/">$3,000</att>
+<bae name="BAE Systems" url="http://www.baesystems.com/our-company-rus/inc-businesses/intelligence-&amp;-security">$10,000</bae>
+<boeing name="Boeing" url="http://www.boeing.com/boeing/bds/c4isr_cyber/isr/index.page">$14,450</boeing>
+<booze name="Booze Allen Hamilton" url="http://www.boozallen.com/consultants/civilian-government/homeland-security-consulting/intel-operations">foo</booze>
+<cali_inst name="California Institute of Technology" url="http://governmentrelations.caltech.edu/federal">foo</cali_inst>
+<caci name="CACI" url="http://www.caci.com/about/hist.shtml">foo</caci>
+<comcast name="Comcast, Inc" url="http://business.comcast.com/ethernet/industry-solutions/government">$1,000</comcast>
+<comp_sci name="Computer Sciences Corporation" url="http://www.csc.com/">$10,000</comp_sci>
+<dell name="Dell, Inc" url="http://www.dell.com/us/fedgov/p">foo</dell>
+<facebook name="Facebook" url="https://www.facebook.com/about/government_requests">foo</facebook>
+<gen_atom name="General Atomics" url="http://www.ga-si.com/">$2,500</gen_atom>
+<gen_dyn name="General Dynamics" url="http://www.gd-imaging.com/Applications.xml">foo</gen_dyn>
+<google name="Google, Inc" url="https://www.google.com/intl/en/policies/privacy/">foo</google>
+<harris name="Harris Corporation" url="http://harris.com/products/national-intelligence.aspx">$5,000</harris>
+<hp name="Hewlett Packard" url="http://www8.hp.com/us/en/hp-information/government-affairs/main.html">$3,500</hp>
+<ibm name="IBM International Business Machines" url="http://researcher.watson.ibm.com/researcher/view_project.php?id=1394">foo</ibm>
+<l3 name="Level 3 Communications" url="http://www.level3.com/">$4,750</l3>
+<lockhead name="Lockheed Martin" url="http://www.lockheedmartin.com/us/what-we-do/information-technology.html">$21,000</lockhead>
+<mantech name="Mantech International" url="http://www.mantech.com/contracts/Pages/default.aspx">$14,600</mantech>
+<microsoft name="Microsoft" url="http://www.microsoft.com/dynamics/en/za/industries/government-contracting.aspx">$1,000</microsoft>
+<nat_cable name="National Cable" url="https://www.ncta.com/">$1,000</nat_cable>
+<northrop name="Northrop Grumman" url="http://www.northropgrumman.com/capabilities/c4isr/Pages/default.aspx">$31,750</northrop>
+<qualcomm name="Qualcomm" url="http://www.qualcomm.com/about/businesses/qgov">foo</qualcomm>
+<qwest name="Qwest Communications" url="http://www.centurylink.com/business/federal-gov/">foo</qwest>
+<raytheon name="Raytheon" url="http://www.raytheon.com/capabilities/c4isr/">$9,500</raytheon>
+<saic name="SAIC" url="http://www.saic.com/services-solutions/crisis-management-security/security-surveillance/">$15,000</saic>
+<sra_int name="SRA International" url="http://www.sra.com/business-intelligence/">foo</sra_int>
+<unisys name="Unisys" url="http://www.unisys.com/unisys/theme/index.jsp?id=16000012">$6,000</unisys>
+<united_tech name="United Technologies" url="http://www.governmentspending.us/contractors/united-technologies-corporation/75271">$3,500</united_tech>
+<verizon name="Verizon" url="http://business.verizonwireless.com/content/b2b/en/wireless-government.html">foo</verizon>
+</corps>
+<total_corp>$160,050</total_corp>
+<industries>
+<misc_defense name="Misc Defense">$72,100</misc_defense>
+<comp_inter name="Computers/Internet">$38,590</comp_inter>
+<defense_aero name="Defense Aerospace">$45,950</defense_aero>
+<tele_utils name="Telephone Utilities">$3,000</tele_utils>
+<elec_utils name="Electrical Utilities">$9,000</elec_utils>
+<elec_mfg name="Electronics Manufacturing">foo</elec_mfg>
+<defense_elec name="Defense Electronics">$40,250</defense_elec>
+</industries>
+<total_industries>$208,890</total_industries>
+</year>
+<total_corp_all>$1,188,663</total_corp_all>
+<total_industries_all>$3,122,307</total_industries_all>
+</name>

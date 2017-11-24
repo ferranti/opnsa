@@ -1,0 +1,3 @@
+AddCharset UTF-8 .xml
+AddType application/xml .xml
+AddType application/xml .xsl

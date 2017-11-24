@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="votes.xsl"?>
+<!DOCTYPE name SYSTEM "/votes_by_id/votes.dtd">
+<name id="412599" real_name="McAllister, Vance (Rep.) [R-LA5]">
+  <bill number="3362" session="113" type="h">
+  <roll where="house" session="113" year="2014" roll="22" source="house.gov"
+  datetime="2014-01-16T11:51:00-05:00" updated="2014-01-19T04:52:12-05:00"
+  aye="186" nay="226" nv="20" present="0"/>
+  <question>On Motion to Recommit with Instructions: H R 3362 To amend the Patient Protection and Affordable Care Act to require transparency in the operation of American Health Benefit Exchanges</question>
+  <source>https://govtrack.us/congress/bills/113/hr3362</source>
+  <vote>Nay</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="3362" session="113" type="h">
+  <roll where="house" session="113" year="2014" roll="23" source="house.gov"
+  datetime="2014-01-16T12:00:00-05:00" updated="2014-01-19T04:52:07-05:00"
+  aye="259" nay="154" nv="19" present="0"/>
+  <question>On Passage: H R 3362 To amend the Patient Protection and Affordable Care Act to require transparency in the operation of American Health Benefit Exchanges</question>
+  <source>https://govtrack.us/congress/bills/113/hr3362</source>
+  <vote>Yea</vote>
+  <result>Passed</result>
+  <required>1/2</required>
+  </bill>
+  </name>

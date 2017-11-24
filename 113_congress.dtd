@@ -1,0 +1,46 @@
+<!ELEMENT response (title, meta+, objects+)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT meta (limit, offset, total_count)>
+<!ELEMENT limit (#PCDATA)>
+<!ELEMENT offset (#PCDATA)>
+<!ELEMENT total_count (#PCDATA)>
+<!ELEMENT objects (item+)>
+<!ELEMENT item (current, description, district, enddate, id, leadership_title, party, person+, phone, role_type, role_type_label, senator_class, senator_class_label?, senator_rank,senator_rank_label?, startdate, state, title, title_long, website)>
+<!ELEMENT current (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT district (#PCDATA)>
+<!ELEMENT enddate (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT leadership_title (#PCDATA)>
+<!ELEMENT party (#PCDATA)>
+<!ELEMENT person (bioguideid, birthday, cspanid, firstname, gender, gender_label, id, lastname, link, middlename, name, namemod, nickname, osid, pvsid, sortname, twitterid, youtubeid)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT role_type (#PCDATA)>
+<!ELEMENT role_type_label (#PCDATA)>
+<!ELEMENT senator_class (#PCDATA)>  
+<!ELEMENT senator_class_label (#PCDATA)>
+<!ELEMENT senator_rank (#PCDATA)>
+<!ELEMENT senator_rank_label (#PCDATA)>
+<!ELEMENT startdate (#PCDATA)>
+<!ELEMENT state (#PCDATA)> 
+<!ELEMENT title_long (#PCDATA)>
+<!ELEMENT website (#PCDATA)>
+<!ELEMENT bioguideid (#PCDATA)>
+<!ELEMENT birthday (#PCDATA)>
+<!ELEMENT cspanid (#PCDATA)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT gender_label (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT middlename (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT namemod (#PCDATA)>
+<!ELEMENT nickname (#PCDATA)>
+<!ELEMENT osid (#PCDATA)>
+<!ELEMENT pvsid (#PCDATA)>
+<!ELEMENT sortname (#PCDATA)>
+<!ELEMENT twitterid (#PCDATA)>
+<!ELEMENT youtubeid (#PCDATA)>
+
+

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="400041" real_name="Madeleine Bordallo">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ 2441 Rayburn HOB
+      Washington, DC 20515
+				]]>
+        	        </address>
+			<phone location="Washington"> (202) 225-1188 </phone>
+			<fax location="Washington"> (202) 226-0341 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 120 Father Duenas Avenue, Suite 107
+      Hagåtña, Guam 96910 
+				]]>
+        	        </address>
+			<phone location="District Office"> 671-477-4272 </phone>
+			<fax location="District Office"> 671-477-2587 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="foo"/>
+		<facebook name="Facebook" url="foo"/>
+		<twitter name="Twitter" url="foo"> @foo </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> Madeleine Z. Bordallo </alias>
+		<born name="Born"> 31-May-1933 </born>
+		<birthplace name="Birthplace"> Graceville, MN </birthplace>
+		<gender name="Gender"> Female </gender>
+		<religion name="Religion"> Roman Catholic </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Politician </occupation>
+		<party_affiliation name="Party Affiliation"> Democratic </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> St. Mary's College, South Bend, IN </university>
+		<grad_school> College of St. Catherine, St. Paul, MN </grad_school>
+		<additional_school> foo </additional_school>
+		<first>  Member of the Guam legislature  </first>
+		<second> Lieutenant Governor of Guam </second>
+		<third> U.S. House of Representatives, Delegate from Guam </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> Committee on Armed Services </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Military Personel </subcommittee>
+					<subcommittee id="b"> Subcommittee on Readiness Ranking member </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> Committee on Natural Resources </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Fisheries, Wildlife, Oceans, and Insular Areas </subcommittee>
+					<subcommittee id="b"> Subcommittee on Public Lands and Environmental Regulation </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> foo </chief>
+		<scheduler name="Scheduler"> foo </scheduler>
+		<leg_director name="Legislative Director"> foo </leg_director>
+		<com_director name="Communications Director"> foo </com_director>
+	</office_staff>
+</name>

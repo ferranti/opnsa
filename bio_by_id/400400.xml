@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="400400" real_name="Lee Terry">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+					2266 Rayburn House Office Building
+					Washington, D.C. 20515-2702
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-4155 </phone>
+			<fax location="Washington"> 202-226-5452 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 11717 Burt Street, Suite 106
+     Omaha, NE 68154  
+				]]>
+        	        </address>
+			<phone location="District Office"> 402-397-9944 </phone>
+			<fax location="District Office"> 402-397-8787 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://leeterry.house.gov/"/>
+		<facebook name="Facebook" url="https://www.facebook.com/leeterry"/>
+		<twitter name="Twitter" url="https://twitter.com/LEETERRYNE"> @leeterryne </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="Other" url="http://www.leeterry.com/"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> Lee Raymond Terry </alias>
+		<born name="Born"> 29-Jan-1962 </born>
+		<birthplace name="Birthplace"> Omaha, NE </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Methodist </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Attorney </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BA Politcal Science, University of Nebraska, Lincoln </university>
+		<grad_school> JD, Creighton University </grad_school>
+		<additional_school> foo </additional_school>
+		<first> Omaha City Council (1991-98) </first>
+		<second> US Congressman, Nebraska 2nd (1999-) </second>
+		<third> foo </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Energy and Commerce </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Communications and Technology </subcommittee>
+					<subcommittee id="b"> Subcommittee on Commerce, Manufacturing and Trade </subcommittee>
+					<subcommittee id="c"> Subcommittee on Energy and Power </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Mark Anderson </chief>
+		<scheduler name="Scheduler"> Carolyn Ferguson </scheduler>
+		<leg_director name="Legislative Director"> A.T. Johnson </leg_director>
+		<com_director name="Press Secretary"> Larry Farnsworth </com_director>
+	</office_staff>
+</name>

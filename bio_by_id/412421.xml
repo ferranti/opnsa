@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="412421" real_name="Adam Kinzinger">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+						1221 Longworth House Office Building
+						Washington, D.C. 20515-1316
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-3635 </phone>
+			<fax location="Washington"> 202-225-3521 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 2701 Black Road, Suite 201
+      Joliet, IL 60435  
+				]]>
+        	        </address>
+			<phone location="District Office"> 815-726-4998 </phone>
+			<fax location="District Office"> 815-726-8024 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="foo"/>
+		<facebook name="Facebook" url="foo"/>
+		<twitter name="Twitter" url="foo"> @foo </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> Adam Daniel Kinzinger </alias>
+		<born name="Born"> 27-Feb-1978 </born>
+		<birthplace name="Birthplace"> Kankakee, IL </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Protestant </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Politician </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BS Political Science, Illinois State University </university>
+		<grad_school> foo </grad_school>
+		<additional_school> foo </additional_school>
+		<first> Congressional Staff of Sen. Peter Fitzgerald </first>
+		<second> County Board of Supervisors McLean County, IL </second>
+		<third> US Congressman, Illinois 11th </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A">	House Committee on Energy and Commerce </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Commerce, Manufacturing and Trade </subcommittee>
+					<subcommittee id="b"> Subcommittee on Energy and Power </subcommittee>
+					<subcommittee id="c"> Subcommittee on Communications and Technology </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Committee on Foreign Affairs </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on the Middle East and North Africa </subcommittee>
+					<subcommittee id="b"> Subcommittee on Terrorism, Nonproliferation, and Trade </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Austin Weatherford </chief>
+		<scheduler name="Scheduler"> Tamara Edwards </scheduler>
+		<leg_director name="Legislative Director">	Josh Baggett </leg_director>
+		<com_director name="Communications Director"> Zach Hunter </com_director>
+	</office_staff>
+</name>

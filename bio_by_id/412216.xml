@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- She is also under a Federal Election Commission investigation of her 2012 presidential campaign's finances -->
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="412216" real_name="Michele Bachmann">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+					2417 Rayburn House Office Building
+					Washington, D.C. 20515-2306
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-2331 </phone>
+			<fax location="Washington"> 202-225-6475 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 2850 Cutters Grove, Suite 205
+     Anoka, MN 55303 
+				]]>
+        	        </address>
+			<phone location="District Office"> 763-323-8922 </phone>
+			<fax location="District Office"> 763-323-6585 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://bachmann.house.gov/"/>
+		<facebook name="Facebook" url="foo"/>
+		<twitter name="Twitter" url="http://www.twitter.com/MicheleBachmann"> @MicheleBachmann </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> Michele Marie Amble </alias>
+		<born name="Born"> 6-Apr-1956 </born>
+		<birthplace name="Birthplace"> Waterloo, IA </birthplace>
+		<gender name="Gender"> Female </gender>
+		<religion name="Religion"> 	Evangelical Christian </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Attorney </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BA, Winona State University </university>
+		<grad_school> JD, Oral Roberts University </grad_school>
+		<additional_school> LLM, College of William and Mary </additional_school>
+		<first> Naturalized Swiss Citizen (Mar-2012) </first>
+		<second> US Treasury Department Attorney, US Treasury Dept., St. Paul, MN </second>
+		<third> Minnesota State Senate (2000-06) </third>
+		<fourth> US Congressman, Minnesota 6th (2007-)</fourth>
+		<fifth> Renounced Swiss Citizenship 2012 (three days after it becomes public) </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Financial Services </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Capital Markets and Government Sponsored Enterprises </subcommittee>
+					<subcommittee id="b"> Subcommittee on Oversight and Investigations </subcommittee>
+					<subcommittee id="c"> Subcommittee on International Monetary Policy and Trade  </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Permanent Select Committee on Intelligence </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Oversight </subcommittee>
+					<subcommittee id="b"> Subcommittee on Technical and Tactical Intelligence </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Robert Boland </chief>
+		<scheduler name="Scheduler"> Kim Rubin </scheduler>
+		<leg_director name="Senior Legislative Assistant"> Renee Doyle </leg_director>
+		<com_director name="Press Secretary"> Makayla Hall </com_director>
+	</office_staff>
+</name>

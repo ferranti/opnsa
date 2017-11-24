@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="votes.xsl"?>
+<!DOCTYPE name SYSTEM "/votes_by_id/votes.dtd">
+<name id="412390" real_name="Coons, Chris (Sen.) [D-DE]">
+  <bill number="514" session="112" type="h">
+  <roll where="senate" session="112" year="2011" roll="19" source="senate.gov"
+  datetime="2011-02-15T18:08:00-05:00" updated="2014-02-17T08:53:51-05:00"
+  aye="86" nay="12" nv="2" present="0"/>
+  <question>On Passage of the Bill H.R. 514</question>
+  <source>https://govtrack.us/congress/bills/112/hr514</source>
+  <vote>Yea</vote>
+  <result>Bill Passed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="1540" session="112" type="h">
+  <roll where="senate" session="112" year="2011" roll="230" source="senate.gov"
+  datetime="2011-12-15T16:02:00-05:00" updated="2014-02-17T08:53:41-05:00"
+  aye="86" nay="13" nv="1" present="0"/>
+  <question>On the Conference Report H.R. 1540</question>
+  <source>https://govtrack.us/congress/bills/112/hr1540</source>
+  <vote>Yea</vote>
+  <result>Conference Report Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="990" session="112" type="s">
+  <roll where="senate" session="112" year="2011" roll="81" source="senate.gov"
+  datetime="2011-05-26T10:01:00-04:00" updated="2014-02-17T08:53:49-05:00"
+  aye="79" nay="18" nv="3" present="0"/>
+  <question>On the Cloture Motion S. 990</question>
+  <source>https://govtrack.us/congress/bills/112/s990</source>
+  <vote>Yea</vote>
+  <result>Cloture Motion Agreed to</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="990" session="112" type="s">
+  <roll where="senate" session="112" year="2011" roll="82" source="senate.gov"
+  datetime="2011-05-26T16:34:00-04:00" updated="2014-02-17T08:53:49-05:00"
+  aye="85" nay="10" nv="5" present="0"/>
+  <question>On the Motion to Table S.Amdt. 363 to S.Amdt. 347 to S. 990 (PATRIOT Sunsets Extension Act of 2011)</question>
+  <source>https://govtrack.us/congress/bills/112/s990</source>
+  <vote>Yea</vote>
+  <result>Motion to Table Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="990" session="112" type="s">
+  <roll where="senate" session="112" year="2011" roll="83" source="senate.gov"
+  datetime="2011-05-26T17:00:00-04:00" updated="2014-02-17T08:53:49-05:00"
+  aye="91" nay="4" nv="5" present="0"/>
+  <question>On the Motion to Table S.Amdt. 365 to S.Amdt. 347 to S. 990 (PATRIOT Sunsets Extension Act of 2011)</question>
+  <source>https://govtrack.us/congress/bills/112/s990</source>
+  <vote>Yea</vote>
+  <result>Motion to Table Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="990" session="112" type="s">
+  <roll where="senate" session="112" year="2011" roll="84" source="senate.gov"
+  datetime="2011-05-26T17:16:00-04:00" updated="2014-02-17T08:53:49-05:00"
+  aye="72" nay="23" nv="5" present="0"/>
+  <question>On the Motion (Motion to Concur in the House Amendment to S. 990 with Amdt. No. 347)</question>
+  <source>https://govtrack.us/congress/bills/112/s990</source>
+  <vote>Nay</vote>
+  <result>Motion Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="3414" session="112" type="s">
+  <roll where="senate" session="112" year="2012" roll="185" source="senate.gov"
+  datetime="2012-07-26T15:23:00-04:00" updated="2014-02-17T08:55:18-05:00"
+  aye="84" nay="11" nv="5" present="0"/>
+  <question>On Cloture on the Motion to Proceed S. 3414</question>
+  <source>https://govtrack.us/congress/bills/112/s3414</source>
+  <vote>Yea</vote>
+  <result>Cloture on the Motion to Proceed Agreed to</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="3414" session="112" type="s">
+  <roll where="senate" session="112" year="2012" roll="187" source="senate.gov"
+  datetime="2012-08-02T11:01:00-04:00" updated="2014-02-17T08:55:18-05:00"
+  aye="52" nay="46" nv="2" present="0"/>
+  <question>On the Cloture Motion S. 3414</question>
+  <source>https://govtrack.us/congress/bills/112/s3414</source>
+  <vote>Yea</vote>
+  <result>Cloture Motion Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="3414" session="112" type="s">
+  <roll where="senate" session="112" year="2012" roll="202" source="senate.gov"
+  datetime="2012-11-14T17:37:00-05:00" updated="2014-02-17T08:55:17-05:00"
+  aye="51" nay="47" nv="2" present="0"/>
+  <question>On the Cloture Motion S. 3414</question>
+  <source>https://govtrack.us/congress/bills/112/s3414</source>
+  <vote>Yea</vote>
+  <result>Cloture Motion Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="4310" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="229" source="senate.gov"
+  datetime="2012-12-21T14:06:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="81" nay="14" nv="4" present="0"/>
+  <question>On the Conference Report H.R. 4310</question>
+  <source>https://govtrack.us/congress/bills/112/hr4310</source>
+  <vote>Yea</vote>
+  <result>Conference Report Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="232" source="senate.gov"
+  datetime="2012-12-27T17:33:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="38" nay="52" nv="10" present="0"/>
+  <question>On the Amendment S.Amdt. 3437 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Yea</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="233" source="senate.gov"
+  datetime="2012-12-27T18:06:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="37" nay="54" nv="9" present="0"/>
+  <question>On the Amendment S.Amdt. 3435 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Yea</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="234" source="senate.gov"
+  datetime="2012-12-27T18:26:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="12" nay="79" nv="9" present="0"/>
+  <question>On the Amendment S.Amdt. 3436 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="235" source="senate.gov"
+  datetime="2012-12-28T09:36:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="43" nay="52" nv="5" present="0"/>
+  <question>On the Amendment S.Amdt. 3439 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Yea</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="236" source="senate.gov"
+  datetime="2012-12-28T10:05:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="73" nay="23" nv="4" present="0"/>
+  <question>On Passage of the Bill H.R. 5949</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Nay</vote>
+  <result>Bill Passed</result>
+  <required>3/5</required>
+  </bill>
+  </name>

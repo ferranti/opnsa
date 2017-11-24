@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="412443" real_name="Steven Palazzo">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+						331 Cannon House Office Building
+						Washington, D.C. 20515-2404
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-5772 </phone>
+			<fax location="Washington"> 202-225-7074 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 641 Main Street, Suite 215
+      Hattiesburg, MS 39403  
+				]]>
+        	        </address>
+			<phone location="District Office"> 601-582-3246 </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 1325 25th Avenue
+      Gulfport, MS 39501 
+				]]>
+                	</address>
+			<phone location="District Office"> 228-864-7670 </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 3118 Pascagoula Street, Suite 181
+      Pascagoula, MS 39567   
+				]]>
+	                </address>
+			<phone location="District Office"> 228-202-8104 </phone>
+			<fax location="District Office"> 228-202-8105 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 72 Technology Boulevard, Suite 216
+      Ellisville, MS 39437 
+				]]>
+                	</address>
+			<phone location="District Office"> 601-428-9711 </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://palazzo.house.gov/"/>
+		<facebook name="Facebook" url="https://www.facebook.com/stevenpalazzo"/>
+		<twitter name="Twitter" url="http://www.twitter.com/congpalazzo"> @congpalazzo </twitter>
+		<youtube name="YouTube" url="https://www.youtube.com/CongressmanPalazzo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> Steven McCarty Palazzo </alias>
+		<born name="Born"> 21-Feb-1970 </born>
+		<birthplace name="Birthplace"> Gulfport, MS </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion">  Roman Catholic </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Accountant </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BS Accounting, University of Southern Mississippi </university>
+		<grad_school> MBA, University of Southern Mississippi </grad_school>
+		<additional_school> JD, University of Southern Mississippi </additional_school>
+		<first>  Palazzo and Company, PLLC </first>
+		<second> Mississippi State House of Representatives 116th </second>
+		<third> US Congressman, Mississippi 4th </third>
+		<fourth> United States Marine Corps Reserve </fourth>
+		<fifth> Mississippi Army National Guard </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> Armed Services Committee </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Readiness </subcommittee>
+					<subcommittee id="b"> Subcommittee on Seapower and Projection Forces  </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> Homeland Security Committee </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Border, Maritime Security </subcommittee>
+					<subcommittee id="b"> Subcommittee on Emergency Preparedness, Response, and Communications </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> United States House Committee on Science, Space, and Technology </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> Subcommittee on Research and Science Education </subcommittee>
+					<subcommittee id="b"> Subcommittee on Space and Aeronautics </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Casey Street </chief>
+		<scheduler name="Scheduler"> Leslie Churchwell </scheduler>
+		<leg_director name="Legislative Director"> Patrick Large </leg_director>
+		<com_director name="Communications Director"> Laura Chambers </com_director>
+	</office_staff>
+</name>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="votes.xsl"?>
+<!DOCTYPE name SYSTEM "/votes_by_id/votes.dtd">
+<name id="412324" real_name="Hagan, Kay (Sen.) [D-NC]">
+  <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="218" source="senate.gov"
+  datetime="2009-07-07T16:46:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="47" nay="51" nv="2" present="0"/>
+  <question>On the Amendment S.Amdt. 1400 to S.Amdt. 1373 to H.R. 2892 (Department of Homeland Security Appropriations Act, 2010)</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="219" source="senate.gov"
+  datetime="2009-07-08T11:03:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="44" nay="53" nv="3" present="0"/>
+  <question>On the Motion (Motion to Table Sessions Amdt. No. 1371)</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Nay</vote>
+  <result>Motion Rejected</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="220" source="senate.gov"
+  datetime="2009-07-08T11:34:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="54" nay="44" nv="2" present="0"/>
+  <question>On the Amendment S.Amdt. 1399 to S.Amdt. 1373 to H.R. 2892 (Department of Homeland Security Appropriations Act, 2010)</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Nay</vote>
+  <result>Amendment Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="221" source="senate.gov"
+  datetime="2009-07-08T14:19:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="38" nay="60" nv="2" present="0"/>
+  <question>On the Amendment S.Amdt. 1402 to S.Amdt. 1373 to H.R. 2892 (Department of Homeland Security Appropriations Act, 2010)</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="222" source="senate.gov"
+  datetime="2009-07-08T16:48:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="37" nay="61" nv="2" present="0"/>
+  <question>On the Amendment S.Amdt. 1406 to S.Amdt. 1373 to H.R. 2892 (Department of Homeland Security Appropriations Act, 2010)</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="223" source="senate.gov"
+  datetime="2009-07-09T11:30:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="36" nay="59" nv="5" present="0"/>
+  <question>On the Amendment S.Amdt. 1432 to S.Amdt. 1373 to H.R. 2892 (Department of Homeland Security Appropriations Act, 2010)</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="224" source="senate.gov"
+  datetime="2009-07-09T14:00:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="35" nay="61" nv="4" present="0"/>
+  <question>On the Amendment S.Amdt. 1378 to S.Amdt. 1373 to H.R. 2892 (Department of Homeland Security Appropriations Act, 2010)</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="225" source="senate.gov"
+  datetime="2009-07-09T20:23:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="55" nay="36" nv="9" present="0"/>
+  <question>On the Amendment S.Amdt. 1467 to S.Amdt. 1458 to S.Amdt. 1373 to H.R. 2892</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Nay</vote>
+  <result>Amendment Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="226" source="senate.gov"
+  datetime="2009-07-09T21:13:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="67" nay="24" nv="9" present="0"/>
+  <question>On the Amendment S.Amdt. 1468 to S.Amdt. 1373 to H.R. 2892 (Department of Homeland Security Appropriations Act, 2010)</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Yea</vote>
+  <result>Amendment Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="227" source="senate.gov"
+  datetime="2009-07-09T21:13:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="31" nay="60" nv="9" present="0"/>
+  <question>On the Amendment S.Amdt. 1434 to S.Amdt. 1373 to H.R. 2892 (Department of Homeland Security Appropriations Act, 2010)</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="228" source="senate.gov"
+  datetime="2009-07-09T21:31:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="32" nay="58" nv="10" present="0"/>
+  <question>On the Amendment S.Amdt. 1430 to S.Amdt. 1373 to H.R. 2892 (Department of Homeland Security Appropriations Act, 2010)</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="229" source="senate.gov"
+  datetime="2009-07-09T21:51:00-04:00" updated="2014-02-17T08:49:49-05:00"
+  aye="84" nay="6" nv="10" present="0"/>
+  <question>On Passage of the Bill H.R. 2892</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Yea</vote>
+  <result>Bill Passed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2892" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="323" source="senate.gov"
+  datetime="2009-10-20T16:25:00-04:00" updated="2014-02-17T08:49:40-05:00"
+  aye="79" nay="19" nv="2" present="0"/>
+  <question>On the Conference Report H.R. 2892</question>
+  <source>https://govtrack.us/congress/bills/111/hr2892</source>
+  <vote>Not Voting</vote>
+  <result>Conference Report Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2647" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="326" source="senate.gov"
+  datetime="2009-10-22T11:54:00-04:00" updated="2014-02-17T08:49:40-05:00"
+  aye="64" nay="35" nv="1" present="0"/>
+  <question>On the Cloture Motion H.R. 2647</question>
+  <source>https://govtrack.us/congress/bills/111/hr2647</source>
+  <vote>Yea</vote>
+  <result>Cloture Motion Agreed to</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="2647" session="111" type="h">
+  <roll where="senate" session="111" year="2009" roll="327" source="senate.gov"
+  datetime="2009-10-22T16:37:00-04:00" updated="2014-02-17T08:49:40-05:00"
+  aye="68" nay="29" nv="3" present="0"/>
+  <question>On the Conference Report H.R. 2647</question>
+  <source>https://govtrack.us/congress/bills/111/hr2647</source>
+  <vote>Yea</vote>
+  <result>Conference Report Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="514" session="112" type="h">
+  <roll where="senate" session="112" year="2011" roll="19" source="senate.gov"
+  datetime="2011-02-15T18:08:00-05:00" updated="2014-02-17T08:53:51-05:00"
+  aye="86" nay="12" nv="2" present="0"/>
+  <question>On Passage of the Bill H.R. 514</question>
+  <source>https://govtrack.us/congress/bills/112/hr514</source>
+  <vote>Yea</vote>
+  <result>Bill Passed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="1540" session="112" type="h">
+  <roll where="senate" session="112" year="2011" roll="230" source="senate.gov"
+  datetime="2011-12-15T16:02:00-05:00" updated="2014-02-17T08:53:41-05:00"
+  aye="86" nay="13" nv="1" present="0"/>
+  <question>On the Conference Report H.R. 1540</question>
+  <source>https://govtrack.us/congress/bills/112/hr1540</source>
+  <vote>Yea</vote>
+  <result>Conference Report Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="990" session="112" type="s">
+  <roll where="senate" session="112" year="2011" roll="81" source="senate.gov"
+  datetime="2011-05-26T10:01:00-04:00" updated="2014-02-17T08:53:49-05:00"
+  aye="79" nay="18" nv="3" present="0"/>
+  <question>On the Cloture Motion S. 990</question>
+  <source>https://govtrack.us/congress/bills/112/s990</source>
+  <vote>Yea</vote>
+  <result>Cloture Motion Agreed to</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="990" session="112" type="s">
+  <roll where="senate" session="112" year="2011" roll="82" source="senate.gov"
+  datetime="2011-05-26T16:34:00-04:00" updated="2014-02-17T08:53:49-05:00"
+  aye="85" nay="10" nv="5" present="0"/>
+  <question>On the Motion to Table S.Amdt. 363 to S.Amdt. 347 to S. 990 (PATRIOT Sunsets Extension Act of 2011)</question>
+  <source>https://govtrack.us/congress/bills/112/s990</source>
+  <vote>Yea</vote>
+  <result>Motion to Table Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="990" session="112" type="s">
+  <roll where="senate" session="112" year="2011" roll="83" source="senate.gov"
+  datetime="2011-05-26T17:00:00-04:00" updated="2014-02-17T08:53:49-05:00"
+  aye="91" nay="4" nv="5" present="0"/>
+  <question>On the Motion to Table S.Amdt. 365 to S.Amdt. 347 to S. 990 (PATRIOT Sunsets Extension Act of 2011)</question>
+  <source>https://govtrack.us/congress/bills/112/s990</source>
+  <vote>Yea</vote>
+  <result>Motion to Table Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="990" session="112" type="s">
+  <roll where="senate" session="112" year="2011" roll="84" source="senate.gov"
+  datetime="2011-05-26T17:16:00-04:00" updated="2014-02-17T08:53:49-05:00"
+  aye="72" nay="23" nv="5" present="0"/>
+  <question>On the Motion (Motion to Concur in the House Amendment to S. 990 with Amdt. No. 347)</question>
+  <source>https://govtrack.us/congress/bills/112/s990</source>
+  <vote>Yea</vote>
+  <result>Motion Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="3414" session="112" type="s">
+  <roll where="senate" session="112" year="2012" roll="185" source="senate.gov"
+  datetime="2012-07-26T15:23:00-04:00" updated="2014-02-17T08:55:18-05:00"
+  aye="84" nay="11" nv="5" present="0"/>
+  <question>On Cloture on the Motion to Proceed S. 3414</question>
+  <source>https://govtrack.us/congress/bills/112/s3414</source>
+  <vote>Yea</vote>
+  <result>Cloture on the Motion to Proceed Agreed to</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="3414" session="112" type="s">
+  <roll where="senate" session="112" year="2012" roll="187" source="senate.gov"
+  datetime="2012-08-02T11:01:00-04:00" updated="2014-02-17T08:55:18-05:00"
+  aye="52" nay="46" nv="2" present="0"/>
+  <question>On the Cloture Motion S. 3414</question>
+  <source>https://govtrack.us/congress/bills/112/s3414</source>
+  <vote>Yea</vote>
+  <result>Cloture Motion Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="3414" session="112" type="s">
+  <roll where="senate" session="112" year="2012" roll="202" source="senate.gov"
+  datetime="2012-11-14T17:37:00-05:00" updated="2014-02-17T08:55:17-05:00"
+  aye="51" nay="47" nv="2" present="0"/>
+  <question>On the Cloture Motion S. 3414</question>
+  <source>https://govtrack.us/congress/bills/112/s3414</source>
+  <vote>Yea</vote>
+  <result>Cloture Motion Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="4310" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="229" source="senate.gov"
+  datetime="2012-12-21T14:06:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="81" nay="14" nv="4" present="0"/>
+  <question>On the Conference Report H.R. 4310</question>
+  <source>https://govtrack.us/congress/bills/112/hr4310</source>
+  <vote>Yea</vote>
+  <result>Conference Report Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="232" source="senate.gov"
+  datetime="2012-12-27T17:33:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="38" nay="52" nv="10" present="0"/>
+  <question>On the Amendment S.Amdt. 3437 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="233" source="senate.gov"
+  datetime="2012-12-27T18:06:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="37" nay="54" nv="9" present="0"/>
+  <question>On the Amendment S.Amdt. 3435 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="234" source="senate.gov"
+  datetime="2012-12-27T18:26:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="12" nay="79" nv="9" present="0"/>
+  <question>On the Amendment S.Amdt. 3436 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="235" source="senate.gov"
+  datetime="2012-12-28T09:36:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="43" nay="52" nv="5" present="0"/>
+  <question>On the Amendment S.Amdt. 3439 to H.R. 5949 (FISA Amendments Act Reauthorization Act of 2012)</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Nay</vote>
+  <result>Amendment Rejected</result>
+  <required>3/5</required>
+  </bill>
+    <bill number="5949" session="112" type="h">
+  <roll where="senate" session="112" year="2012" roll="236" source="senate.gov"
+  datetime="2012-12-28T10:05:00-05:00" updated="2014-02-17T08:55:16-05:00"
+  aye="73" nay="23" nv="4" present="0"/>
+  <question>On Passage of the Bill H.R. 5949</question>
+  <source>https://govtrack.us/congress/bills/112/hr5949</source>
+  <vote>Yea</vote>
+  <result>Bill Passed</result>
+  <required>3/5</required>
+  </bill>
+  </name>

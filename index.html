@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Anonymous #OPNSA</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Anonymous #OpNSA Operation against the unconstitutional surveillance." >
+<meta name="keywords" content="anonops, nsa, spying, paperstorm, snowden, guardian, FISA, EFF, TYT, news, anonymous, surveillance, unconstitutional, politicians, wikileaks, PRISM, xkeyscore" >
+<link href='https://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+<!--    <script type="text/javascript" src="http://www.anonmp4.com/jquery.cycle.all.min.js"></script>
+    <script type="text/javascript" src="http://www.anonmp4.com/scripts.js"></script> -->
+  <script type="text/javascript">
+    <!--
+
+    // wrap as a jQuery plugin and pass jQuery in to our anoymous function
+    (function ($) {
+        $.fn.cross = function (options) {
+            return this.each(function (i) { 
+                // cache the copy of jQuery(this) - the start image
+                var $$ = $(this);
+                
+                // get the target from the backgroundImage + regexp
+                var target = $$.css('backgroundImage').replace(/^url|[\(\)'"]/g, '');
+
+                // nice long chain: wrap img element in span
+                $$.wrap('<span style="position: relative;"></span>')
+                    // change selector to parent - i.e. newly created span
+                    .parent()
+                    // prepend a new image inside the span
+                    .prepend('<img>')
+                    // change the selector to the newly created image
+                    .find(':first-child')
+                    // set the image to the target
+                    .attr('src', target);
+
+                // the CSS styling of the start image needs to be handled
+                // differently for different browsers
+                if ($.browser.msie || $.browser.mozilla) {
+                    $$.css({
+                        'position' : 'absolute', 
+                        'left' : 0,
+                        'background' : '',
+                        'top' : this.offsetTop
+                    });
+                } else if ($.browser.opera && $.browser.version < 9.5) {
+                    // Browser sniffing is bad - however opera < 9.5 has a render bug 
+                    // so this is required to get around it we can't apply the 'top' : 0 
+                    // separately because Mozilla strips the style set originally somehow...                    
+                    $$.css({
+                        'position' : 'absolute', 
+                        'left' : 0,
+                        'background' : '',
+                        'top' : "0"
+                    });
+                } else { // Safari
+                    $$.css({
+                        'position' : 'absolute', 
+                        'left' : 0,
+                        'background' : ''
+                    });
+                }
+
+                // similar effect as single image technique, except using .animate 
+                // which will handle the fading up from the right opacity for us
+                $$.hover(function () {
+                    $$.stop().animate({
+                        opacity: 0
+                    }, 550);
+                }, function () {
+                    $$.stop().animate({
+                        opacity: 1
+                    }, 550);
+                });
+            });
+        };
+        
+    })(jQuery);
+    
+    // note that this uses the .bind('load') on the window object, rather than $(document).ready() 
+    // because .ready() fires before the images have loaded, but we need to fire *after* because
+    // our code relies on the dimensions of the images already in place.
+    $(window).bind('load', function () {
+        $('img.fade').cross();
+    });
+    
+    //-->
+    </script>
+
+    <!-- Le styles -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 20px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+	  body {
+  background: url(img/BG.jpg) no-repeat;
+  background-size: 100%;
+  background-attachment:fixed;
+  background-color:#000;
+} 
+p.h2 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal;color:#E07B22;letter-spacing:3pt;word-spacing:2pt;font-size:17px; }
+p.h22 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#ffcc66;letter-spacing:3pt;word-spacing:2pt;font-size:15px; }
+p.h222 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#dda637;letter-spacing:1pt;word-spacing:1pt;font-size:15px; }
+p.h3 { font-family: 'Rokkitt', sans-serif; color:#FFF; font-weight:100; letter-spacing:0.5pt }
+p.h44 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#fff;letter-spacing:1pt;word-spacing:1pt;font-size:14px; }
+p.h5 { font-family: 'Rokkitt', sans-serif; color:#FFF; font-weight:100; font-size:15px }
+
+
+    </style>
+<!--    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="/img/fav.ico">
+  </head>
+
+  <body>
+
+
+    <div class="container">
+
+   <p style="text-align:center"><img style="align:middle" src="img/header.png" alt="Logo" />  </p>
+   <div class="row show-grid" align="center" style="margin-bottom:10px">
+   <div class="span9" data-original-title="" title="" style="background-image:url(img/divbg-header.png); height:35px;">
+   <div style="float:right; margin:4px; margin-top:6px">
+   <a href="https://www.twitter.com/AnonymousOpNSA"><img src="img/icon-twitter.jpg" alt="Twitter"/></a>
+   <a href="https://www.youtube.com/user/AnonymousOpNSA"><img src="img/icon-youtube.jpg" alt="Youtube" /></a>
+   </div>
+   
+        <ul class="nav nav-pills">
+<li class="disabled"><a href="#"><p class="h222">HOME</p></a></li>
+    <li><a href="113_congress.xml"><p class="h222">CONGRESS</p></a></li>
+    <li><a href="videos.html"><p class="h222">VIDEOS</p></a></li>
+    <li><a href="paperstorm.html"><p class="h222">PAPERSTORM</p></a></li>
+    <li><a href="twitterstorm.html"><p class="h222">TWITTERSTORM</p></a></li>
+    <li><a href="graphics.html"><p class="h222">GRAPHICS</p></a></li>
+    <li><a href="about.html"><p class="h222">ABOUT</p></a></li>
+    </ul>
+     </div>
+       </div>
+     
+      <table width="940" border="1" style="height:236px; background-image:url(img/main.jpg); background-repeat:no-repeat; background-size:auto;">
+<tr><td>
+<div style="margin:15px; width:300px; float:left; margin-left:25px; margin-top:55px">
+ <p class="h2"><strong>PAPERSTORM</strong></p>
+  <p class="h3">Join us April 13, 2014 and June 13, 2014 in a nationwide paperstorm to bring attention to the cause of stopping the NSA!  </p>
+  <p><a href="paperstorm.html" ><font color="#CCCCCC" >Find out more information here.</font></a></p> 
+	</div> 
+        </table>
+        
+        
+         
+       <!--BREAK--><div style="margin-top:4px"></div><!--BREAK-->
+
+
+       <div class="row show-grid" align="center" >
+   <div class="span9" data-original-title="" title="" style="background-image:url(img/divbg.png); height:25px;">
+  <p class = "h44"><a href="https://nsa.anonops.com/posters/PSF2.zip">## DOWNLOAD NEW PAPERSTORM FLYERS HERE! ##</a></p>
+   </div>
+   </div>
+     
+     <!--BREAK--><div style="margin-top:4px"></div><!--BREAK-->
+        
+       
+       
+       
+       
+       <!--BREAK--><div style="margin-top:10px"></div><!--BREAK-->
+       
+  
+  <table width="940" border="0" cellspacing="5" cellpadding="5" background="img/divbg.png" style="text-align:center">
+    <tr>
+    <td>
+  <p class="h3">Welcome to Operation NSA. This is the official website entry page. Our goal is to inform the public about dirty politicians and spreading the word about the NSA's unconstitutional spying by compiling data, releasing videos, flyers, posters and organizing events through social media to bring awareness. </p>
+  
+  </td></tr></table>
+  
+<!--BREAK--><div style="margin-top:10px"></div><!--BREAK-->
+
+
+   <div class="row show-grid" align="center" >
+   <div class="span9" data-original-title="" title="" style="background-image:url(img/divbg-header.png); height:25px;">
+   <div style="float:left; margin:4px; margin-top:2px; margin-left:15px">
+  <p class="h22">LATEST NEWS:</p>
+   </div>
+   
+   
+   <div style="float:right; margin:4px; margin-top:2px; margin-left:15px">
+  <p class="h44">New Video Announcement! -- <a href="https://www.youtube.com/watch?v=89dSYg6wyVE" >Watch video.</a></p>
+   </div>
+   
+     </div>
+       </div>
+
+<!--BREAK--><div style="margin-top:10px"></div><!--BREAK-->
+    
+       <div class="row show-grid" align="center" >
+       
+
+             <div class="span4" style="background-image:url(img/divbg.png); float:left; height:210px; width:400px"> 
+       
+        <a class="twitter-timeline" href="https://twitter.com/twitterapi" data-widget-id="369616768509046784" data-theme="dark" data-link-color="#cc0000"  data-related="twitterapi,twitter" data-aria-polite="assertive" width="360" height="200" data-chrome="nofooter noborders transparent noscrollbar noheader" lang="EN">Tweets by @AnonymousOpNSA</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+       
+       </div>
+       
+       
+       
+     
+       
+       
+       <div class="span5" style="background-image:url(img/divbg.png); height:210px; width:500px; float:right"> <center><p class="h2" style="margin-top:25px">## UPCOMING EVENTS ##</p></center>
+   
+   
+   <table width="90%" border="1" bordercolordark="#666666" bordercolorlight="#666666" background="img/divbg-light.png" cellspacing="1" cellpadding="2" style="text-align:center">
+  <tr style="background-image:url(img/divbg-lighter.png)">
+    <td><p class="h22">DESCRIPTION</p></td>
+    <td><p class="h22">DATE/TIME</p></td>
+    <td><p class="h22">LOCATION</p></td>
+  </tr>
+  <tr>
+    <td><p class="h44">PaperStorm</p></td>
+    <td><p class="h44">April 13th; June 13th</p></td>
+    <td><p class="h44">EVERYWHERE!</p></td>
+  </tr>
+  <tr>
+    <td><p class="h44">TwitterStorm</p></td>
+    <td><p class="h44">June 5th</p></td>
+    <td><p class="h44">Twitter</p></td>
+  </tr>
+    <tr>
+    <td><p class="h44">Stop Watching Us Rally</p></td>
+    <td><p class="h44">October 26th</p></td>
+    <td><p class="h44"><a href="https://rally.stopwatching.us/">More Info</a></p></td>
+  </tr>
+</table>
+
+   
+
+
+
+
+       
+       </div>
+     </div>
+     
+     
+     
+        <!--BREAK--><div style="margin-top:10px"></div><!--BREAK-->
+    <div class="row show-grid" align="center" >
+   <div class="span9" data-original-title="" title="" style="background-image:url(img/divbg.png); height:20px;">
+  <p class="h44">Special thanks to the <a href="https://www.anonops.com">AnonOps</a> Network</p>
+       </div>
+     
+     </div>
+
+     
+    
+  
+       
+     
+     
+     
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/js/jquery.js"></script>
+<!--    <script src="/js/bootstrap-transition.js"></script>
+    <script src="/js/bootstrap-alert.js"></script>
+    <script src="/js/bootstrap-modal.js"></script>
+    <script src="/js/bootstrap-dropdown.js"></script>
+    <script src="/js/bootstrap-scrollspy.js"></script>
+    <script src="/js/bootstrap-tab.js"></script>
+    <script src="/js/bootstrap-tooltip.js"></script>
+    <script src="/js/bootstrap-popover.js"></script>
+    <script src="/js/bootstrap-button.js"></script>
+    <script src="/js/bootstrap-collapse.js"></script>
+    <script src="/js/bootstrap-carousel.js"></script>
+    <script src="/js/bootstrap-typeahead.js"></script> -->
+
+
+  </body>
+</html>

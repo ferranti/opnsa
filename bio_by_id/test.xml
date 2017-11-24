@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="400004" real_name="Brooks, Mo">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+				1230 Longworth House Office Building
+				Washington, D.C. 20515-0105
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-4801 </phone>
+			<fax location="Washington"> 202-225-4801 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Offices">
+				<![CDATA[ 302 Lee Street, Room 86
+				Decatur, AL 35601 
+				]]>
+        	        </address>
+			<phone location="District Office"> 256-355-9400 </phone>
+			<fax location="District Office"> 256-355-9406 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Offices">
+				<![CDATA[ 2101 West Clinton Avenue, Suite 302
+				Huntsville, AL 35805 
+				]]>
+                	</address>
+			<phone location="District Office"> 256-551-0190 </phone>
+			<fax location="District Office"> 256-551-0194 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Offices">
+				<![CDATA[ 102 South Court Street, Suite 310
+				Florence, AL 35630  
+				]]>
+	                </address>
+			<phone location="District Office"> 256-718-5155 </phone>
+			<fax location="District Office"> 256-718-5156 </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://brooks.house.gov/"/>
+		<facebook name="Facebook" url="https://www.facebook.com/pages/Mo-Brooks/105473048278"/>
+		<twitter name="Twitter" url="https://twitter.com/RepMoBrooks"> @RepMoBrooks @mointhehouse </twitter>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> Morris Jackson Brooks, Jr. </alias>
+		<born name="Born"> 29-Apr-1954 </born>
+		<birthplace name="Birthplace"> Charleston, SC </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Christian </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Politician </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BS Economics and Political Science, Duke University 1975 </university>
+		<grad_school> JD, University of Alabama 1978 </grad_school>
+		<first>  Tennessee State Official Prosecutor, Tuscaloosa County DA's Office 1978-80 </first>
+		<second> Law Clerk for Circuit Court Judge John David Snodgrass 1980-82 </second>
+		<third> Alabama State House of Representatives 18th 1982-84 </third>
+		<fourth> Alabama State House of Representatives 10th 1984-92 </fourth>
+		<fifth> Tennessee State Official Madison County District Attorney 1991-92 </fifth>
+		<sixth> Tennessee State Official Special Assistant Attorney General 1995-2002 </sixth>
+		<seventh> Tennessee State Official Madison County Commission, 5th 1996-2010 </seventh>
+		<current> US Congressman, Alabama 5th 2011-Current </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Armed Services </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Oversight and Investigations </subcommittee>
+					<subcommittee id="b"> Subcommittee on Strategic Forces </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Committee on Foreign Affairs </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Asia and the Pacific </subcommittee>
+					<subcommittee id="b"> Subcommittee on Terrorism, Nonproliferation, and Trade </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> House Committee on Science, Space, and Technology </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> Subcommittee on Research and Technology </subcommittee>
+					<subcommittee id="b"> Subcommittee on Space </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Mark Pettitt </chief>
+		<scheduler name="Scheduler"> Kelly Zams </scheduler>
+		<leg_director name="Legislative Director"> Mark Pettitt </leg_director>
+		<com_director name="Communications Director"> Lauren Vandiver </com_director>
+	</office_staff>
+</name>

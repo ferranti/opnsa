@@ -1,0 +1,7 @@
+Archive:  2000.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+   200088  03-20-2014 10:39   industries_2000.txt
+   196574  03-20-2014 10:39   contributions_2000.txt
+---------                     -------
+   396662                     2 files

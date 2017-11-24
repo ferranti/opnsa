@@ -1,0 +1,6377 @@
+
+---Begin Record---
+-------------------
+Name: Burr, Richard
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002221cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $2,250
+Total Contribution (NSA Affiliates): 2250
+Total Contribution (During Period): 298415
+Ratio = 0.753983546403
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rooney, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029018cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Huelskamp, Tim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027649cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Schock, Aaron
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029273cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: DeFazio, Peter
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007781cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 190175
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Goodlatte, Bob
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009154cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $6,999
+AT&T Broadband contributed: $1,500
+Microsoft Corp contributed: $4,500
+AT&T Inc contributed: $5,750
+National Cable & Telecommunications Assn contributed: $9,135
+Total Contribution (NSA Affiliates): 27884
+Total Contribution (During Period): 343097
+Ratio = 8.12714771624
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Johnson, Tim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00010084cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $12,000
+Total Contribution (NSA Affiliates): 12000
+Total Contribution (During Period): 978893
+Ratio = 1.22587453378
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Jeffries, Hakeem
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033640cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hatch, Orrin G
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009869cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $7,000
+Lockheed Martin contributed: $8,300
+Harris Corp contributed: $10,000
+AT&T Inc contributed: $16,000
+Total Contribution (NSA Affiliates): 41300
+Total Contribution (During Period): 1235691
+Ratio = 3.3422595131
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lofgren, Zoe
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007479cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $2,500
+Hewlett-Packard contributed: $3,500
+General Atomics contributed: $2,000
+National Cable & Telecommunications Assn contributed: $1,000
+AT&T Inc contributed: $5,750
+Microsoft Corp contributed: $1,000
+Boeing Co contributed: $1,000
+Total Contribution (NSA Affiliates): 16750
+Total Contribution (During Period): 197413
+Ratio = 8.48475024441
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Christian-Christensen, Donna
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000133cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 27300
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Ros-Lehtinen, Ileana
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002858cycle%3D1998&newMem=N&recs=100
+-------------------
+Harris Corp contributed: $2,000
+Total Contribution (NSA Affiliates): 2000
+Total Contribution (During Period): 211450
+Ratio = 0.945850082762
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sanchez, Linda
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024870cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Begich, Mark
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029901cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Simpson, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006263cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Smith, Adam
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007833cycle%3D1998&newMem=N&recs=100
+-------------------
+General Dynamics contributed: $1,500
+Lockheed Martin contributed: $1,500
+Microsoft Corp contributed: $16,300
+Boeing Co contributed: $8,450
+Total Contribution (NSA Affiliates): 27750
+Total Contribution (During Period): 456720
+Ratio = 6.07593273778
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Barber, Ron
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033981cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Barr, Andy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031233cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Portman, Rob
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003682cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 180725
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Enyart, William
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034884cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Ellison, Keith
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028257cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Miller, Gary
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006954cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Walz, Timothy J
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027467cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Klobuchar, Amy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027500cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lipinski, Daniel
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027239cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Capps, Lois
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007232cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 862402
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Costa, Jim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026341cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Barrow, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026080cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Moran, Jim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002083cycle%3D1998&newMem=N&recs=100
+-------------------
+Mantech International contributed: $14,750
+BAE Systems contributed: $2,000
+Computer Sciences Corp contributed: $2,500
+Boeing Co contributed: $2,750
+General Dynamics contributed: $4,000
+Raytheon Co contributed: $3,500
+Verizon Communications contributed: $3,000
+Total Contribution (NSA Affiliates): 32500
+Total Contribution (During Period): 460965
+Ratio = 7.05042682199
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Huizenga, Bill
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030673cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Fleming, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029679cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Blunt, Roy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005195cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $2,000
+AT&T Inc contributed: $4,500
+Boeing Co contributed: $6,500
+Total Contribution (NSA Affiliates): 13000
+Total Contribution (During Period): 389151
+Ratio = 3.3406055747
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hanna, Richard
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030197cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: DeLauro, Rosa L
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000615cycle%3D1998&newMem=N&recs=100
+-------------------
+General Dynamics contributed: $3,000
+Lockheed Martin contributed: $1,000
+AT&T Inc contributed: $3,500
+United Technologies contributed: $11,100
+Total Contribution (NSA Affiliates): 18600
+Total Contribution (During Period): 293235
+Ratio = 6.34303544938
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Diaz-Balart, Mario
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025337cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Mulvaney, Mick
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031412cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Garrett, Scott
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000743cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Honda, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00012611cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Matheson, Jim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009753cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Murphy, Christopher S
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027566cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Latta, Robert E
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00012233cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Peterson, Collin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004558cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $2,000
+Total Contribution (NSA Affiliates): 2000
+Total Contribution (During Period): 246451
+Ratio = 0.811520342786
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Granger, Kay
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00008799cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $11,250
+BAE Systems contributed: $2,500
+AT&T Inc contributed: $3,250
+Boeing Co contributed: $3,500
+General Dynamics contributed: $7,000
+Raytheon Co contributed: $2,574
+Northrop Grumman contributed: $4,000
+Total Contribution (NSA Affiliates): 34074
+Total Contribution (During Period): 423486
+Ratio = 8.04607472266
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lynch, Stephen F
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013855cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rogers, Hal
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003473cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $2,000
+General Atomics contributed: $5,000
+National Cable & Telecommunications Assn contributed: $9,999
+AT&T Inc contributed: $7,000
+AT&T Broadband contributed: $2,000
+Harris Corp contributed: $2,190
+Verizon Communications contributed: $2,000
+Boeing Co contributed: $1,000
+Total Contribution (NSA Affiliates): 31189
+Total Contribution (During Period): 242307
+Ratio = 12.8716875699
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Collins, Susan M
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000491cycle%3D1998&newMem=N&recs=100
+-------------------
+General Dynamics contributed: $5,000
+Lockheed Martin contributed: $5,000
+AT&T Inc contributed: $4,000
+United Technologies contributed: $3,000
+Total Contribution (NSA Affiliates): 17000
+Total Contribution (During Period): 579900
+Ratio = 2.93153992068
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Scott, Austin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00032457cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Denham, Jeff
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031593cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: DelBene, Suzan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030693cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Franks, Trent
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006423cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Coats, Dan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003845cycle%3D1998&newMem=N&recs=100
+-------------------
+Computer Sciences Corp contributed: $1,500
+Lockheed Martin contributed: $2,000
+United Technologies contributed: $1,000
+Northrop Grumman contributed: $1,000
+Total Contribution (NSA Affiliates): 5500
+Total Contribution (During Period): 323333
+Ratio = 1.70103268148
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lance, Leonard
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000898cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Harper, Gregg
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029632cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McAllister, Vance
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00035593cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Grassley, Chuck
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001758cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $9,000
+AT&T Inc contributed: $12,000
+National Cable & Telecommunications Assn contributed: $10,000
+Total Contribution (NSA Affiliates): 31000
+Total Contribution (During Period): 844255
+Ratio = 3.67187638806
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kuster, Ann Mclane
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030875cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Tiberi, Patrick J
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009699cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Levin, Carl
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001691cycle%3D1998&newMem=N&recs=100
+-------------------
+General Dynamics contributed: $10,000
+Lockheed Martin contributed: $15,000
+United Technologies contributed: $5,000
+Total Contribution (NSA Affiliates): 30000
+Total Contribution (During Period): 952331
+Ratio = 3.15016522617
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Brooks, Susan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033495cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bera, Ami
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030717cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Aderholt, Robert B
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003028cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $3,000
+Verizon Communications contributed: $5,500
+Lockheed Martin contributed: $3,000
+AT&T Inc contributed: $4,250
+General Atomics contributed: $2,500
+Total Contribution (NSA Affiliates): 18250
+Total Contribution (During Period): 676361
+Ratio = 2.6982632056
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Guthrie, Brett
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029675cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Capito, Shelley Moore
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009771cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kaine, Tim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033177cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hall, Ralph M
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005645cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $2,500
+United Technologies contributed: $1,000
+National Cable & Telecommunications Assn contributed: $7,694
+AT&T Inc contributed: $8,097
+Raytheon Co contributed: $6,245
+Boeing Co contributed: $2,500
+Total Contribution (NSA Affiliates): 28036
+Total Contribution (During Period): 384182
+Ratio = 7.29758291643
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hoeven, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031688cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Polis, Jared
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029127cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Blumenauer, Earl
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007727cycle%3D1998&newMem=N&recs=100
+-------------------
+Boeing Co contributed: $2,500
+Total Contribution (NSA Affiliates): 2500
+Total Contribution (During Period): 312815
+Ratio = 0.799194412033
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Griffith, Morgan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00032029cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cardenas, Tony
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033373cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Wilson, Frederica
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030650cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Reed, Jack
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000362cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $10,000
+BAE Systems contributed: $9,815
+General Dynamics contributed: $14,000
+Lockheed Martin contributed: $7,500
+AT&T Inc contributed: $12,250
+Total Contribution (NSA Affiliates): 53565
+Total Contribution (During Period): 1262269
+Ratio = 4.2435487206
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Esty, Elizabeth
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033217cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Alexander, Lamar
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009888cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pocan, Mark
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033549cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Coble, Howard
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002247cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $3,500
+National Cable & Telecommunications Assn contributed: $9,998
+AT&T Inc contributed: $6,500
+General Dynamics contributed: $6,000
+Raytheon Co contributed: $1,500
+Microsoft Corp contributed: $2,000
+Boeing Co contributed: $1,500
+Total Contribution (NSA Affiliates): 30998
+Total Contribution (During Period): 344177
+Ratio = 9.00641239827
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Davis, Rodney
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034784cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bucshon, Larry
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031227cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Blumenthal, Richard
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031685cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sanchez, Loretta
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00008274cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $5,000
+General Dynamics contributed: $4,100
+Northrop Grumman contributed: $3,500
+AT&T Inc contributed: $7,500
+General Atomics contributed: $3,000
+Total Contribution (NSA Affiliates): 23100
+Total Contribution (During Period): 724214
+Ratio = 3.18966493329
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Owens, Bill
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031011cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cantwell, Maria
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007836cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Frelinghuysen, Rodney
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000684cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $1,500
+United Technologies contributed: $2,000
+BAE Systems contributed: $4,000
+General Atomics contributed: $4,500
+Alliant Techsystems contributed: $2,000
+AT&T Inc contributed: $4,000
+General Dynamics contributed: $4,000
+Verizon Communications contributed: $3,500
+Boeing Co contributed: $3,000
+Total Contribution (NSA Affiliates): 28500
+Total Contribution (During Period): 297799
+Ratio = 9.57021346613
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Norton, Eleanor Holmes
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001692cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+Total Contribution (NSA Affiliates): 2000
+Total Contribution (During Period): 110030
+Ratio = 1.81768608561
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Grayson, Alan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028418cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Shuster, Bill
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013770cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lowey, Nita M
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001024cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $4,000
+Total Contribution (NSA Affiliates): 4000
+Total Contribution (During Period): 585088
+Ratio = 0.683657842923
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cochran, Thad
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003328cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $3,000
+Lockheed Martin contributed: $8,500
+National Cable & Telecommunications Assn contributed: $5,000
+United Technologies contributed: $3,000
+Northrop Grumman contributed: $3,675
+Total Contribution (NSA Affiliates): 23175
+Total Contribution (During Period): 762925
+Ratio = 3.03765114526
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gutierrez, Luis V
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004874cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 314050
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Clarke, Yvette D
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026961cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Long, Billy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030676cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Brownley, Julia
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034254cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: LaMalfa, Doug
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033987cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Fleischmann, Chuck
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030815cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Chabot, Steve
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003689cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $3,500
+Microsoft Corp contributed: $5,000
+AT&T Inc contributed: $7,000
+Total Contribution (NSA Affiliates): 15500
+Total Contribution (During Period): 585880
+Ratio = 2.64559295419
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Forbes, Randy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013799cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Capuano, Michael E
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000267cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Johnson, Eddie Bernice
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00008122cycle%3D1998&newMem=N&recs=100
+-------------------
+Microsoft Corp contributed: $1,000
+Lockheed Martin contributed: $4,000
+AT&T Inc contributed: $3,000
+Boeing Co contributed: $3,000
+Total Contribution (NSA Affiliates): 11000
+Total Contribution (During Period): 212943
+Ratio = 5.16570161968
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Tonko, Paul
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030196cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Schakowsky, Jan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004724cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Roberts, Pat
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005285cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $7,250
+AT&T Inc contributed: $13,290
+Boeing Co contributed: $6,250
+Total Contribution (NSA Affiliates): 26790
+Total Contribution (During Period): 930930
+Ratio = 2.8777673939
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Fitzpatrick, Michael G
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027229cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Chaffetz, Jason
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028958cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rockefeller, Jay
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001685cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $5,000
+Lockheed Martin contributed: $6,000
+AT&T Inc contributed: $6,000
+Total Contribution (NSA Affiliates): 17000
+Total Contribution (During Period): 886145
+Ratio = 1.91842192869
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Shelby, Richard C
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009920cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $14,500
+United Technologies contributed: $11,000
+AT&T Inc contributed: $21,800
+Boeing Co contributed: $12,900
+AT&T Broadband contributed: $10,000
+Raytheon Co contributed: $14,500
+General Dynamics contributed: $18,600
+Northrop Grumman contributed: $10,000
+Total Contribution (NSA Affiliates): 113300
+Total Contribution (During Period): 1498992
+Ratio = 7.55841258659
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Warren, Elizabeth
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033492cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Doyle, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001373cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $1,500
+Lockheed Martin contributed: $1,000
+General Atomics contributed: $2,000
+Northrop Grumman contributed: $1,250
+Total Contribution (NSA Affiliates): 5750
+Total Contribution (During Period): 327507
+Ratio = 1.75568766469
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Broun, Paul
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028986cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Vitter, David
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009659cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Waxman, Henry
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001861cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 191481
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Stockman, Steve
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005918cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Westmoreland, Lynn A
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026163cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McCarthy, Kevin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028152cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Murkowski, Lisa
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026050cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rush, Bobby L
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004887cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $1,500
+Lockheed Martin contributed: $1,000
+AT&T Inc contributed: $3,500
+National Cable & Telecommunications Assn contributed: $2,499
+Total Contribution (NSA Affiliates): 8499
+Total Contribution (During Period): 216238
+Ratio = 3.93039151306
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Loebsack, David
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027741cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McIntyre, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002356cycle%3D1998&newMem=N&recs=100
+-------------------
+BAE Systems contributed: $1,500
+Lockheed Martin contributed: $2,000
+General Atomics contributed: $1,500
+Total Contribution (NSA Affiliates): 5000
+Total Contribution (During Period): 321738
+Ratio = 1.55405951426
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Ruiz, Raul
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033510cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Farr, Sam
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007312cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $1,500
+AT&T Inc contributed: $3,250
+General Atomics contributed: $1,000
+Total Contribution (NSA Affiliates): 5750
+Total Contribution (During Period): 249075
+Ratio = 2.30854160393
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kelly, Robin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00035215cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Olson, Pete
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029285cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Schrader, Kurt
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030071cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Green, Gene
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005870cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $1,500
+National Cable & Telecommunications Assn contributed: $6,243
+AT&T Inc contributed: $8,000
+Boeing Co contributed: $1,500
+Total Contribution (NSA Affiliates): 17243
+Total Contribution (During Period): 361299
+Ratio = 4.77250144617
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Walden, Greg
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007690cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rohrabacher, Dana
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007151cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $3,000
+General Atomics contributed: $1,500
+Alliant Techsystems contributed: $1,500
+AT&T Inc contributed: $1,500
+Boeing Co contributed: $7,000
+Northrop Grumman contributed: $1,500
+Total Contribution (NSA Affiliates): 16000
+Total Contribution (During Period): 202436
+Ratio = 7.90373253769
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Schultz, Debbie Wasserman
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026106cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gosar, Paul
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030771cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Fudge, Marcia L
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030490cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rahall, Nick
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002198cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $3,000
+Lockheed Martin contributed: $2,000
+Total Contribution (NSA Affiliates): 5000
+Total Contribution (During Period): 274039
+Ratio = 1.82455781841
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hastings, Alcee L
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002884cycle%3D1998&newMem=N&recs=100
+-------------------
+Boeing Co contributed: $1,500
+United Technologies contributed: $3,500
+Northrop Grumman contributed: $500
+Total Contribution (NSA Affiliates): 5500
+Total Contribution (During Period): 166385
+Ratio = 3.30558644109
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hartzler, Vicky
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031005cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Wenstrup, Brad
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033310cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Flores, Bill
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031545cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McCain, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006424cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $11,000
+National Cable & Telecommunications Assn contributed: $11,394
+AT&T Inc contributed: $46,000
+Qwest Communications contributed: $8,000
+Microsoft Corp contributed: $14,750
+Raytheon Co contributed: $5,750
+Verizon Communications contributed: $26,500
+Boeing Co contributed: $16,000
+Total Contribution (NSA Affiliates): 139394
+Total Contribution (During Period): 1127218
+Ratio = 12.3661971331
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Castro, Joaquin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033316cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pitts, Joe
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001633cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+Boeing Co contributed: $1,000
+Total Contribution (NSA Affiliates): 3000
+Total Contribution (During Period): 282000
+Ratio = 1.06382978723
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Mica, John L
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002793cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $2,500
+Harris Corp contributed: $10,000
+Boeing Co contributed: $500
+Northrop Grumman contributed: $500
+Total Contribution (NSA Affiliates): 13500
+Total Contribution (During Period): 180535
+Ratio = 7.47777439278
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Langevin, Jim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009724cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Davis, Susan A
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009604cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Green, Al
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026686cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Salmon, Matt
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006446cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $2,000
+United Technologies contributed: $1,000
+AT&T Inc contributed: $2,000
+Boeing Co contributed: $5,500
+Raytheon Co contributed: $1,000
+Northrop Grumman contributed: $2,000
+Total Contribution (NSA Affiliates): 13500
+Total Contribution (During Period): 228385
+Ratio = 5.91107121746
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Isakson, Johnny
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002593cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Palazzo, Steven
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031958cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Poe, Ted
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026457cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Buchanan, Vernon
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027626cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Levin, Sander
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003950cycle%3D1998&newMem=N&recs=100
+-------------------
+General Dynamics contributed: $11,250
+Total Contribution (NSA Affiliates): 11250
+Total Contribution (During Period): 600149
+Ratio = 1.8745344906
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rothfus, Keith J
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031253cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hultgren, Randy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031104cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Fattah, Chaka
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001746cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+AT&T Inc contributed: $2,000
+Comcast Corp contributed: $1,500
+Total Contribution (NSA Affiliates): 5500
+Total Contribution (During Period): 226123
+Ratio = 2.43230454222
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lewis, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002577cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+Lockheed Martin contributed: $2,000
+AT&T Inc contributed: $1,000
+Boeing Co contributed: $1,000
+Total Contribution (NSA Affiliates): 6000
+Total Contribution (During Period): 394748
+Ratio = 1.51995703588
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Barletta, Lou
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025495cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Jackson Lee, Sheila
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005818cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+Lockheed Martin contributed: $1,000
+AT&T Inc contributed: $3,500
+Boeing Co contributed: $2,500
+Total Contribution (NSA Affiliates): 9000
+Total Contribution (During Period): 223985
+Ratio = 4.01812621381
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Richmond, Cedric
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030184cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Jordan, Jim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027894cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pompeo, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030744cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Nolan, Rick
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00021207cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hurt, Robert
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031265cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cotton, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033363cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Moore, Gwen
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026914cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kelly, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031647cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McCaskill, Claire
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027694cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Brady, Kevin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005883cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $2,000
+AT&T Inc contributed: $2,000
+Northrop Grumman contributed: $1,000
+Total Contribution (NSA Affiliates): 5000
+Total Contribution (During Period): 299005
+Ratio = 1.67221283925
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Clark, Katherine
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00035278cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cardin, Ben
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001955cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $3,000
+Total Contribution (NSA Affiliates): 3000
+Total Contribution (During Period): 319890
+Ratio = 0.937822376442
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cruz, Ted
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033085cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kline, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004436cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Desjarlais, Scott
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030957cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Braley, Bruce
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027464cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Markey, Ed
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000270cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $6,500
+AT&T Inc contributed: $2,900
+Total Contribution (NSA Affiliates): 9400
+Total Contribution (During Period): 263000
+Ratio = 3.57414448669
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Feinstein, Dianne
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007364cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $12,500
+Northrop Grumman contributed: $20,248
+Hewlett-Packard contributed: $12,480
+AT&T Inc contributed: $13,520
+General Atomics contributed: $10,000
+Total Contribution (NSA Affiliates): 68748
+Total Contribution (During Period): 1476973
+Ratio = 4.65465516296
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cohen, Steve
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003225cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Shea-Porter, Carol
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028091cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Brooks, Mo
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030910cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Stewart, Chris
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033932cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Posey, Bill
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029662cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Grimm, Michael
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031401cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: DeGette, Diana
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006134cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Broadband contributed: $4,800
+AT&T Inc contributed: $8,500
+National Cable & Telecommunications Assn contributed: $9,998
+Total Contribution (NSA Affiliates): 23298
+Total Contribution (During Period): 382502
+Ratio = 6.09094854406
+---End Record---
+
+---Begin Record---
+-------------------
+Name: King, Steven A
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025237cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kind, Ron
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004403cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 400297
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sires, Albio
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027523cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Risch, James E
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029441cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cleaver, Emanuel
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026790cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Maloney, Sean Patrick
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034277cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Chambliss, Saxby
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002685cycle%3D1998&newMem=N&recs=100
+-------------------
+BAE Systems contributed: $1,500
+Lockheed Martin contributed: $10,000
+Harris Corp contributed: $2,500
+Boeing Co contributed: $7,600
+Northrop Grumman contributed: $7,000
+Total Contribution (NSA Affiliates): 28600
+Total Contribution (During Period): 423340
+Ratio = 6.75579912127
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Duffy, Sean P
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030967cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Duckworth, Tammy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027860cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Michaud, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024770cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Young, Todd
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030670cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Johnson, Hank
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027848cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gibbs, Bob
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031128cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pelosi, Nancy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007360cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 352330
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Wicker, Roger
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003280cycle%3D1998&newMem=N&recs=100
+-------------------
+Alliant Techsystems contributed: $1,000
+Boeing Co contributed: $2,000
+Northrop Grumman contributed: $1,000
+Total Contribution (NSA Affiliates): 4000
+Total Contribution (During Period): 294300
+Ratio = 1.35915732246
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Woodall, Rob
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00032416cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sessions, Jeff
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003062cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $14,500
+AT&T Inc contributed: $10,500
+Total Contribution (NSA Affiliates): 25000
+Total Contribution (During Period): 1144906
+Ratio = 2.18358537731
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Casey, Bob
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027503cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cramer, Kevin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004614cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hanabusa, Colleen
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025881cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Black, Diane
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031539cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rogers, Mike D
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024759cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Reed, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030949cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lucas, Frank D
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005559cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $2,500
+Total Contribution (NSA Affiliates): 2500
+Total Contribution (During Period): 212543
+Ratio = 1.17623257411
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Calvert, Ken
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007099cycle%3D1998&newMem=N&recs=100
+-------------------
+Northrop Grumman contributed: $1,500
+Lockheed Martin contributed: $2,500
+AT&T Inc contributed: $3,500
+General Atomics contributed: $7,000
+Boeing Co contributed: $3,000
+Total Contribution (NSA Affiliates): 17500
+Total Contribution (During Period): 323312
+Ratio = 5.41272826248
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Terry, Lee
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005321cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Smith, Jason
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00035282cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cicilline, David
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00032019cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Graves, Sam
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013323cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Burgess, Michael
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025219cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bishop, Timothy H
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025413cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hahn, Janice
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006806cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Joyce, David P
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00035007cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Schneider, Brad
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033101cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Webster, Daniel
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026335cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Dent, Charlie
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026171cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Visclosky, Pete
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003813cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $2,000
+L-3 Communications contributed: $1,000
+United Technologies contributed: $1,000
+BAE Systems contributed: $1,500
+General Atomics contributed: $6,000
+Boeing Co contributed: $2,000
+General Dynamics contributed: $3,500
+Raytheon Co contributed: $1,750
+Northrop Grumman contributed: $2,000
+Total Contribution (NSA Affiliates): 20750
+Total Contribution (During Period): 297625
+Ratio = 6.97186056279
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Scott, Bobby
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002147cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+Boeing Co contributed: $2,000
+Lockheed Martin contributed: $1,000
+AT&T Inc contributed: $3,500
+AT&T Family Credit Union contributed: $250
+Total Contribution (NSA Affiliates): 8750
+Total Contribution (During Period): 149085
+Ratio = 5.86913505718
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Foster, Bill
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029139cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sarbanes, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027751cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Scott, David
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024871cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Maloney, Carolyn B
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000078cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,500
+Total Contribution (NSA Affiliates): 2500
+Total Contribution (During Period): 324563
+Ratio = 0.770266481392
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kingston, Jack
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002656cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $1,000
+Total Contribution (NSA Affiliates): 1000
+Total Contribution (During Period): 218955
+Ratio = 0.456714850083
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Luetkemeyer, Blaine
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030026cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Messer, Luke
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00012546cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Marchant, Kenny
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026710cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Benishek, Dan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031934cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gabbard, Tulsi
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033281cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Fincher, Steve
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031141cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Peters, Gary
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029277cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Johnson, Sam
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00008028cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+Raytheon Co contributed: $10,199
+Harris Corp contributed: $2,000
+AT&T Inc contributed: $5,688
+Boeing Co contributed: $3,000
+Total Contribution (NSA Affiliates): 22887
+Total Contribution (During Period): 313124
+Ratio = 7.30924489978
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sherman, Brad
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006897cycle%3D1998&newMem=N&recs=100
+-------------------
+Northrop Grumman contributed: $3,500
+AT&T Inc contributed: $3,500
+Boeing Co contributed: $3,500
+Total Contribution (NSA Affiliates): 10500
+Total Contribution (During Period): 573989
+Ratio = 1.82930334902
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Flake, Jeff
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009573cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hinojosa, Ruben
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006008cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $2,000
+AT&T Inc contributed: $4,000
+Total Contribution (NSA Affiliates): 6000
+Total Contribution (During Period): 483440
+Ratio = 1.24110541122
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Davis, Danny K
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004884cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $1,000
+Total Contribution (NSA Affiliates): 1000
+Total Contribution (During Period): 163631
+Ratio = 0.611131142632
+---End Record---
+
+---Begin Record---
+-------------------
+Name: King, Angus
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034580cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Boozman, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013873cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Meng, Grace
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034547cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hunter, Duncan D
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029258cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Israel, Steve
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013345cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Shaheen, Jeanne
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024790cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Schiff, Adam
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009585cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Marino, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031777cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Connolly, Gerry
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029891cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Paul, Rand
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030836cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pascrell, Bill Jr
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000751cycle%3D1998&newMem=N&recs=100
+-------------------
+Alliant Techsystems contributed: $2,750
+BAE Systems contributed: $4,250
+Verizon Communications contributed: $7,050
+Total Contribution (NSA Affiliates): 14050
+Total Contribution (During Period): 510964
+Ratio = 2.74970448016
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McMorris Rodgers, Cathy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026314cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Jenkins, Lynn
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029077cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Himes, Jim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029070cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lamborn, Douglas L
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028133cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Renacci, Jim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031127cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McConnell, Mitch
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003389cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $12,000
+AT&T Inc contributed: $12,000
+United Technologies contributed: $10,000
+Total Contribution (NSA Affiliates): 34000
+Total Contribution (During Period): 1137945
+Ratio = 2.98784211891
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gerlach, Jim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025025cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Delaney, John K
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033897cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Huffman, Jared
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033030cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Slaughter, Louise M
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001311cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $2,500
+Total Contribution (NSA Affiliates): 2500
+Total Contribution (During Period): 324548
+Ratio = 0.770302081664
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bordallo, Madeleine Z
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024866cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Thompson, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007419cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bilirakis, Gus
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027462cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pallone, Frank Jr
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000781cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $3,000
+AT&T Inc contributed: $4,250
+National Cable & Telecommunications Assn contributed: $2,695
+Total Contribution (NSA Affiliates): 9945
+Total Contribution (During Period): 526724
+Ratio = 1.88808560081
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cantor, Eric
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013131cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Noem, Kristi
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00032022cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Southerland, Steve
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031204cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lummis, Cynthia Marie
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029788cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Turner, Michael R
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025175cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Stutzman, Marlin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030891cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Garamendi, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030856cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kirkpatrick, Ann
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029260cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Barton, Joe
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005656cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Broadband contributed: $3,300
+General Dynamics contributed: $2,500
+AT&T Inc contributed: $9,000
+National Cable & Telecommunications Assn contributed: $9,998
+Lockheed Martin contributed: $11,100
+Total Contribution (NSA Affiliates): 35898
+Total Contribution (During Period): 523034
+Ratio = 6.86341614503
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cooper, Jim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003132cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Nelson, Bill
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009926cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Heck, Dennis
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031557cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Engel, Eliot L
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001003cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $7,000
+AT&T Inc contributed: $10,000
+National Cable & Telecommunications Assn contributed: $2,000
+Total Contribution (NSA Affiliates): 19000
+Total Contribution (During Period): 298858
+Ratio = 6.35753434742
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Booker, Cory
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00035267cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bustos, Cheri
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033390cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Enzi, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006249cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $5,750
+Total Contribution (NSA Affiliates): 5750
+Total Contribution (During Period): 484171
+Ratio = 1.18759694405
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Grisham, Michelle Lujan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029400cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Collins, Chris
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001285cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Conaway, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026041cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Ryan, Paul
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004357cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Young, Don
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007999cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $8,000
+AT&T Inc contributed: $3,750
+Boeing Co contributed: $2,500
+Total Contribution (NSA Affiliates): 14250
+Total Contribution (During Period): 581273
+Ratio = 2.45151589701
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Walorski, Jackie
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031226cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Yoho, Ted
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033220cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Shimkus, John M
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004961cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $4,000
+AT&T Broadband contributed: $4,000
+National Cable & Telecommunications Assn contributed: $4,152
+AT&T Inc contributed: $9,500
+General Atomics contributed: $2,000
+Total Contribution (NSA Affiliates): 23652
+Total Contribution (During Period): 385257
+Ratio = 6.13927845568
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hastings, Doc
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009157cycle%3D1998&newMem=N&recs=100
+-------------------
+Microsoft Corp contributed: $3,500
+Lockheed Martin contributed: $3,400
+AT&T Inc contributed: $2,000
+Boeing Co contributed: $6,500
+Total Contribution (NSA Affiliates): 15400
+Total Contribution (During Period): 301287
+Ratio = 5.11140540415
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Farenthold, Blake
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031672cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Miller, Candice S
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009795cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Thornberry, Mac
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006052cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $6,500
+BAE Systems contributed: $2,500
+AT&T Inc contributed: $1,500
+Boeing Co contributed: $1,500
+General Dynamics contributed: $1,500
+Raytheon Co contributed: $2,000
+Northrop Grumman contributed: $1,000
+Total Contribution (NSA Affiliates): 16500
+Total Contribution (During Period): 231789
+Ratio = 7.11854315779
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lankford, James
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031129cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Maffei, Dan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027891cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Heinrich, Martin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029835cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Dingell, John D
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001783cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $3,000
+National Cable & Telecommunications Assn contributed: $10,436
+AT&T Inc contributed: $15,000
+Verizon Communications contributed: $10,000
+AT&T Broadband contributed: $3,550
+Comcast Corp contributed: $9,750
+Total Contribution (NSA Affiliates): 51736
+Total Contribution (During Period): 640064
+Ratio = 8.08294170583
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Durbin, Dick
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004981cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $11,310
+Total Contribution (NSA Affiliates): 11310
+Total Contribution (During Period): 1177615
+Ratio = 0.960415755574
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Wagner, Ann L
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033106cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Toomey, Pat
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001489cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McClintock, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006863cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lujan, Ben R
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029562cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McDermott, Jim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009829cycle%3D1998&newMem=N&recs=100
+-------------------
+Microsoft Corp contributed: $4,500
+Boeing Co contributed: $4,500
+Total Contribution (NSA Affiliates): 9000
+Total Contribution (During Period): 187447
+Ratio = 4.80135718363
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Wyden, Ron
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007724cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $28,321
+National Cable & Telecommunications Assn contributed: $9,684
+Total Contribution (NSA Affiliates): 38005
+Total Contribution (During Period): 1641414
+Ratio = 2.31538173794
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Clyburn, James E
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002408cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $1,000
+AT&T Inc contributed: $500
+Boeing Co contributed: $1,000
+Verizon Communications contributed: $500
+Raytheon Co contributed: $500
+Northrop Grumman contributed: $500
+Total Contribution (NSA Affiliates): 4000
+Total Contribution (During Period): 209200
+Ratio = 1.9120458891
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Schumer, Charles E
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001093cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 2283554
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rigell, Scott
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030962cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Culberson, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009738cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kennedy, Joe III
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034044cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Royce, Ed
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00008264cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $1,500
+AT&T Inc contributed: $2,500
+Boeing Co contributed: $2,000
+Total Contribution (NSA Affiliates): 6000
+Total Contribution (During Period): 297423
+Ratio = 2.01732885486
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Nadler, Jerrold
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000939cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $1,000
+AT&T Inc contributed: $5,000
+Total Contribution (NSA Affiliates): 6000
+Total Contribution (During Period): 365435
+Ratio = 1.64187885671
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Inhofe, James M
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005582cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $7,000
+General Dynamics contributed: $13,500
+Lockheed Martin contributed: $18,000
+AT&T Inc contributed: $16,800
+Northrop Grumman contributed: $10,500
+Total Contribution (NSA Affiliates): 65800
+Total Contribution (During Period): 1094052
+Ratio = 6.01433935498
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sessions, Pete
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005681cycle%3D1998&newMem=N&recs=100
+-------------------
+Dell Inc contributed: $3,000
+Verizon Communications contributed: $2,500
+Raytheon Co contributed: $4,063
+AT&T Inc contributed: $7,000
+National Cable & Telecommunications Assn contributed: $2,500
+Total Contribution (NSA Affiliates): 19063
+Total Contribution (During Period): 416868
+Ratio = 4.57291036971
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Heck, Joe
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031244cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rokita, Todd
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031741cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Manchin, Joe
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00032838cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Conyers, John Jr
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004029cycle%3D1998&newMem=N&recs=100
+-------------------
+Microsoft Corp contributed: $1,000
+AT&T Inc contributed: $10,000
+Comcast Corp contributed: $1,000
+Total Contribution (NSA Affiliates): 12000
+Total Contribution (During Period): 195982
+Ratio = 6.12301129696
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Stivers, Steve
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029574cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McHenry, Patrick
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026627cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Mullin, Markwayne
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033410cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Carter, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025095cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bachus, Spencer
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00008091cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $1,500
+Total Contribution (NSA Affiliates): 1500
+Total Contribution (During Period): 348510
+Ratio = 0.430403718688
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McLeod, Gloria
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033509cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Whitehouse, Sheldon
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027533cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Whitfield, Ed
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003467cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $3,500
+AT&T Inc contributed: $5,000
+Comcast Corp contributed: $1,500
+National Cable & Telecommunications Assn contributed: $8,044
+Total Contribution (NSA Affiliates): 18044
+Total Contribution (During Period): 399070
+Ratio = 4.5215125166
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Castor, Kathy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027514cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Perry, Scott
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034120cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gohmert, Louis B Jr
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026148cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Jones, Walter B Jr
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002299cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $4,000
+BAE Systems contributed: $5,000
+Boeing Co contributed: $6,000
+AT&T Family Credit Union contributed: $2,000
+General Dynamics contributed: $6,000
+Northrop Grumman contributed: $2,000
+Total Contribution (NSA Affiliates): 25000
+Total Contribution (During Period): 322793
+Ratio = 7.74490153132
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Johanns, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029444cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Runyan, Jon
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031988cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Meeks, Gregory W
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001171cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $1,000
+Total Contribution (NSA Affiliates): 1000
+Total Contribution (During Period): 182056
+Ratio = 0.549281539746
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Boustany, Charles W Jr
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026595cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hirono, Mazie K
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028139cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lowenthal, Alan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033274cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Blackburn, Marsha
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003105cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rogers, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009668cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Van Hollen, Chris
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013820cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Grijalva, Raul M
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025284cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Meadows, Mark R
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033631cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Holt, Rush
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000860cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hensarling, Jeb
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024922cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Clay, William L Jr
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00012460cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Thune, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004572cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 293109
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Donnelly, Joe
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026586cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Tierney, John F
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000226cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 455479
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Larson, John B
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000575cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Boehner, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003675cycle%3D1998&newMem=N&recs=100
+-------------------
+Northrop Grumman contributed: $6,000
+AT&T Inc contributed: $23,000
+National Cable & Telecommunications Assn contributed: $5,000
+Total Contribution (NSA Affiliates): 34000
+Total Contribution (During Period): 1104851
+Ratio = 3.0773380302
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pearce, Steve
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00012672cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Graves, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030788cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lee, Barbara
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00008046cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $2,250
+Total Contribution (NSA Affiliates): 2250
+Total Contribution (During Period): 259330
+Ratio = 0.867620406432
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Nugent, Richard
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00032441cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bennet, Michael F
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030608cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rubio, Marco
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030612cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Amodei, Mark
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031177cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Reichert, Dave
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026885cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Crawford, Rick
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030770cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Camp, Dave
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00008086cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $3,750
+Total Contribution (NSA Affiliates): 3750
+Total Contribution (During Period): 273084
+Ratio = 1.37320384937
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kaptur, Marcy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003522cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $500
+Total Contribution (NSA Affiliates): 500
+Total Contribution (During Period): 207483
+Ratio = 0.240983598656
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Keating, Bill
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031933cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Barrasso, John A
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006236cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Smith, Chris
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009816cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+AT&T Inc contributed: $500
+Total Contribution (NSA Affiliates): 2500
+Total Contribution (During Period): 220550
+Ratio = 1.13352981183
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Corker, Bob
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027441cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pierluisi, Pedro
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029168cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Deutch, Ted
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031317cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Scott, Tim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031782cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Heller, Dean
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027522cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Roe, Phil
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028463cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Johnson, Ron
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00032546cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Issa, Darrell
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007017cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cassidy, Bill
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030245cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: DeSantis, Ron
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034746cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Ryan, Tim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025280cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Murphy, Patrick E
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033091cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Scalise, Steve
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009660cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Griffin, Tim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031297cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Roybal-Allard, Lucille
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006671cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $1,750
+AT&T Inc contributed: $1,150
+Total Contribution (NSA Affiliates): 2900
+Total Contribution (During Period): 153233
+Ratio = 1.89254272905
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Schwartz, Allyson
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001579cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Wittman, Rob
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029459cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Payne, Donald M Jr
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034639cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hoyer, Steny H
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001821cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $7,500
+Mantech International contributed: $11,000
+BAE Systems contributed: $10,000
+Computer Sciences Corp contributed: $4,175
+National Cable & Telecommunications Assn contributed: $10,000
+AT&T Inc contributed: $12,000
+Verizon Communications contributed: $4,100
+Total Contribution (NSA Affiliates): 58775
+Total Contribution (During Period): 657472
+Ratio = 8.93954419352
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Graham, Lindsey
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009975cycle%3D1998&newMem=N&recs=100
+-------------------
+Computer Sciences Corp contributed: $1,000
+Lockheed Martin contributed: $3,000
+Boeing Co contributed: $1,500
+Northrop Grumman contributed: $1,000
+General Atomics contributed: $3,500
+Total Contribution (NSA Affiliates): 10000
+Total Contribution (During Period): 240086
+Ratio = 4.16517414593
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sanford, Mark
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002424cycle%3D1998&newMem=N&recs=100
+-------------------
+General Dynamics contributed: $500
+Total Contribution (NSA Affiliates): 500
+Total Contribution (During Period): 157910
+Ratio = 0.316636058514
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McGovern, James P
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000179cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $4,500
+Raytheon Co contributed: $4,500
+AT&T Inc contributed: $2,500
+Total Contribution (NSA Affiliates): 11500
+Total Contribution (During Period): 596626
+Ratio = 1.92750567357
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Price, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026160cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Waters, Maxine
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006690cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+Northrop Grumman contributed: $5,000
+Total Contribution (NSA Affiliates): 7000
+Total Contribution (During Period): 304648
+Ratio = 2.297733778
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Heitkamp, Heidi
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033782cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Neugebauer, Randy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026043cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: O'Rourke, Beto
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033540cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Faleomavaega, Eni F H
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007632cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 7000
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Warner, Mark
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002097cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Walberg, Tim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026368cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Merkley, Jeff
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029303cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Brown, Corrine
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002713cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $2,250
+Boeing Co contributed: $1,000
+Northrop Grumman contributed: $1,500
+Total Contribution (NSA Affiliates): 4750
+Total Contribution (During Period): 373464
+Ratio = 1.27187627188
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bonamici, Suzanne
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033474cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cuellar, Henry
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024978cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McCollum, Betty
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00012942cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: LoBiondo, Frank A
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000851cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,500
+Total Contribution (NSA Affiliates): 2500
+Total Contribution (During Period): 381610
+Ratio = 0.655119100652
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bentivolio, Kerry
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033625cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Nunnelee, Alan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031006cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: King, Pete
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001193cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $3,000
+Lockheed Martin contributed: $5,000
+Northrop Grumman contributed: $1,500
+Total Contribution (NSA Affiliates): 9500
+Total Contribution (During Period): 342306
+Ratio = 2.77529461943
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hudson, Richard
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033630cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Chu, Judy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030600cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Ribble, Reid
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030968cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Takano, Mark
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006701cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Welch, Peter
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000515cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Veasey, Marc
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033839cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Smith, Lamar
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001811cycle%3D1998&newMem=N&recs=100
+-------------------
+Microsoft Corp contributed: $1,000
+Northrop Grumman contributed: $500
+AT&T Inc contributed: $4,000
+National Cable & Telecommunications Assn contributed: $2,500
+Total Contribution (NSA Affiliates): 8000
+Total Contribution (During Period): 175666
+Ratio = 4.5540969795
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Smith, Adrian
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027623cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cummings, Elijah E
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001971cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $3,100
+Comcast Corp contributed: $1,000
+Total Contribution (NSA Affiliates): 4100
+Total Contribution (During Period): 300800
+Ratio = 1.36303191489
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Massie, Thomas
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034041cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cole, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025726cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Ruppersberger, Dutch
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025482cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McCaul, Michael
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026460cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Beatty, Joyce
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033904cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Daines, Steven
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033054cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pastor, Ed
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006397cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $1,500
+Lockheed Martin contributed: $2,000
+AT&T Inc contributed: $3,250
+General Atomics contributed: $1,000
+Boeing Co contributed: $2,000
+Total Contribution (NSA Affiliates): 9750
+Total Contribution (During Period): 326200
+Ratio = 2.98896382587
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McCarthy, Carolyn
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001148cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $1,000
+Total Contribution (NSA Affiliates): 1000
+Total Contribution (During Period): 422299
+Ratio = 0.236799045226
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Edwards, Donna
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028249cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Fortenberry, Jeff
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026631cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Napolitano, Grace
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006789cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Herrera Beutler, Jaime
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031559cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Brown, Sherrod
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003535cycle%3D1998&newMem=N&recs=100
+-------------------
+National Cable & Telecommunications Assn contributed: $2,954
+Total Contribution (NSA Affiliates): 2954
+Total Contribution (During Period): 633825
+Ratio = 0.466059243482
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kildee, Dan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033395cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Swalwell, Eric
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033508cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cook, Paul
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034224cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Tester, Jon
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027605cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Walsh, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00035686cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Lee, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031696cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Byrne, Bradley
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00035380cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Thompson, Bennie G
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003288cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $1,500
+Total Contribution (NSA Affiliates): 1500
+Total Contribution (During Period): 264452
+Ratio = 0.567210684737
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Fischer, Deb
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033443cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Eshoo, Anna
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007335cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $1,500
+Hewlett-Packard contributed: $3,250
+National Cable & Telecommunications Assn contributed: $4,999
+AT&T Inc contributed: $4,256
+Verizon Communications contributed: $1,500
+AT&T Broadband contributed: $4,500
+Total Contribution (NSA Affiliates): 20005
+Total Contribution (During Period): 257539
+Ratio = 7.76775556324
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Garcia, Joe
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029908cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Latham, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004227cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+Lockheed Martin contributed: $2,000
+Total Contribution (NSA Affiliates): 4000
+Total Contribution (During Period): 268290
+Ratio = 1.49092400015
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gingrey, Phil
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024760cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gibson, Chris
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031998cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Collins, Doug
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033518cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Landrieu, Mary L
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005395cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 971383
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Harris, Andy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029147cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Thompson, Glenn
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029736cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kinzinger, Adam
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030667cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Frankel, Lois J
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002893cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Harkin, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004207cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $9,000
+AT&T Inc contributed: $10,250
+United Technologies contributed: $7,500
+Total Contribution (NSA Affiliates): 26750
+Total Contribution (During Period): 1250370
+Ratio = 2.13936674744
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cartwright, Matt
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034128cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Tipton, Scott
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027509cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Womack, Steve
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031857cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Schatz, Brian
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028138cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Ellmers, Renee
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031513cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Murray, Patty
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007876cycle%3D1998&newMem=N&recs=100
+-------------------
+Microsoft Corp contributed: $43,036
+Lockheed Martin contributed: $7,750
+AT&T Inc contributed: $10,089
+Boeing Co contributed: $24,230
+Total Contribution (NSA Affiliates): 85105
+Total Contribution (During Period): 986009
+Ratio = 8.63125995807
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McKeon, Buck
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006882cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $1,000
+Lockheed Martin contributed: $10,000
+United Technologies contributed: $1,500
+BAE Systems contributed: $5,000
+General Atomics contributed: $3,000
+AT&T Inc contributed: $5,000
+General Dynamics contributed: $1,500
+Northrop Grumman contributed: $10,000
+Boeing Co contributed: $6,500
+Total Contribution (NSA Affiliates): 43500
+Total Contribution (During Period): 375085
+Ratio = 11.5973712625
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Peters, Scott
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033591cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Ayotte, Kelly
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030980cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Roby, Martha
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030768cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Foxx, Virginia
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026166cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Schweikert, David
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006460cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bridenstine, James
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033532cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Moran, Jerry
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00005282cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,000
+Raytheon Co contributed: $3,000
+AT&T Inc contributed: $2,000
+Boeing Co contributed: $2,750
+Total Contribution (NSA Affiliates): 9750
+Total Contribution (During Period): 268662
+Ratio = 3.62909529446
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sinema, Kyrsten
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033983cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Holding, George
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033399cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Baldwin, Tammy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004367cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pingree, Chellie
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013817cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Leahy, Patrick
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009918cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $2,700
+General Dynamics contributed: $11,750
+Microsoft Corp contributed: $6,000
+Total Contribution (NSA Affiliates): 20450
+Total Contribution (During Period): 548274
+Ratio = 3.72988688138
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gowdy, Trey
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030880cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Williams, Roger
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030602cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Udall, Mark
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00008051cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Wilson, Joe
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024809cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Speier, Jackie
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029649cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Murphy, Tim
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024992cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Duncan, John J Jr
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00003209cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $2,000
+Lockheed Martin contributed: $1,750
+AT&T Inc contributed: $1,000
+Boeing Co contributed: $2,500
+Total Contribution (NSA Affiliates): 7250
+Total Contribution (During Period): 229194
+Ratio = 3.1632590731
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Labrador, Raul
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031377cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Nunes, Devin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007248cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Valadao, David
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033367cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Quigley, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030581cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Amash, Justin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031938cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Neal, Richard E
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000153cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $2,500
+Verizon Communications contributed: $3,500
+Lockheed Martin contributed: $1,000
+AT&T Inc contributed: $1,000
+United Technologies contributed: $1,500
+Total Contribution (NSA Affiliates): 9500
+Total Contribution (During Period): 264088
+Ratio = 3.59728575323
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kirk, Mark
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00012539cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Velazquez, Nydia M
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001102cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $1,500
+Total Contribution (NSA Affiliates): 1500
+Total Contribution (During Period): 254591
+Ratio = 0.589180293098
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Menendez, Robert
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000699cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $5,371
+Raytheon Co contributed: $2,500
+AT&T Inc contributed: $3,000
+Total Contribution (NSA Affiliates): 10871
+Total Contribution (During Period): 491651
+Ratio = 2.21112130353
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Serrano, Jose E
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001813cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $-500
+AT&T Inc contributed: $500
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 102435
+Ratio = 0.0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Jolly, David
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00035717cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Price, David
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002260cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $2,043
+Boeing Co contributed: $2,500
+Total Contribution (NSA Affiliates): 4543
+Total Contribution (During Period): 473767
+Ratio = 0.958910181587
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Roskam, Peter
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004719cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McNerney, Jerry
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00026926cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Cornyn, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024852cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pryor, Mark
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013823cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Carson, Andre
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029513cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Kilmer, Derek
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034453cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Miller, Jeff
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00013846cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Campbell, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027565cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Miller, George
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007390cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Carper, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00012508cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Vela, Filemon
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034349cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Franken, Al
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029016cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Yarmuth, John A
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00028073cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Courtney, Joe
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024842cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Paulsen, Erik
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029391cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Matsui, Doris O
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027459cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Weber, Randy
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033539cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rangel, Charles B
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000964cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $6,000
+AT&T Inc contributed: $5,500
+Total Contribution (NSA Affiliates): 11500
+Total Contribution (During Period): 611820
+Ratio = 1.87963780197
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Hagan, Kay R
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029617cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Coffman, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00024753cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Johnson, Bill
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00032088cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Ross, Dennis
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030645cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Pittenger, Robert
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00034416cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Crowley, Joseph
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001127cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sewell, Terri A
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030622cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Coons, Chris
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031820cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Stabenow, Debbie
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004118cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $4,500
+Boeing Co contributed: $2,000
+Total Contribution (NSA Affiliates): 6500
+Total Contribution (During Period): 499770
+Ratio = 1.30059827521
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Wolf, Frank
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002073cycle%3D1998&newMem=N&recs=100
+-------------------
+BAE Systems Information Technology contributed: $1,000
+Lockheed Martin contributed: $4,500
+BAE Systems contributed: $2,500
+Computer Sciences Corp contributed: $1,000
+AT&T Inc contributed: $3,000
+Verizon Communications contributed: $4,000
+Raytheon Co contributed: $2,000
+Harris Corp contributed: $1,000
+Northrop Grumman contributed: $1,500
+Total Contribution (NSA Affiliates): 20500
+Total Contribution (During Period): 246610
+Ratio = 8.31272048984
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Udall, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006561cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Becerra, Xavier
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009774cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $6,500
+Total Contribution (NSA Affiliates): 6500
+Total Contribution (During Period): 309042
+Ratio = 2.10327398865
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Horsford, Steven
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033638cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Larsen, Rick
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009759cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Reid, Harry
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00009922cycle%3D1998&newMem=N&recs=100
+-------------------
+National Cable & Telecommunications Assn contributed: $11,001
+Total Contribution (NSA Affiliates): 11001
+Total Contribution (During Period): 1321255
+Ratio = 0.832617473538
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Upton, Fred
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004133cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Broadband contributed: $1,000
+AT&T Inc contributed: $1,500
+National Cable & Telecommunications Assn contributed: $10,499
+Total Contribution (NSA Affiliates): 12999
+Total Contribution (During Period): 355366
+Ratio = 3.657918878
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gardner, Cory
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030780cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Yoder, Kevin
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031502cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Rice, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033832cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gallego, Pete
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00033541cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Vargas, Juan
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00007021cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Carney, John
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030736cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Petri, Tom
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004426cycle%3D1998&newMem=N&recs=100
+-------------------
+Raytheon Co contributed: $1,000
+Total Contribution (NSA Affiliates): 1000
+Total Contribution (During Period): 200749
+Ratio = 0.498134486349
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Brady, Robert A
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001619cycle%3D1998&newMem=N&recs=100
+-------------------
+BAE Systems contributed: $4,250
+Lockheed Martin contributed: $1,000
+Total Contribution (NSA Affiliates): 5250
+Total Contribution (During Period): 312406
+Ratio = 1.68050549605
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Titus, Dina
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030191cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: McKinley, David
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031681cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Doggett, Lloyd
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006023cycle%3D1998&newMem=N&recs=100
+-------------------
+BAE Systems contributed: $2,000
+AT&T Inc contributed: $3,300
+National Cable & Telecommunications Assn contributed: $2,500
+Total Contribution (NSA Affiliates): 7800
+Total Contribution (During Period): 271410
+Ratio = 2.87388084448
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Duncan, Jeff
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00030752cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sanders, Bernie
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00000528cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $500
+Total Contribution (NSA Affiliates): 500
+Total Contribution (During Period): 169356
+Ratio = 0.295236070762
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Crenshaw, Ander 
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00012739cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bachmann, Michele
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027493cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Meehan, Patrick
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031134cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Perlmutter, Edwin G
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027510cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Sensenbrenner, F James Jr
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00004291cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $5,000
+United Technologies contributed: $2,000
+Computer Sciences Corp contributed: $1,500
+General Atomics contributed: $4,500
+National Cable & Telecommunications Assn contributed: $9,999
+Alliant Techsystems contributed: $1,000
+AT&T Inc contributed: $2,500
+Harris Corp contributed: $1,000
+Boeing Co contributed: $5,000
+Total Contribution (NSA Affiliates): 32499
+Total Contribution (During Period): 185228
+Ratio = 17.5454035027
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Butterfield, G K
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027035cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Crapo, Mike
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006267cycle%3D1998&newMem=N&recs=100
+-------------------
+Verizon Communications contributed: $5,000
+AT&T Broadband contributed: $9,000
+Lockheed Martin contributed: $10,750
+AT&T Inc contributed: $8,750
+National Cable & Telecommunications Assn contributed: $10,499
+Total Contribution (NSA Affiliates): 43999
+Total Contribution (During Period): 718985
+Ratio = 6.11959915715
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Gillibrand, Kirsten
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027658cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Mikulski, Barbara A
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00001945cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $6,100
+AT&T Inc contributed: $10,650
+Boeing Co contributed: $10,500
+Verizon Communications contributed: $6,950
+Comcast Corp contributed: $8,500
+Northrop Grumman contributed: $10,000
+Total Contribution (NSA Affiliates): 52700
+Total Contribution (During Period): 813388
+Ratio = 6.47907271806
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Boxer, Barbara
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00006692cycle%3D1998&newMem=N&recs=100
+-------------------
+AT&T Inc contributed: $11,980
+Qualcomm Inc contributed: $10,500
+Total Contribution (NSA Affiliates): 22480
+Total Contribution (During Period): 1680311
+Ratio = 1.33784757703
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Higgins, Brian M
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00027060cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Tsongas, Niki
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00029026cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bass, Karen
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00031877cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bishop, Rob
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00025292cycle%3D1998&newMem=N&recs=100
+-------------------
+Total Contribution (NSA Affiliates): 0
+Total Contribution (During Period): 0
+Ratio = 0
+---End Record---
+
+---Begin Record---
+-------------------
+Name: Bishop, Sanford
+Year: 1998
+Source: https://www.opensecrets.org/politicians/contrib.php?cycle=1998&type=C&cid=N00002674cycle%3D1998&newMem=N&recs=100
+-------------------
+Lockheed Martin contributed: $4,000
+Total Contribution (NSA Affiliates): 4000
+Total Contribution (During Period): 520697
+Ratio = 0.768201084316
+---End Record---

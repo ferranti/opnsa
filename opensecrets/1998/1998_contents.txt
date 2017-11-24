@@ -1,0 +1,7 @@
+Archive:  1998.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+   194770  03-20-2014 09:41   industries_1998.txt
+   190810  03-20-2014 09:41   contributions_1998.txt
+---------                     -------
+   385580                     2 files

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="400404" real_name="Mac Thornberry">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+     2329 Rayburn House Office Building
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-3706 </phone>
+			<fax location="Washington"> 202-225-3486 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 905 South Fillmore Street, Suite 520
+Amarillo, TX 79101 
+				]]>
+        	        </address>
+			<phone location="District Office"> 806-371-8844 </phone>
+			<fax location="District Office"> 806-371-7044 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 2525 Kell Boulevard, Suite 406
+     Wichita Falls, TX 76308 
+				]]>
+                	</address>
+			<phone location="District Office"> 940-692-1700 </phone>
+			<fax location="District Office"> 940-692-0539 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://thornberry.house.gov/"/>
+		<facebook name="Facebook" url="https://www.facebook.com/repmacthornberry"/>
+		<twitter name="Twitter" url="https://twitter.com/MacTXPress"> @MacTXPress </twitter>
+		<youtube name="YouTube" url="https://www.youtube.com/user/RepMacThornberry"/>
+		<other name="foo" url="http://www.macthornberry.com/"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> William McClellan Thornberry </alias>
+		<born name="Born"> 15-Jul-1958 </born>
+		<birthplace name="Birthplace"> Clarendon, TX </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Presbyterian </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Attorney, Rancher </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university>  BA History, Texas Tech University </university>
+		<grad_school>  JD, University of Texas Law School </grad_school>
+		<additional_school> foo </additional_school>
+		<first> Congressional Staff Legislative Counsel to Tom Loeffler (1983-85) </first>
+		<second> Congressional Staff Chief of Staff to Rep. Larry Combest (1985-88) </second>
+		<third> US Official Deputy Asst. Secy. of State, Legislative Affairs (1988-89) </third>
+		<fourth> Rancher and lawyer (1989-1994)  </fourth>
+		<fifth>  US Congressman, Texas 13th (1995-present) </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Armed Services </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Tactical Air and Land Forces </subcommittee>
+					<subcommittee id="b"> Subcommittee on Intelligence, EmergingThreats and Capabilities </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Permanent Select Committee on Intelligence </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Technical and Tactical Intelligence </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Josh Martin </chief>
+		<scheduler name="Scheduler"> Lauren Hensarling </scheduler>
+		<leg_director name="Legislative Director"> Michael Seeds </leg_director>
+		<com_director name="Communications Director"> Alison Lynn </com_director>
+	</office_staff>
+</name>

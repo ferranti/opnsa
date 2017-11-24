@@ -1,0 +1,34 @@
+      body {
+        padding-top: 20px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+          body {
+  background: url(img/BG.jpg) no-repeat;
+  background-size: 100%;
+  background-attachment:fixed;
+  background-color:#000
+} 
+.h2 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal;color:#E07B22;letter-spacing:3pt;word-spacing:2pt;font-size:17px; }
+.h22 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#ffcc66;letter-spacing:3pt;word-spacing:2pt;font-size:15px; }
+.h222 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#dda637;letter-spacing:1pt;word-spacing:1pt;font-size:15px; }
+.h3 { font-family: 'Rokkitt', sans-serif; color:#FFF; font-weight:100; letter-spacing:0.5pt }
+.h44 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#fff;letter-spacing:1pt;word-spacing:1pt;font-size:14px; }
+.h5 { font-family: 'Rokkitt', sans-serif; color:#FFF; font-weight:100; font-size:15px }
+.block1 {width:550px; position: relative;}
+.block2 {
+        width: 550px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        margin: 15px;
+        margin-left: 25px
+}
+.block3 {
+        width: 300px;
+        position: absolute;
+        top: 20px;
+        left: 584px;
+        margin: 15px;
+        margin-left: 25px
+}
+
+

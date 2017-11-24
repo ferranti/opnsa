@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="412250" real_name="Gus Bilirakis">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+				2313 Rayburn House Office Building
+				Washington, D.C. 20515-0912
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-5755 </phone>
+			<fax location="Washington"> 202-225-4085 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 600 Klosterman Road, Room BB-038
+				Tarpon Springs, FL 34689-1229  
+				]]>
+        	        </address>
+			<phone location="District Office"> 727-940-5860  </phone>
+			<fax location="District Office"> 727-940-5861 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 5901 Argerian Drive, Suite 102
+    Wesley Chapel, FL 33545-4220 
+				]]>
+                	</address>
+			<phone location="District Office"> 813-501-4942 </phone>
+			<fax location="District Office"> 813-501-4944 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 7132 Little Road
+				New Port Richey, FL 34654   
+				]]>
+	                </address>
+			<phone location="District Office"> 727-232-2921  </phone>
+			<fax location="District Office"> 727-232-2923 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://bilirakis.house.gov/"/>
+		<facebook name="Facebook" url="foo"/>
+		<twitter name="Twitter" url="https://twitter.com/RepGusBilirakis"> @RepGusBilirakis </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> Gus Michael Bilirakis </alias>
+		<born name="Born"> 8-Feb-1963 </born>
+		<birthplace name="Birthplace"> Gainesville, FL </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Eastern Orthodox </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Public official </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> St. Petersburg Junior College </university>
+		<grad_school> BA Political Science, University of Florida </grad_school>
+		<additional_school>  JD, Stetson University </additional_school>
+		<first> Florida State House of Representatives </first>
+		<second>  US Congressman, Florida </second>
+		<third> foo </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Energy and Commerce </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a">  Subcommittee on Commerce, Manufacturing and Trade </subcommittee>
+					<subcommittee id="b"> Subcommittee on Environment and Economy </subcommittee>
+					<subcommittee id="b"> Subcommittee on Health </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Committee on Veterans' Affairs </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Disability Assistance and Memorial Affairs </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Elizabeth Hittos </chief>
+		<scheduler name="Scheduler"> Tim Tracy </scheduler>
+		<leg_director name="Legislative Director"> Richard Hoar </leg_director>
+		<com_director name="Communications Director"> Ian Martorana </com_director>
+	</office_staff>
+</name>

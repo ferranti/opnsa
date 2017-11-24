@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Anonymous #OPNSA - About</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Anonymous #OpNSA Operation against the unconstitutional surveillance." >
+<meta name="keywords" content="anonops, nsa, spying, paperstorm, snowden, guardian, anonymous, surveillance, unconstitutional, politicians, IRS, wikileaks, PRISM, xkeyscore, about, restorethefourth, eff, stopwatchingus" >
+<link href='http://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="./js/jquery.js"></script>
+<!--    <script type="text/javascript" src="http://www.anonmp4.com/jquery.cycle.all.min.js"></script>
+    <script type="text/javascript" src="http://www.anonmp4.com/scripts.js"></script> -->
+  <script type="text/javascript">
+    <!--
+
+    // wrap as a jQuery plugin and pass jQuery in to our anoymous function
+    (function ($) {
+        $.fn.cross = function (options) {
+            return this.each(function (i) { 
+                // cache the copy of jQuery(this) - the start image
+                var $$ = $(this);
+                
+                // get the target from the backgroundImage + regexp
+                var target = $$.css('backgroundImage').replace(/^url|[\(\)'"]/g, '');
+
+                // nice long chain: wrap img element in span
+                $$.wrap('<span style="position: relative;"></span>')
+                    // change selector to parent - i.e. newly created span
+                    .parent()
+                    // prepend a new image inside the span
+                    .prepend('<img>')
+                    // change the selector to the newly created image
+                    .find(':first-child')
+                    // set the image to the target
+                    .attr('src', target);
+
+                // the CSS styling of the start image needs to be handled
+                // differently for different browsers
+                if ($.browser.msie || $.browser.mozilla) {
+                    $$.css({
+                        'position' : 'absolute', 
+                        'left' : 0,
+                        'background' : '',
+                        'top' : this.offsetTop
+                    });
+                } else if ($.browser.opera && $.browser.version < 9.5) {
+                    // Browser sniffing is bad - however opera < 9.5 has a render bug 
+                    // so this is required to get around it we can't apply the 'top' : 0 
+                    // separately because Mozilla strips the style set originally somehow...                    
+                    $$.css({
+                        'position' : 'absolute', 
+                        'left' : 0,
+                        'background' : '',
+                        'top' : "0"
+                    });
+                } else { // Safari
+                    $$.css({
+                        'position' : 'absolute', 
+                        'left' : 0,
+                        'background' : ''
+                    });
+                }
+
+                // similar effect as single image technique, except using .animate 
+                // which will handle the fading up from the right opacity for us
+                $$.hover(function () {
+                    $$.stop().animate({
+                        opacity: 0
+                    }, 550);
+                }, function () {
+                    $$.stop().animate({
+                        opacity: 1
+                    }, 550);
+                });
+            });
+        };
+        
+    })(jQuery);
+    
+    // note that this uses the .bind('load') on the window object, rather than $(document).ready() 
+    // because .ready() fires before the images have loaded, but we need to fire *after* because
+    // our code relies on the dimensions of the images already in place.
+    $(window).bind('load', function () {
+        $('img.fade').cross();
+    });
+    
+    //-->
+    </script>
+
+    <!-- Le styles -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 20px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+	  body {
+  background: url(img/BG.jpg) no-repeat;
+  background-size: 100%;
+  background-attachment:fixed;
+  background-color:#000
+} 
+h2 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal;color:#E07B22;letter-spacing:3pt;word-spacing:2pt;font-size:17px; }
+h22 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#ffcc66;letter-spacing:3pt;word-spacing:2pt;font-size:15px; }
+h222 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#dda637;letter-spacing:1pt;word-spacing:1pt;font-size:15px; }
+h3 { font-family: 'Rokkitt', sans-serif; color:#FFF; font-weight:100; letter-spacing:0.5pt }
+h44 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#fff;letter-spacing:1pt;word-spacing:1pt;font-size:14px; }
+h5 { font-family: 'Rokkitt', sans-serif; color:#FFF; font-weight:100; font-size:15px }
+.block1 {width:550px; position: relative;}
+.block2 {
+	width: 550px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 15px;
+	margin-left: 25px
+}
+.block3 {
+	width: 300px;
+	position: absolute;
+	top: 20px;
+	left: 584px;
+	margin: 15px;
+	margin-left: 25px
+}
+
+    </style>
+<!--    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="/img/fav.ico">
+  </head>
+
+  <body>
+
+
+    <div class="container">
+
+  <p style="text-align:center"><img src="img/header.png" alt="Logo" />  </p>
+  
+   <div class="row show-grid" align="center" >
+   <div class="span9" data-original-title="" title="" style="background-image:url(img/divbg-header.png); height:35px;">
+   <div style="float:right; margin:4px; margin-top:6px">
+   <a href="http://www.twitter.com/AnonymousOpNSA"><img src="img/icon-twitter.jpg" /></a>
+   <a href="http://www.youtube.com/user/AnonymousOpNSA"><img src="img/icon-youtube.jpg" /></a>
+   </div>
+   
+        <ul class="nav nav-pills">
+    <li><a href="index.html"><h222>HOME</h222></a></li>
+    <li><a href="113_congress.xml"><h222>CONGRESS</h222></a></li>
+    <li><a href="videos.html"><h222>VIDEOS</h222></a></li>
+    <li><a href="paperstorm.html"><h222>PAPERSTORM</h222></a></li>
+    <li><a href="twitterstorm.html"><h222>TWITTERSTORM</h222></a></li>
+    <li><a href="graphics.html"><h222>GRAPHICS</h222></a></li>
+    <li class="disabled"><a href="#"><h222><u>ABOUT</u></h222></a></li>
+    </ul>
+     </div>
+       </div>
+       
+       
+        <table width="940" border="1"  background="img/divbg.png" style="height:620px;" ><br>
+<tr><td valign="top">
+
+<div class='block1'>
+
+<div class='block2'>
+  <p>
+    <h44><font style="font-size:15px" >Greetings, we are Operation NSA. It is understood that the recent exposé of the National Security Agency (NSA) has angered you. Anger caused by the realization that your elected representatives promised to vote for your best interests but changed their minds when the price was right, in favor of increased surveillance in your normal everyday life. </font></h44>
+  </p>
+
+  <p>
+    <h44><font style="font-size:15px" >There are those who say; <em>"If you have nothing to hide, you have nothing to fear." </em>However these are the same people who won't tell you any of their own personal information upon your request. Complacency of this form has made it easier for this enormous surveillance operation to come to fruition.  </font></h44>
+  </p>
+  
+    <p>
+    <h44><font style="font-size:15px" >This is why we've formed Operation NSA. An operation in charge of exposing politicians accepting bribes to vote in favor of bills that will profit their lobbying partners and thus destroy your freedom.   </font></h44>
+  </p>
+
+    <p>
+    <h44><font style="font-size:15px" >Many fear the government, but the government still fears many. It fears the educated and empowered few who are willing to say enough and act. It fears the open minded. It fears you.  </font></h44>
+  </p>
+
+    <p>
+    <h44><font style="font-size:15px" >Put some time to take action and be part of something important. The restoration of our freedom. On our site here you will be able to download posters, flyers and other graphics to share around and become more educated and aware of the corruption within our system.  </font></h44>
+  </p>
+  
+</div>
+
+<div class='block3'><center><h44>Please check out these other groups contributing to the cause:</h44>
+
+    <p>&nbsp;</p>
+    <p><img src="img/Logo-EFF.png" /></p>
+    <p>
+      <img src="img/Logo-R4th.png" /></p>
+    <p>
+      <img src="img/Logo-stopwatchingus.png" /></p>
+    <p>&nbsp;</p>
+</center></div>
+
+</div>
+
+
+
+</td></tr>
+        </table>
+       
+       
+    
+     
+      <!--BREAK--><div style="margin-top:10px"></div><!--BREAK-->
+    <div class="row show-grid" align="center" >
+   <div class="span9" data-original-title="" title="" style="background-image:url(img/divbg.png); height:20px;">
+  <h44>Special thanks to the <a href="https://www.anonops.com">AnonOps</a> Network</h44>
+       </div>
+     
+     </div>
+
+     
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/js/jquery.js"></script>
+<!--    <script src="/js/bootstrap-transition.js"></script>
+    <script src="/js/bootstrap-alert.js"></script>
+    <script src="/js/bootstrap-modal.js"></script>
+    <script src="/js/bootstrap-dropdown.js"></script>
+    <script src="/js/bootstrap-scrollspy.js"></script>
+    <script src="/js/bootstrap-tab.js"></script>
+    <script src="/js/bootstrap-tooltip.js"></script>
+    <script src="/js/bootstrap-popover.js"></script>
+    <script src="/js/bootstrap-button.js"></script>
+    <script src="/js/bootstrap-collapse.js"></script>
+    <script src="/js/bootstrap-carousel.js"></script>
+    <script src="/js/bootstrap-typeahead.js"></script> -->
+
+
+  </body>
+</html>

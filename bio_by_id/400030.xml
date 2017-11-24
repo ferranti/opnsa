@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="400030" real_name="Sanford Bishop">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+				2429 Rayburn House Office Building
+				Washington, D.C. 20515-1002
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-3631 </phone>
+			<fax location="Washington"> 202-225-2203 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 18 Ninth Street, Suite 201
+				Columbus, GA 31901 
+				]]>
+        	        </address>
+			<phone location="District Office"> 706-320-9477 </phone>
+			<fax location="District Office"> 706-320-9479 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ Albany Towers, Suite 114
+				235 Roosevelt Avenue
+				Albany, GA 31701-2640  
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> 229-439-8067  </phone>
+			<fax location="District Office"> 229-436-2099 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ City Hall Annex, Suite 302
+				268 Cherry Street
+				Macon, GA 31201  
+				]]>
+                	</address>
+			<phone location="District Office"> 478-803-2631 </phone>
+			<fax location="District Office"> 478-803-2637 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://bishop.house.gov/"/>
+		<facebook name="Facebook" url="https://www.facebook.com/sanfordbishop"/>
+		<twitter name="Twitter" url=" https://twitter.com/sanfordbishop"> @sanfordbishop </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> foo </alias>
+		<born name="Born"> February 4, 1947  </born>
+		<birthplace name="Birthplace"> Mobile, AL </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Baptist </religion>
+		<ethnicity name="Race or Ethnicity"> Black </ethnicity>
+		<occupation name="Occupation"> Army Attorney </occupation>
+		<party_affiliation name="Party Affiliation"> Democrat </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> JD, Emory College </university>
+		<grad_school> BA, Morehouse College </grad_school>
+		<additional_school> foo </additional_school>
+		<first>  Georgia State House of Representatives </first>
+		<second> Georgia State Senate </second>
+		<third> US Congressman, Georgia </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A">  House Committee on Appropriations </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Agriculture, Rural Development </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> Food and Drug Administration, and Related Agencies </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Legislative Branch </subcommittee>
+					<subcommittee id="b"> Subcommittee on Military Construction, Veterans Affairs, and Related Agencies </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Tracey Thornton </chief>
+		<scheduler name="Scheduler"> Julian Johnson </scheduler>
+		<leg_director name="Legislative Director"> Jonathan Halpern </leg_director>
+		<com_director name="Press Secretary"> Maxwell Gigle </com_director>
+	</office_staff>
+</name>

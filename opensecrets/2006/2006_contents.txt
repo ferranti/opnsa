@@ -1,0 +1,7 @@
+Archive:  2006.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+   216816  03-20-2014 13:34   contributions_2006.txt
+   222337  03-20-2014 13:34   industries_2006.txt
+---------                     -------
+   439153                     2 files

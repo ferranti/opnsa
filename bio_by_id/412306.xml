@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="412306" real_name="Pedro Pierluisi">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ 1213 Longworth HOB
+      Washington, DC 20515
+				]]>
+        	        </address>
+			<phone location="Washington"> (202) 225-2615 </phone>
+			<fax location="Washington"> (202) 225-2154 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ Edificio de Medicina Tropical
+						Avenida Juan Ponce De León
+						San Juan, PR 00901 
+				]]>
+        	        </address>
+			<phone location="District Office"> (787) 723-6333 </phone>
+			<fax location="District Office"> (787) 729-7738 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://pierluisi.house.gov/"/>
+		<facebook name="Facebook" url="http://www.facebook.com/pedropierluisi?ref=ts"/>
+		<twitter name="Twitter" url="https://twitter.com/pedropierluisi"> @pedropierluisi </twitter>
+		<youtube name="YouTube" url="http://www.youtube.com/PierluisiCongress"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> foo </alias>
+		<born name="Born"> April 26, 1959 </born>
+		<birthplace name="Birthplace"> San Juan, Puerto Rico </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> foo </religion>
+		<ethnicity name="Race or Ethnicity"> Hispanic </ethnicity>
+		<occupation name="Occupation"> Attorney </occupation>
+		<party_affiliation name="Party Affiliation"> Democratic </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BA American History, Tulane University </university>
+		<grad_school> JD, George Washington University </grad_school>
+		<additional_school> foo </additional_school>
+		<first>  Congressional Staff for PR Comissioner Baltasar Corrada de Rio </first>
+		<second> Secretary of Justice of Puerto Rico </second>
+		<third> House of Representatives, Resident Commissioner from Puerto Rico </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> Committee on Judiciary </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Crime, Terrorism, Homeland Security, and Investigations </subcommittee>
+					<subcommittee id="b"> Subcommittee on Immigration and Border Security </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> Committee on Natural Resources </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Fisheries, Wildlife, Oceans, and Insular Areas </subcommittee>
+					<subcommittee id="b"> Subcommittee on Public Lands and Environmental Regulation </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> United States House of Representatives Committee on Ethics </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Carmen M. Feliciano </chief>
+		<scheduler name="Scheduler"> John Laufer </scheduler>
+		<leg_director name="Legislative Director"> Frances K. Agosto </leg_director>
+		<com_director name="Communications Director"> foo </com_director>
+	</office_staff>
+</name>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="400616" real_name="George Butterfield">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+						2305 Rayburn House Office Building
+						Washington, D.C. 20515-3301
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-3101 </phone>
+			<fax location="Washington"> 202-225-3354 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 216 NE Nash Street, Suite B
+					Wilson, NC 27893 
+				]]>
+        	        </address>
+			<phone location="District Office"> 252-237-9816 </phone>
+			<fax location="District Office"> 252-291-0356 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 309 West 3nd Street
+						Weldon, NC 27890 
+				]]>
+                	</address>
+			<phone location="District Office"> 252-538-4123 </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ NC Mutual Building, Suite 905
+						411 West Chapel Hill Street
+						Durham, NC 27701  
+				]]>
+	                </address>
+			<phone location="District Office"> 888-874-9063 </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://butterfield.house.gov/index.html"/>
+		<facebook name="Facebook" url="https://www.facebook.com/congressmangkbutterfield"/>
+		<twitter name="Twitter" url="https://twitter.com/GKButterfield"> @gkbutterfield </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> George Kenneth Butterfield, Jr., G.K. Butterfield </alias>
+		<born name="Born"> 27-Apr-1947 </born>
+		<birthplace name="Birthplace"> Wilson, NC </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion">  Baptist </religion>
+		<ethnicity name="Race or Ethnicity"> foo </ethnicity>
+		<occupation name="Occupation"> Judge </occupation>
+		<party_affiliation name="Party Affiliation"> Democratic </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BA Sociology and Political Science, North Carolina Central University </university>
+		<grad_school> JD, North Carolina Central University School of Law </grad_school>
+		<additional_school> foo </additional_school>
+		<first> Fitch, Butterfield and Wynn Senior Partner </first>
+		<second> North Carolina State Official Resident Superior Court Judge </second>
+		<third> North Carolina State Supreme Court </third>
+		<fourth> North Carolina State Official Special Superior Court Judge </fourth>
+		<fifth> US Congressman, North Carolina 1st </fifth>
+		<sixth> United States Army from 1968 to 1970 </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Energy and Commerce </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Commerce, Manufacturing and Trade </subcommittee>
+					<subcommittee id="b"> Subcommittee on Health </subcommittee>
+					<subcommittee id="b"> Subcommittee on Oversight and Investigations </subcommittee>
+					<subcommittee id="a"> Subcommittee on Environment and the Economy </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Troy Clair </chief>
+		<scheduler name="Scheduler"> Heather Asata </scheduler>
+		<leg_director name="Legislative Director"> Saul Hernandez </leg_director>
+		<com_director name="Communications Director"> Kim Atterbury </com_director>
+	</office_staff>
+</name>

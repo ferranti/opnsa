@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"></meta>
+    <title>Anonymous #OPNSA - Main Info</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+    <meta name="description" content="Anonymous #OpNSA Operation against the unconstitutional surveillance." ></meta>
+    <meta name="keywords" content="anonops, nsa, spying, paperstorm, snowden, guardian, anonymous, surveillance, unconstitutional, politicians, IRS, wikileaks, PRISM, xkeyscore, information, about" ></meta>
+    <link href='http://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'></link>
+    <script type="text/javascript" src="../js/jquery.js"></script>
+  
+   <link href="../css/bootstrap.min.css" rel="stylesheet"></link>
+    <style>
+      body {
+        padding-top: 20px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+	  body {
+  background: url(../img/BG.jpg) no-repeat;
+  background-size: 100%;
+  background-attachment:fixed;
+  background-color:#000
+} 
+h2 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal;color:#E07B22;letter-spacing:3pt;word-spacing:2pt;font-size:17px; }
+h22 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#ffcc66;letter-spacing:3pt;word-spacing:2pt;font-size:15px; }
+h222 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#dda637;letter-spacing:1pt;word-spacing:1pt;font-size:16px; }
+h3 { font-family: 'Rokkitt', sans-serif; color:#FFF; font-weight:100; letter-spacing:0.5pt }
+h44 { font-family: 'Rokkitt', sans-serif; text-shadow:1px 1px 2px rgba(0,0,0,1);font-weight:normal; color:#fff;letter-spacing:1pt;word-spacing:1pt;font-size:14px; }
+h5 { font-family: 'Rokkitt', sans-serif; color:#FFF; font-weight:100; font-size:15px }
+.block1 {width:550px; position: relative;}
+.block2 {
+	width: 550px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 15px;
+	margin-left: 25px
+}
+.block3 {
+	width: 300px;
+	position: absolute;
+	top: 20px;
+	left: 584px;
+	margin: 15px;
+	margin-left: 25px
+}
+
+    </style>
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../ico/apple-touch-icon-144-precomposed.png"></link>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../ico/apple-touch-icon-114-precomposed.png"></link>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../ico/apple-touch-icon-72-precomposed.png"></link>
+    <link rel="apple-touch-icon-precomposed" href="../ico/apple-touch-icon-57-precomposed.png"></link>
+    <link rel="shortcut icon" href="../img/fav.ico"></link>
+  </head>
+
+  <body>
+
+
+    <div class="container">
+  <center>
+      <p>&#160;</p>
+  <p><img src="../img/header.png" alt="Logo" />  </p>
+  <a href="https://webchat.anonops.com/?channels=opNsa" style="text-decoration: none" ><h3>Talk with us on the AnonOps IRC.</h3></a></center>
+  
+   <div class="row show-grid" align="center" >
+   <div class="span9" data-original-title="" title="" style="background-image:url(../img/divbg-header.png); height:35px;">
+   <div style="float:right; margin:4px; margin-top:6px">
+   <a href="http://www.twitter.com/AnonymousOpNSA"><img src="../img/icon-twitter.jpg" /></a>
+   <a href="http://www.youtube.com/user/AnonymousOpNSA"><img src="../img/icon-youtube.jpg" /></a>
+   </div>
+   
+        <ul class="nav nav-pills">
+    <li><a href="../index.html"><h222>HOME</h222></a></li>
+    <li class="disabled"><a href="../main.html"><h222><u>INFO</u></h222></a></li>
+    <li><a href="../videos.html"><h222>VIDEOS</h222></a></li>
+    <li><a href="../paperstorm.html"><h222>PAPERSTORM</h222></a></li>
+    <li><a href="../twitterstorm.html"><h222>TWITTERSTORM</h222></a></li>
+    <li><a href="../graphics.html"><h222>GRAPHICS</h222></a></li>
+    <li><a href="../about.html"><h222>ABOUT #OpNSA</h222></a></li>
+    </ul>
+     </div>
+       </div>
+           <table width="940" border="1"  cellpadding="15" background="../img/divbg.png" >
+	<tr><td valign="top">
+	  <center><h44>Some Name</h44></center>
+	   </td></tr>
+        </table>
+     <table width="940" border="1"  cellpadding="5" background="../img/divbg.png" >
+     <tr>
+     <td><center><h44>Bill</h44></center></td>
+     <td><center><h44>Date/Time</h44></center</td>
+     <td><center><h44>Description</h44></center></td>
+     <td><center><h44>Vote</h44></center></td>
+     <td><center><h44>Result (Yay, Nay, Not Voting)</h44></center></td>
+     </tr>
+      <xsl:for-each select="catalog/cd">
+      <tr>
+        <td><h44><xsl:value-of select="bill"/></h44></td>
+        <td><h44><xsl:value-of select="date"/></h44></td>
+        <xsl:choose>
+        <xsl:when test="twitterid != 'null'">
+          <xsl:element name="a">
+            <xsl:attribute name="href">
+              <xsl:value-of select="source"/>
+            </xsl:attribute>
+          link
+          </xsl:element>
+        </xsl:when>
+        <xsl:otherwise>
+         None
+        </xsl:otherwise>
+        </xsl:choose>
+        <td><h44><xsl:value-of select="vote"/></h44></td>
+        <td><h44><xsl:value-of select="result"/> (<xsl:value-of select="roll/@aye"/>, <xsl:value-of select="roll/@nay"/>, <xsl:value-of select="roll/@nv"/>)</h44></td>
+      </tr>
+      </xsl:for-each>
+          </table>
+          
+      <!--BREAK--><div style="margin-top:10px"></div><!--BREAK-->
+    <div class="row show-grid" align="center" >
+   <div class="span9" data-original-title="" title="" style="background-image:url(../img/divbg.png); height:20px;">
+   <h44>Unless otherwise mentioned, all voting records courtesy of the fellows at <a href="https://govtrack.us">GovTrack</a> Many thanks</h44>
+   </div>
+   </div>
+    <div class="row show-grid" align="center" >
+   <div class="span9" data-original-title="" title="" style="background-image:url(../img/divbg.png); height:20px;">
+  <h44>Special thanks to the <a href="https://www.anonops.com">AnonOps</a> Network</h44>
+       </div>
+     
+     </div>
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/js/jquery.js"></script>
+
+  </body>
+</html>
+
+

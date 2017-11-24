@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="412563" real_name="Chris Collins">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+						1711 Longworth House Office Building
+						Washington, D.C. 20515-3227
+				]]>
+        	        </address>
+			<phone location="Washington"> 202-225-5265 </phone>
+			<fax location="Washington"> 202-225-5910 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[  	2813 Wehrle Drive, Suite 13
+      Williamsville, NY 14221 
+				]]>
+        	        </address>
+			<phone location="District Office"> 716-634-2324 </phone>
+			<fax location="District Office"> 716-631-7610  </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 128 Main Street, Unit 2
+      Geneseo, NY 14454  
+				]]>
+                	</address>
+			<phone location="District Office"> 585-519-4002 </phone>
+			<fax location="District Office"> foo 585-519-4009fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://chriscollins.house.gov/"/>
+		<facebook name="Facebook" url="foo"/>
+		<twitter name="Twitter" url="http://www.twitter.com/RepChrisCollins"> @RepChrisCollins </twitter>
+		<youtube name="YouTube" url="foo"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> foo </alias>
+		<born name="Born"> May 20, 1950  </born>
+		<birthplace name="Birthplace"> Schenectady, New York </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Catholic </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Small Business Owner </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BSME, North Carolina State University </university>
+		<grad_school> MBA, University of Alabama, Birmingham </grad_school>
+		<additional_school> foo </additional_school>
+		<first>  Prior to being elected to the House, Collins started multiple small businesses including Bloch Industries, Easom Automation, Innate Immunitherapeutics, Mead Supply, Oxygen Generating Systems Intl., Schlyer Machine, Volland Electric and ZeptoMetrix Corporation </first>
+		<second> United States House of Representatives representing New York's 27th Congressional District </second>
+		<third> foo </third>
+		<fourth> foo </fourth>
+		<fifth> foo </fifth>
+		<sixth> foo </sixth>
+		<seventh> foo </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> House Committee on Agriculture </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on General Farm Commodities and Risk Management </subcommittee>
+					<subcommittee id="b"> Subcommittee on Horticulture, Research, Biotechnology, and Foreign Agriculture </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> House Committee on Science, Space, and Technology </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> Subcommittee on Research and Technology </subcommittee>
+					<subcommittee id="b"> Subcommittee on Space </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> House Committee on Small Business </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> Subcommittee on Health and Technology </subcommittee>
+					<subcommittee id="b"> Subcommittee on Investigations, Oversight and Regulations </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Chris Grant </chief>
+		<scheduler name="Scheduler"> Ashley Noland </scheduler>
+		<leg_director name="Legislative Director"> Jeff Freeland </leg_director>
+		<com_director name="Communications Director"> Grant Loomis </com_director>
+	</office_staff>
+</name>

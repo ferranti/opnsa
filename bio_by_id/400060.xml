@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bio_by_id/bio.xsl"?>
+<name id="400060" real_name="Eric Cantor">
+	<addresses>
+		<location name="Washington">
+			<address location="Washington">
+				<![CDATA[ United States House of Representatives
+				  303 Cannon HOB
+      Washington, DC 20515
+				]]>
+        	        </address>
+			<phone location="Washington"> (202) 225-2815 </phone>
+			<fax location="Washington"> (202) 225-0011 </fax>
+		</location>
+		<location name="District Offices">
+			<address location="District Office">
+				<![CDATA[ 4201 Dominion Boulevard, Suite 110
+      Glen Allen, VA 23060 
+				]]>
+        	        </address>
+			<phone location="District Office"> 804-747-4073 </phone>
+			<fax location="District Office"> 804-747-5308 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ 736 Madison Road, Suite 207
+	    Culpeper, VA 22701 
+				]]>
+                	</address>
+			<phone location="District Office"> 540-825-8960 </phone>
+			<fax location="District Office"> 540-825-8964 </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo 
+				]]>
+                	</address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+		<location name="District Office">
+			<address location="District Office">
+				<![CDATA[ foo  
+				]]>
+	                </address>
+			<phone location="District Office"> foo </phone>
+			<fax location="District Office"> foo </fax>
+		</location>
+	</addresses>
+	<online_presence>
+		<homepage name="Homepage" url="http://cantor.house.gov/"/>
+		<facebook name="Facebook" url="https://www.facebook.com/ericcantor"/>
+		<twitter name="Twitter" url="https://twitter.com/EricCantor"> @EricCantor </twitter>
+		<twitter name="GOP Twitter" url="http://www.twitter.com/GOPLeader"> @GOPLeader </twitter>
+		<youtube name="YouTube" url="https://www.youtube.com/user/EricCantor"/>
+		<other name="foo" url="foo"/>
+	</online_presence>
+	<demographics>
+		<alias name="Also Known As"> Eric Ivan Cantor </alias>
+		<born name="Born"> 6-Jun-1963 </born>
+		<birthplace name="Birthplace"> Richmond, VA </birthplace>
+		<gender name="Gender"> Male </gender>
+		<religion name="Religion"> Jewish </religion>
+		<ethnicity name="Race or Ethnicity"> White </ethnicity>
+		<occupation name="Occupation"> Attorney </occupation>
+		<party_affiliation name="Party Affiliation"> Republican </party_affiliation>
+		<nationality name="Nationality"> United States </nationality>
+	</demographics>	
+	<career>
+		<university> BA, George Washington University </university>
+		<grad_school> JD, College of William and Mary </grad_school>
+		<additional_school> MS Real Estate Development, Columbia University </additional_school>
+		<first> Congressional Staff intern for Thomas J. Bliley, Jr. </first>
+		<second> US Holocaust Memorial Museum Council member </second>
+		<third> Virginia State House of Delegates </third>
+		<fourth> US Congressman, Virginia 7th </fourth>
+		<fifth> US House Majority Leader </fifth>
+		<sixth> Ethyl Corporation PAC </sixth>
+		<seventh> Freemasonry Fraternal Lodge #53 </seventh>
+		<eighth>  foo </eighth>
+		<ninth> foo </ninth>
+		<current> foo </current>
+	</career>
+	<committee_membership>
+		<committee id="1">
+			<oversight_committee id="A"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="2"> 
+			<oversight_committee id="B"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="3">
+			<oversight_committee id="C"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="4">
+			<oversight_committee id="D"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="5"> 
+			<oversight_committee id="E"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="6">
+			<oversight_committee id="F"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="7">
+			<oversight_committee id="G"> foo </oversight_committee>
+																<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+																</subcommittees>
+		</committee>
+		<committee id="8">
+			<oversight_committee id="H"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="9"> 
+			<oversight_committee id="I"> foo </oversight_committee>
+                                <subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+                                </subcommittees>
+		</committee>
+		<committee id="10">
+			<oversight_committee id="J"> foo </oversight_committee>
+				<subcommittees>
+					<subcommittee id="a"> foo </subcommittee>
+					<subcommittee id="b"> foo </subcommittee>
+				</subcommittees>
+		</committee>
+	</committee_membership>
+	<office_staff>
+		<chief name="Chief of Staff"> Kristie Way </chief>
+		<scheduler name="Scheduler"> Amy Barerra </scheduler>
+		<leg_director name="Legislative Director"> Cort Bush </leg_director>
+		<com_director name="Press Secretary"> Megan Whittemore </com_director>
+	</office_staff>
+</name>

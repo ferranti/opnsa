@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="votes.xsl"?>
+<!DOCTYPE name SYSTEM "/votes_by_id/votes.dtd">
+<name id="412571" real_name="Cartwright, Matthew (Rep.) [D-PA17]">
+  <bill number="624" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="110" source="house.gov"
+  datetime="2013-04-17T16:56:00-04:00" updated="2014-02-17T08:56:56-05:00"
+  aye="418" nay="0" nv="14" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 1 to H R 624</question>
+  <source>https://govtrack.us/congress/bills/113/hr624</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="624" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="111" source="house.gov"
+  datetime="2013-04-17T17:01:00-04:00" updated="2014-02-17T08:56:55-05:00"
+  aye="418" nay="0" nv="14" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 2 to H R 624</question>
+  <source>https://govtrack.us/congress/bills/113/hr624</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="624" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="112" source="house.gov"
+  datetime="2013-04-17T17:07:00-04:00" updated="2014-02-17T08:56:55-05:00"
+  aye="411" nay="3" nv="18" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 4 to H R 624</question>
+  <source>https://govtrack.us/congress/bills/113/hr624</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="624" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="113" source="house.gov"
+  datetime="2013-04-18T12:13:00-04:00" updated="2014-02-17T08:56:55-05:00"
+  aye="411" nay="0" nv="21" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 5 to H R 624</question>
+  <source>https://govtrack.us/congress/bills/113/hr624</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="624" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="114" source="house.gov"
+  datetime="2013-04-18T12:21:00-04:00" updated="2014-02-17T08:56:55-05:00"
+  aye="413" nay="0" nv="19" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 7 to H R 624</question>
+  <source>https://govtrack.us/congress/bills/113/hr624</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="624" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="115" source="house.gov"
+  datetime="2013-04-18T12:27:00-04:00" updated="2014-02-17T08:56:55-05:00"
+  aye="409" nay="5" nv="18" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 11 to H R 624</question>
+  <source>https://govtrack.us/congress/bills/113/hr624</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="624" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="116" source="house.gov"
+  datetime="2013-04-18T12:50:00-04:00" updated="2014-02-17T08:56:55-05:00"
+  aye="189" nay="224" nv="19" present="0"/>
+  <question>On Motion to Recommit with Instructions: H R 624 Cyber Intelligence Sharing and Protection Act</question>
+  <source>https://govtrack.us/congress/bills/113/hr624</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="624" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="117" source="house.gov"
+  datetime="2013-04-18T12:59:00-04:00" updated="2014-02-17T08:56:55-05:00"
+  aye="288" nay="127" nv="17" present="0"/>
+  <question>On Passage: H R 624 Cyber Intelligence Sharing and Protection Act</question>
+  <source>https://govtrack.us/congress/bills/113/hr624</source>
+  <vote>Nay</vote>
+  <result>Passed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="194" source="house.gov"
+  datetime="2013-06-05T17:03:00-04:00" updated="2014-02-17T08:56:41-05:00"
+  aye="167" nay="257" nv="9" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 1 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="195" source="house.gov"
+  datetime="2013-06-05T17:11:00-04:00" updated="2014-02-17T08:56:41-05:00"
+  aye="180" nay="245" nv="8" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 3 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="196" source="house.gov"
+  datetime="2013-06-05T17:16:00-04:00" updated="2014-02-17T08:56:41-05:00"
+  aye="156" nay="268" nv="9" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 5 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="197" source="house.gov"
+  datetime="2013-06-05T17:21:00-04:00" updated="2014-02-17T08:56:41-05:00"
+  aye="186" nay="236" nv="11" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 9 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="198" source="house.gov"
+  datetime="2013-06-05T17:36:00-04:00" updated="2014-02-17T08:56:41-05:00"
+  aye="190" nay="232" nv="12" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 11 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="199" source="house.gov"
+  datetime="2013-06-05T22:28:00-04:00" updated="2014-02-17T08:56:41-05:00"
+  aye="80" nay="345" nv="9" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 19 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="200" source="house.gov"
+  datetime="2013-06-05T22:34:00-04:00" updated="2014-02-17T08:56:41-05:00"
+  aye="165" nay="261" nv="8" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 20 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="201" source="house.gov"
+  datetime="2013-06-05T22:39:00-04:00" updated="2014-02-17T08:56:40-05:00"
+  aye="180" nay="247" nv="7" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 21 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="202" source="house.gov"
+  datetime="2013-06-05T22:42:00-04:00" updated="2014-02-17T08:56:40-05:00"
+  aye="50" nay="373" nv="10" present="1"/>
+  <question>On Agreeing to the Amendment: Amendment 24 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="203" source="house.gov"
+  datetime="2013-06-05T22:47:00-04:00" updated="2014-02-17T08:56:40-05:00"
+  aye="281" nay="146" nv="7" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 25 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="204" source="house.gov"
+  datetime="2013-06-05T22:51:00-04:00" updated="2014-02-17T08:56:40-05:00"
+  aye="234" nay="192" nv="8" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 27 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>No</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="205" source="house.gov"
+  datetime="2013-06-05T22:55:00-04:00" updated="2014-02-17T08:56:40-05:00"
+  aye="146" nay="280" nv="8" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 31 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="206" source="house.gov"
+  datetime="2013-06-05T23:00:00-04:00" updated="2014-02-17T08:56:40-05:00"
+  aye="148" nay="278" nv="8" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 33 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="207" source="house.gov"
+  datetime="2013-06-06T10:33:00-04:00" updated="2014-02-17T08:56:40-05:00"
+  aye="287" nay="136" nv="11" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 38 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="208" source="house.gov"
+  datetime="2013-06-06T10:41:00-04:00" updated="2014-02-17T08:56:40-05:00"
+  aye="224" nay="201" nv="9" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 40 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>No</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="209" source="house.gov"
+  datetime="2013-06-06T10:45:00-04:00" updated="2014-02-17T08:56:40-05:00"
+  aye="196" nay="225" nv="13" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 42 to H R 2217</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="210" source="house.gov"
+  datetime="2013-06-06T11:02:00-04:00" updated="2014-02-17T08:56:39-05:00"
+  aye="196" nay="226" nv="12" present="0"/>
+  <question>On Motion to Recommit with Instructions: H R 2217 Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2014, and for other purposes</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2217" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="211" source="house.gov"
+  datetime="2013-06-06T11:12:00-04:00" updated="2014-02-17T08:56:39-05:00"
+  aye="245" nay="182" nv="7" present="0"/>
+  <question>On Passage: H R 2217 Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2014, and for other purposes</question>
+  <source>https://govtrack.us/congress/bills/113/hr2217</source>
+  <vote>Nay</vote>
+  <result>Passed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="379" source="house.gov"
+  datetime="2013-07-23T18:40:00-04:00" updated="2014-02-17T08:56:17-05:00"
+  aye="50" nay="372" nv="11" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 3 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="380" source="house.gov"
+  datetime="2013-07-23T18:44:00-04:00" updated="2014-02-17T08:56:17-05:00"
+  aye="176" nay="242" nv="15" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 9 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="381" source="house.gov"
+  datetime="2013-07-23T18:48:00-04:00" updated="2014-02-17T08:56:16-05:00"
+  aye="141" nay="272" nv="20" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 13 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="382" source="house.gov"
+  datetime="2013-07-23T18:51:00-04:00" updated="2014-02-17T08:56:16-05:00"
+  aye="49" nay="372" nv="12" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 14 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="383" source="house.gov"
+  datetime="2013-07-23T18:55:00-04:00" updated="2014-02-17T08:56:16-05:00"
+  aye="93" nay="327" nv="13" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 16 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="384" source="house.gov"
+  datetime="2013-07-23T18:58:00-04:00" updated="2014-02-17T08:56:16-05:00"
+  aye="173" nay="249" nv="11" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 19 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="385" source="house.gov"
+  datetime="2013-07-23T19:02:00-04:00" updated="2014-02-17T08:56:16-05:00"
+  aye="175" nay="247" nv="11" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 22 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="386" source="house.gov"
+  datetime="2013-07-23T19:05:00-04:00" updated="2014-02-17T08:56:16-05:00"
+  aye="186" nay="237" nv="10" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 24 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="387" source="house.gov"
+  datetime="2013-07-23T19:22:00-04:00" updated="2014-02-17T08:56:16-05:00"
+  aye="283" nay="139" nv="11" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 26 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="388" source="house.gov"
+  datetime="2013-07-23T22:22:00-04:00" updated="2014-02-17T08:56:16-05:00"
+  aye="184" nay="237" nv="12" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 28 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="389" source="house.gov"
+  datetime="2013-07-23T22:28:00-04:00" updated="2014-02-17T08:56:16-05:00"
+  aye="249" nay="173" nv="11" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 29 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="390" source="house.gov"
+  datetime="2013-07-23T22:32:00-04:00" updated="2014-02-17T08:56:15-05:00"
+  aye="346" nay="79" nv="8" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 30 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="391" source="house.gov"
+  datetime="2013-07-23T22:36:00-04:00" updated="2014-02-17T08:56:15-05:00"
+  aye="150" nay="276" nv="7" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 31 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="392" source="house.gov"
+  datetime="2013-07-23T22:39:00-04:00" updated="2014-02-17T08:56:15-05:00"
+  aye="253" nay="173" nv="7" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 32 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="393" source="house.gov"
+  datetime="2013-07-23T22:44:00-04:00" updated="2014-02-17T08:56:15-05:00"
+  aye="332" nay="94" nv="7" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 33 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="394" source="house.gov"
+  datetime="2013-07-23T22:47:00-04:00" updated="2014-02-17T08:56:15-05:00"
+  aye="237" nay="189" nv="7" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 37 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="395" source="house.gov"
+  datetime="2013-07-23T22:50:00-04:00" updated="2014-02-17T08:56:15-05:00"
+  aye="333" nay="93" nv="7" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 39 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="396" source="house.gov"
+  datetime="2013-07-23T22:54:00-04:00" updated="2014-02-17T08:56:15-05:00"
+  aye="109" nay="317" nv="7" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 40 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="397" source="house.gov"
+  datetime="2013-07-23T22:57:00-04:00" updated="2014-02-17T08:56:15-05:00"
+  aye="142" nay="283" nv="8" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 41 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="398" source="house.gov"
+  datetime="2013-07-23T23:01:00-04:00" updated="2014-02-17T08:56:15-05:00"
+  aye="185" nay="238" nv="10" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 42 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="401" source="house.gov"
+  datetime="2013-07-24T14:29:00-04:00" updated="2014-02-17T08:56:14-05:00"
+  aye="177" nay="246" nv="10" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 43 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="402" source="house.gov"
+  datetime="2013-07-24T14:33:00-04:00" updated="2014-02-17T08:56:14-05:00"
+  aye="235" nay="188" nv="10" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 45 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="403" source="house.gov"
+  datetime="2013-07-24T14:38:00-04:00" updated="2014-02-17T08:56:14-05:00"
+  aye="215" nay="206" nv="12" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 49 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="404" source="house.gov"
+  datetime="2013-07-24T14:43:00-04:00" updated="2014-02-17T08:56:14-05:00"
+  aye="137" nay="286" nv="10" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 54 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="405" source="house.gov"
+  datetime="2013-07-24T14:47:00-04:00" updated="2014-02-17T08:56:14-05:00"
+  aye="238" nay="185" nv="10" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 56 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="406" source="house.gov"
+  datetime="2013-07-24T14:57:00-04:00" updated="2014-02-17T08:56:14-05:00"
+  aye="264" nay="154" nv="15" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 57 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="407" source="house.gov"
+  datetime="2013-07-24T17:22:00-04:00" updated="2014-02-17T08:56:14-05:00"
+  aye="277" nay="142" nv="14" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 59 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="408" source="house.gov"
+  datetime="2013-07-24T17:27:00-04:00" updated="2014-02-17T08:56:14-05:00"
+  aye="176" nay="242" nv="15" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 60 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="409" source="house.gov"
+  datetime="2013-07-24T17:32:00-04:00" updated="2014-02-17T08:56:14-05:00"
+  aye="187" nay="237" nv="9" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 61 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="410" source="house.gov"
+  datetime="2013-07-24T17:37:00-04:00" updated="2014-02-17T08:56:13-05:00"
+  aye="185" nay="236" nv="12" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 64 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>No</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="411" source="house.gov"
+  datetime="2013-07-24T18:47:00-04:00" updated="2014-02-17T08:56:13-05:00"
+  aye="409" nay="12" nv="12" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 69 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Agreed to</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="412" source="house.gov"
+  datetime="2013-07-24T18:51:00-04:00" updated="2014-02-17T08:56:12-05:00"
+  aye="205" nay="217" nv="12" present="0"/>
+  <question>On Agreeing to the Amendment: Amendment 70 to H R 2397</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="413" source="house.gov"
+  datetime="2013-07-24T19:15:00-04:00" updated="2014-02-17T08:56:12-05:00"
+  aye="192" nay="231" nv="10" present="0"/>
+  <question>On Motion to Recommit with Instructions: H R 2397 Making appropriations for the Department of Defense for fiscal year ending September 30, 2014, and for other purposes</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Aye</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="2397" session="113" type="h">
+  <roll where="house" session="113" year="2013" roll="414" source="house.gov"
+  datetime="2013-07-24T19:30:00-04:00" updated="2014-02-17T08:56:10-05:00"
+  aye="315" nay="109" nv="9" present="0"/>
+  <question>On Passage: H R 2397 Making appropriations for the Department of Defense for fiscal year ending September 30, 2014, and for other purposes</question>
+  <source>https://govtrack.us/congress/bills/113/hr2397</source>
+  <vote>Nay</vote>
+  <result>Passed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="413" session="113" type="hr">
+  <roll where="house" session="113" year="2013" roll="583" source="house.gov"
+  datetime="2013-11-15T10:57:00-05:00" updated="2014-02-17T08:55:45-05:00"
+  aye="225" nay="193" nv="12" present="0"/>
+  <question>On Ordering the Previous Question: H RES 413 Providing for consideration of the bill (H.R. 3350) to authorize health insurance issuers to continue to offer for sale current individual health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement, and for other purposes</question>
+  <source>https://govtrack.us/congress/bills/113/hr413</source>
+  <vote>Nay</vote>
+  <result>Passed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="413" session="113" type="hr">
+  <roll where="house" session="113" year="2013" roll="584" source="house.gov"
+  datetime="2013-11-15T11:05:00-05:00" updated="2014-02-17T08:55:45-05:00"
+  aye="228" nay="189" nv="13" present="0"/>
+  <question>On Agreeing to the Resolution: H RES 413 Providing for consideration of the bill (H.R. 3350) to authorize health insurance issuers to continue to offer for sale current individual health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement, and for other purposes</question>
+  <source>https://govtrack.us/congress/bills/113/hr413</source>
+  <vote>No</vote>
+  <result>Passed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="3362" session="113" type="h">
+  <roll where="house" session="113" year="2014" roll="22" source="house.gov"
+  datetime="2014-01-16T11:51:00-05:00" updated="2014-01-19T04:52:12-05:00"
+  aye="186" nay="226" nv="20" present="0"/>
+  <question>On Motion to Recommit with Instructions: H R 3362 To amend the Patient Protection and Affordable Care Act to require transparency in the operation of American Health Benefit Exchanges</question>
+  <source>https://govtrack.us/congress/bills/113/hr3362</source>
+  <vote>Yea</vote>
+  <result>Failed</result>
+  <required>1/2</required>
+  </bill>
+    <bill number="3362" session="113" type="h">
+  <roll where="house" session="113" year="2014" roll="23" source="house.gov"
+  datetime="2014-01-16T12:00:00-05:00" updated="2014-01-19T04:52:07-05:00"
+  aye="259" nay="154" nv="19" present="0"/>
+  <question>On Passage: H R 3362 To amend the Patient Protection and Affordable Care Act to require transparency in the operation of American Health Benefit Exchanges</question>
+  <source>https://govtrack.us/congress/bills/113/hr3362</source>
+  <vote>Nay</vote>
+  <result>Passed</result>
+  <required>1/2</required>
+  </bill>
+  </name>

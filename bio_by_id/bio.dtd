@@ -1,0 +1,108 @@
+<!ELEMENT name (addresses, online_presence, demographics, career, committee_membership, office_staff)>
+
+<!ELEMENT addresses (location+)>
+<!ELEMENT location (address+, phone+, fax*)>
+<!ELEMENT address (#PCDATA)> 
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT fax (#PCDATA)>
+
+<!ELEMENT online_presence (homepage+, facebook*, twitter*, youtube?, other*)>
+<!ELEMENT homepage (#PCDATA)> 
+<!ELEMENT facebook (#PCDATA)>
+<!ELEMENT twitter (#PCDATA)>
+<!ELEMENT youtube (#PCDATA)>
+<!ELEMENT other (#PCDATA)> 
+
+<!ELEMENT demographics (alias*, born, birthplace, gender, religion*, ethnicity+, occupation+, party_affiliation, nationality+)>
+<!ELEMENT alias (#PCDATA)>
+<!ELEMENT born (#PCDATA)>
+<!ELEMENT birthplace (#PCDATA)> 
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT religion (#PCDATA)>
+<!ELEMENT ethnicity (#PCDATA)>
+<!ELEMENT occupation (#PCDATA)> 
+<!ELEMENT party_affiliation (#PCDATA)>
+<!ELEMENT nationality (#PCDATA)>
+
+<!ELEMENT career (university?, grad_school?, additional_school, first?, second?, third?, fourth?, fifth?, sixth?, seventh?, eighth?, ninth?, current+)>
+<!ELEMENT university (#PCDATA)> 
+<!ELEMENT grad_school (#PCDATA)>
+<!ELEMENT additional_school (#PCDATA)>
+<!ELEMENT first (#PCDATA)>
+<!ELEMENT second (#PCDATA)> 
+<!ELEMENT third (#PCDATA)>
+<!ELEMENT fourth (#PCDATA)>
+<!ELEMENT fifth (#PCDATA)>
+<!ELEMENT sixth (#PCDATA)> 
+<!ELEMENT seventh (#PCDATA)>
+<!ELEMENT eighth (#PCDATA)>
+<!ELEMENT ninth (#PCDATA)>
+<!ELEMENT current (#PCDATA)> 
+
+<!ELEMENT committee_membership (committee*)>
+<!ELEMENT committee (oversight_committee+, subcommittees*)>
+<!ELEMENT oversight_committee (#PCDATA)>
+<!ELEMENT subcommittees (subcommittee+)>
+<!ELEMENT subcommittee (#PCDATA)> 
+
+<!ELEMENT office_staff (chief, scheduler, leg_director, com_director)>
+<!ELEMENT chief (#PCDATA)>
+<!ELEMENT scheduler (#PCDATA)>
+<!ELEMENT leg_director (#PCDATA)> 
+<!ELEMENT com_director (#PCDATA)>
+
+<!ATTLIST name id CDATA #REQUIRED>
+<!ATTLIST name real_name CDATA #REQUIRED>
+
+<!ATTLIST location name CDATA #REQUIRED>
+
+<!ATTLIST address location CDATA #REQUIRED>
+
+<!ATTLIST phone location CDATA #REQUIRED>
+
+<!ATTLIST fax location CDATA #REQUIRED>
+
+<!ATTLIST homepage name CDATA #REQUIRED>
+<!ATTLIST homepage url CDATA #REQUIRED>
+
+<!ATTLIST facebook name CDATA #REQUIRED>
+<!ATTLIST facebook url CDATA #REQUIRED>
+
+<!ATTLIST twitter name CDATA #REQUIRED>
+<!ATTLIST twitter url CDATA #REQUIRED>
+
+<!ATTLIST youtube name CDATA #REQUIRED>
+<!ATTLIST youtube url CDATA #IMPLIED>
+
+<!ATTLIST other name CDATA #REQUIRED>
+<!ATTLIST other url CDATA #IMPLIED>
+
+<!ATTLIST alias name CDATA #REQUIRED>
+
+<!ATTLIST born name CDATA #REQUIRED>
+
+<!ATTLIST birthplace name CDATA #REQUIRED>
+
+<!ATTLIST gender name CDATA #REQUIRED>
+
+<!ATTLIST religion name CDATA #REQUIRED>
+
+<!ATTLIST ethnicity name CDATA #REQUIRED>
+
+<!ATTLIST occupation name CDATA #REQUIRED>
+
+<!ATTLIST party_affiliation name CDATA #REQUIRED>
+
+<!ATTLIST nationality name CDATA #REQUIRED>
+
+<!ATTLIST committee id CDATA #REQUIRED>
+<!ATTLIST oversight_committee id CDATA #REQUIRED>
+<!ATTLIST subcommittee id CDATA #REQUIRED>
+
+<!ATTLIST chief name CDATA #REQUIRED>
+
+<!ATTLIST scheduler name CDATA #REQUIRED>
+
+<!ATTLIST leg_director name CDATA #REQUIRED>
+
+<!ATTLIST com_director name CDATA #REQUIRED>
